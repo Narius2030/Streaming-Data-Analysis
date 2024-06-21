@@ -2,7 +2,7 @@ from typing import Any
 from pyspark.sql import SparkSession
 from pyspark.sql.types import StructType, StringType, IntegerType 
 from pyspark.sql.functions import *
-from pyspark.ml.feature import StringIndexer, HashingTF, IDF,Tokenizer, VectorIndexer
+from pyspark.ml.feature import StringIndexer, HashingTF, IDF,Tokenizer, VectorIndexer, StopWordsRemover
 
 class TransformText():
     def __init__(self, spark:SparkSession, data_path:str) -> None:
@@ -51,7 +51,39 @@ class TransformText():
     
     def vectorindex_transform(self, tweets, inputCol:str, maxCategories:int=4) -> DataFrame:
         featureIndexer = VectorIndexer(inputCol=inputCol, 
-                                       outputCol="indexedFeatures", 
+                                       outputCol="indexed_features", 
                                        maxCategories=maxCategories).fit(tweets)
         vectorized_tweets = featureIndexer.transform(tweets)
         return vectorized_tweets
+    
+class CleanText():
+    def __init__(self, tweets) -> None:
+        self.tweets = tweets
+    
+    def get_stopwords(self, path:str) -> list:
+        stopwords = []
+        with open(file=path, mode='r') as file:
+            try:
+                stopwords = file.readlines()
+                for idx, word in enumerate(stopwords):
+                    stopwords[idx] = word[:len(word)-1:]
+            except Exception as ex:
+                print(ex)
+        return stopwords
+    
+    def remove_stopwords(self, stopwords:list, inputCol:str) -> DataFrame:
+        temp = self.tweets.withColumn('tokens', split('content', ' '))
+        remover = StopWordsRemover(stopWords=stopwords, inputCol='tokens', outputCol="stop")
+        temp = remover.transform(self.tweets).select('*', array_join("stop", " ").alias("content"))
+        return temp
+    
+    def remove_redudance(self, inputCol:str):
+        temp = temp.withColumn(
+            f'cleaned_{inputCol}', 
+            translate(inputCol, '!"#$%&\'()*+,-./:;<=>?@[\\]^_{|}~', '')
+        )
+        temp = temp.withColumn(
+            f'cleaned_{inputCol}',
+            regexp_replace(regexp_replace(f'cleaned_{inputCol}', "[^\x00-\x7F]+", ""), '""', '')
+        )
+        return temp
