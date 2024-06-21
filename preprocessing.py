@@ -6,15 +6,16 @@ from pyspark.ml.feature import StringIndexer, HashingTF, IDF,Tokenizer, VectorIn
 
 class TransformText():
     def __init__(self) -> None:
-        self.tweets = None
+        pass
                 
     def data_loader(self, schema, spark:SparkSession, data_path:str):
-        self.tweets = spark.read.option("header", True) \
+        tweets = spark.read.option("header", True) \
                 .schema(schema) \
                 .csv(data_path)
+        return tweets
     
-    def transform(self):
-        tweets = self.clean_data(self.tweets, 'content')
+    def transform(self, tweets):
+        tweets = self.clean_data(tweets, 'content')
         tweets = self.clean_data(tweets, 'sentiment')
         encoded_tweets = self.label_encoder(tweets, 'sentiment', 'sentiment_label')
         tfidf_tweets = self.tfidf_transform(encoded_tweets, 'content', 20)
@@ -52,16 +53,19 @@ class TransformText():
                                        maxCategories=maxCategories).fit(tweets)
         vectorized_tweets = featureIndexer.transform(tweets)
         return vectorized_tweets
-    
+
+
+
 class CleanText():
-    def __init__(self, tweets=None) -> None:
-        self.tweets = tweets
+    def __init__(self, outputCol:list|str) -> None:
+        self.outputCol = outputCol
     
-    def transform(self):
+    def transform(self, tweets):
         stopwords = self.get_stopwords('./data/stopword_en.txt')
-        temp = self.remove_stopwords(self.tweets, stopwords, 'content')
-        temp = self.remove_redudance(self.tweets, 'content')
-        return temp
+        temp = self.remove_stopwords(tweets, stopwords, 'content')
+        temp = temp.select(*self.outputCol)
+        temp = self.remove_redudance(temp, 'content')
+        return temp.select(*self.outputCol, array_join("stop", " "))
     
     def get_stopwords(self, path:str) -> list:
         stopwords = []
@@ -77,7 +81,7 @@ class CleanText():
     def remove_stopwords(self, tweets, stopwords:list, inputCol:str) -> DataFrame:
         temp = tweets.withColumn('tokens', split(inputCol, ' '))
         remover = StopWordsRemover(stopWords=stopwords, inputCol='tokens', outputCol="stop")
-        temp = remover.transform(temp).select('*', array_join("stop", " ").alias("content"))
+        temp = remover.transform(temp).select('*', array_join("stop", " ").alias(inputCol))
         return temp
     
     def remove_redudance(self, tweets, inputCol:str):
