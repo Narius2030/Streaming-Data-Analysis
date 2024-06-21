@@ -63,7 +63,6 @@ class CleanText():
     def transform(self, tweets):
         stopwords = self.get_stopwords('./data/stopword_en.txt')
         temp = self.remove_stopwords(tweets, stopwords, 'content')
-        temp = temp.select(*self.outputCol)
         temp = self.remove_redudance(temp, 'content')
         return temp.select(*self.outputCol, array_join("stop", " "))
     
@@ -81,7 +80,7 @@ class CleanText():
     def remove_stopwords(self, tweets, stopwords:list, inputCol:str) -> DataFrame:
         temp = tweets.withColumn('tokens', split(inputCol, ' '))
         remover = StopWordsRemover(stopWords=stopwords, inputCol='tokens', outputCol="stop")
-        temp = remover.transform(temp).select('*', array_join("stop", " ").alias(inputCol))
+        temp = remover.transform(temp).select(*self.outputCol, array_join("stop", " ").alias(inputCol))
         return temp
     
     def remove_redudance(self, tweets, inputCol:str):
