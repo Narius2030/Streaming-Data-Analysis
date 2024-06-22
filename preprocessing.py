@@ -5,8 +5,9 @@ from pyspark.sql.functions import *
 from pyspark.ml.feature import StringIndexer, HashingTF, IDF,Tokenizer, VectorIndexer, StopWordsRemover
 
 class TransformText():
-    def __init__(self) -> None:
-        pass
+    def __init__(self, label:str, context_col:str) -> None:
+        self.label = label
+        self.context_col = context_col
                 
     def data_loader(self, schema, spark:SparkSession, data_path:str):
         tweets = spark.read.option("header", True) \
@@ -15,12 +16,11 @@ class TransformText():
         return tweets
     
     def transform(self, tweets):
-        tweets = self.clean_data(tweets, 'content')
-        tweets = self.clean_data(tweets, 'sentiment')
-        encoded_tweets = self.label_encoder(tweets, 'sentiment', 'sentiment_label')
-        tfidf_tweets = self.tfidf_transform(encoded_tweets, 'content', 20)
-        vectorized_tweets = self.vectorindex_transform(tfidf_tweets, 'features', 4)
-        return vectorized_tweets
+        tweets = self.clean_data(tweets, self.context_col)
+        tweets = self.clean_data(tweets, self.label)
+        encoded_tweets = self.label_encoder(tweets, self.label, f'{self.label}_label')
+        tfidf_tweets = self.tfidf_transform(encoded_tweets, self.context_col, 20)
+        return tfidf_tweets
     
     def label_encoder(self, tweets, inputCol:str, outputCol:str) -> DataFrame:
         # .setHandleInvalid('skip')
@@ -46,25 +46,19 @@ class TransformText():
         idf = IDF(inputCol="raw_features", outputCol="features")
         tfidf_tweets = idf.fit(featurized_data).transform(featurized_data)
         return tfidf_tweets
-    
-    def vectorindex_transform(self, tweets, inputCol:str, maxCategories:int=4) -> DataFrame:
-        featureIndexer = VectorIndexer(inputCol=inputCol, 
-                                       outputCol="indexed_features", 
-                                       maxCategories=maxCategories).fit(tweets)
-        vectorized_tweets = featureIndexer.transform(tweets)
-        return vectorized_tweets
 
 
 
 class CleanText():
-    def __init__(self, outputCol:list|str) -> None:
+    def __init__(self, outputCol:list|str, target:str=None) -> None:
         self.outputCol = outputCol
+        self.target = target
     
     def transform(self, tweets):
         stopwords = self.get_stopwords('./data/stopword_en.txt')
         temp = self.remove_stopwords(tweets, stopwords, 'content')
-        temp = self.remove_redudance(temp, 'content')
-        return temp.select(*self.outputCol, array_join("stop", " "))
+        result = self.remove_redudance(temp, 'content')
+        return result
     
     def get_stopwords(self, path:str) -> list:
         stopwords = []
