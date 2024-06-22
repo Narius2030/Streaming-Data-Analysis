@@ -86,4 +86,8 @@ class CleanText():
             f'cleaned_{inputCol}',
             regexp_replace(regexp_replace(f'cleaned_{inputCol}', "[^\x00-\x7F]+", ""), '""', '')
         )
+        temp = temp.withColumn(
+            f'cleaned_{inputCol}',
+            lower("cleaned_content")
+        )
         return temp
