@@ -1,5 +1,6 @@
 import datetime
 import json
+import sys
 import requests
 import socket
 import pandas as pd
@@ -39,7 +40,7 @@ def create_url(url, params, verbose:bool=True) -> str:
     return query_url
 
 def get_response_json(url, params, headers, data, verbose:bool=True) -> dict:
-    search_url = create_url(url, params)
+    search_url = create_url(url, params, verbose)
     resp = requests.get(search_url, headers=headers, stream=True)
     if verbose:
         print(f"---> Endpoint Response Code: {str(resp.status_code)}")
@@ -70,10 +71,10 @@ def get_response_csv(data:dict, save:bool=False, path:str=None):
         df.to_csv(path)
     return df
 
-def get_movies(url, params, headers):
+def get_movies(url, params, headers, resp) -> dict:
     for page in tqdm(range(1, 6)):
         params['page'] = page
-        resp = get_response_json(url, params, headers, resp)
+        resp = get_response_json(url, params, headers, resp, verbose=False)
     return resp
         
 if __name__ == "__main__":
@@ -91,14 +92,16 @@ if __name__ == "__main__":
         with conn:
             print("Connected... Starting getting movies.")
             while True:
-                recieve_data = conn.recv(1024)
+                recieve_data = conn.recv(4096)
                 if not recieve_data:
                     break
                 print(recieve_data.decode('utf-8'))
                 url = "https://api.themoviedb.org/3/discover/movie?"
                 resp = {'results': []}
-                movies_data = get_movies(url, params, headers)
-                conn.send("Hello I am Server".encode('utf-8'))
+                movies_data = get_movies(url, params, headers, resp)
+                encoded_movies_data = json.dumps(movies_data).encode()
+                conn.send(encoded_movies_data)
+                print("Number of bytes: ", sys.getsizeof(encoded_movies_data))
             print("Connected... got movies successfully.")
     
     # with open('./data/tmdb.json', 'w') as f:
