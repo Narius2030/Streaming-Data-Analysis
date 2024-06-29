@@ -3,13 +3,28 @@ import json
 import requests
 import socket
 import pandas as pd
-# from tqdm import tqdm
+from tqdm import tqdm
+
+
+# params = {
+#     'include_adult': 'false',
+#     'include_video': 'false',
+#     'language': 'en-US',
+#     'page': page,
+#     'sort_by': 'popularity.desc'
+# }
+# headers = {
+#     "accept": "application/json",
+#     "Authorization": f"Bearer {bearer_token}"
+# }
 
 # Replace with your actual Twitter API credentials (keep these secret)
 with open('./config.json', mode='r') as f:
     json_obj = json.loads(f.read())
     api_key = json_obj['API_KEY']
     bearer_token = json_obj['BEARER_TOKEN']
+    params = json_obj['params']
+    headers = json_obj['headers']
 
 def create_url(url, params, verbose:bool=True) -> str:
     """params: [(include_adult, false),
@@ -23,7 +38,7 @@ def create_url(url, params, verbose:bool=True) -> str:
         print('Query String: ', query_url)
     return query_url
 
-def get_response(url, params, headers, data, verbose:bool=True) -> dict:
+def get_response_json(url, params, headers, data, verbose:bool=True) -> dict:
     search_url = create_url(url, params)
     resp = requests.get(search_url, headers=headers, stream=True)
     if verbose:
@@ -41,7 +56,7 @@ def get_response(url, params, headers, data, verbose:bool=True) -> dict:
         
     return data
     
-def get_movies_data(data:dict, save:bool=False, path:str=None):
+def get_response_csv(data:dict, save:bool=False, path:str=None):
     results = data['results']
     columns = [k for k in results[0].keys()]
     content = []
@@ -54,38 +69,40 @@ def get_movies_data(data:dict, save:bool=False, path:str=None):
     if save:
         df.to_csv(path)
     return df
+
+def get_movies(url, params, headers):
+    for page in tqdm(range(1, 6)):
+        params['page'] = page
+        resp = get_response_json(url, params, headers, resp)
+    return resp
         
 if __name__ == "__main__":
     TCP_IP = "localhost"
-    TCP_PORT = 9009
+    TCP_PORT = 65432
     conn = None
-    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-    s.bind((TCP_IP, TCP_PORT))
-    s.listen(1)
-    print("Waiting for TCP connection...")
-    conn, addr = s.accept()
-    print("Connected... Starting getting movies.")
     
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+        s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+        s.bind((TCP_IP, TCP_PORT))
+        s.listen(1)
+        print("Waiting for TCP connection...")
+        conn, addr = s.accept()
+
+        with conn:
+            print("Connected... Starting getting movies.")
+            while True:
+                recieve_data = conn.recv(1024)
+                if not recieve_data:
+                    break
+                print(recieve_data.decode('utf-8'))
+                url = "https://api.themoviedb.org/3/discover/movie?"
+                resp = {'results': []}
+                movies_data = get_movies(url, params, headers)
+                conn.send("Hello I am Server".encode('utf-8'))
+            print("Connected... got movies successfully.")
     
-    url = "https://api.themoviedb.org/3/discover/movie?"
-    resp = {'results': []}
-    for page in range(1, 11):
-        params = {
-            'include_adult': 'false',
-            'include_video': 'false',
-            'language': 'en-US',
-            'page': page,
-            'sort_by': 'popularity.desc'
-        }
-        headers = {
-            "accept": "application/json",
-            "Authorization": f"Bearer {bearer_token}"
-        }
-        resp = get_response(url, params, headers, resp)
-    
-    with open('./data/tmdb.json', 'w') as f:
-        json.dump(resp, f)
-    with open('./data/tmdb.json', 'r') as f:
-        data = json.load(f)
-        get_movies_data(data, save=True, path="./data/tmdb.csv")
+    # with open('./data/tmdb.json', 'w') as f:
+    #     json.dump(resp, f)
+    # with open('./data/tmdb.json', 'r') as f:
+    #     data = json.load(f)
+    #     get_response_csv(data, save=True, path="./data/tmdb.csv")
