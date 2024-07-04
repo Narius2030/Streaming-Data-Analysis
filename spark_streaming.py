@@ -1,19 +1,29 @@
-from pyspark import SparkConf,SparkContext
-from pyspark.streaming import StreamingContext
-from pyspark.sql import Row,SQLContext
-import sys
-import requests
-import re
+from pyspark.sql import SparkSession
 
-# create spark configuration
-conf = SparkConf()
-conf.setAppName("TwitterStreamApp")
-# create spark instance with the above configuration
-sc = SparkContext(conf=conf)
-sc.setLogLevel("ERROR")
-# creat the Streaming Context from the above spark context with window size 2 seconds
-ssc = StreamingContext(sc, 2)
-# setting a checkpoint to allow RDD recovery
-ssc.checkpoint("checkpoint_TwitterApp")
-# read data from port 9009
-dataStream = ssc.socketTextStream("localhost", 9009)
+spark = SparkSession \
+    .builder \
+    .appName("Streaming Socket movie data") \
+    .master("local[*]") \
+    .getOrCreate()
+
+print(spark)
+
+streaming_df = spark.readStream \
+    .format("socket") \
+    .option("host", "localhost") \
+    .option("port", "9999") \
+    .load()
+    
+# Check the schema
+print(streaming_df.printSchema())
+
+# Write the output to console sink to check the output
+writing_df = streaming_df.writeStream \
+    .format("console") \
+    .outputMode("update") \
+    .start()
+
+# Start the streaming application to run until the following happens
+# 1. Exception in the running program
+# 2. Manual Interruption
+writing_df.awaitTermination()

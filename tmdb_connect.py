@@ -79,29 +79,27 @@ def get_movies(url, params, headers, resp) -> dict:
         
 if __name__ == "__main__":
     TCP_IP = "localhost"
-    TCP_PORT = 65432
+    TCP_PORT = 9999
     conn = None
     
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
         s.bind((TCP_IP, TCP_PORT))
-        s.listen(1)
+        s.listen(5)
         print("Waiting for TCP connection...")
         conn, addr = s.accept()
 
         with conn:
             print("Connected... Starting getting movies.")
-            while True:
-                recieve_data = conn.recv(4096)
-                if not recieve_data:
-                    break
-                print(recieve_data.decode('utf-8'))
-                url = "https://api.themoviedb.org/3/discover/movie?"
-                resp = {'results': []}
-                movies_data = get_movies(url, params, headers, resp)
-                encoded_movies_data = json.dumps(movies_data).encode()
-                conn.send(encoded_movies_data)
-                print("Number of bytes: ", sys.getsizeof(encoded_movies_data))
+
+            url = "https://api.themoviedb.org/3/discover/movie?"
+            resp = {'results': []}
+            movies_data = get_movies(url, params, headers, resp)
+            
+            encoded_movies_data = json.dumps(movies_data).encode()
+            conn.send(encoded_movies_data)
+            print("Number of bytes after sent: ", sys.getsizeof(encoded_movies_data))
+                
             print("Connected... got movies successfully.")
     
     # with open('./data/tmdb.json', 'w') as f:
@@ -109,3 +107,10 @@ if __name__ == "__main__":
     # with open('./data/tmdb.json', 'r') as f:
     #     data = json.load(f)
     #     get_response_csv(data, save=True, path="./data/tmdb.csv")
+    
+    ## WARNING: 
+                # while True:
+                # recieve_data = conn.recv(65118)
+                # if not recieve_data:
+                #     break
+                # print(recieve_data.decode('utf-8'))
