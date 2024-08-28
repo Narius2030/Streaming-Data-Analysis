@@ -1,0 +1,39 @@
+version: "3.1"
+
+services:
+  # airflow:
+  #   image: airflow:2.9.1
+  #   volumes:
+  #     - ./airflow:/opt/airflow
+  #   ports:
+  #     - "8081:8080"
+  #   command: airflow standalone
+
+  # mongo:
+  #   image: mongo
+  #   container_name: mongodb
+  #   ports:
+  #     - 27018:27017
+  #   environment:
+  #     MONGO_INITDB_ROOT_USERNAME: admin
+  #     MONGO_INITDB_ROOT_PASSWORD: nhanbui
+  #   volumes:
+  #     - ./data/mongodb/:/data/mongodb/
+
+  zookeeper:
+    image: wurstmeister/zookeeper:latest
+    ports:
+      - "2181:2181"
+
+  kafka:
+    image: wurstmeister/kafka:latest
+    ports:
+      - "9092:9092"
+    expose:
+      - "9093"
+    environment:
+      KAFKA_ADVERTISED_LISTENERS: INSIDE://kafka:9093,OUTSIDE://localhost:9092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: INSIDE:PLAINTEXT,OUTSIDE:PLAINTEXT
+      KAFKA_LISTENERS: INSIDE://0.0.0.0:9093,OUTSIDE://0.0.0.0:9092
+      KAFKA_INTER_BROKER_LISTENER_NAME: INSIDE
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
