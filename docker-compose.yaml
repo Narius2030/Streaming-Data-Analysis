@@ -2,7 +2,7 @@ version: "3.1"
 
 services:
   # airflow:
-  #   image: airflow:2.9.1
+  #   image: airflow:latest
   #   volumes:
   #     - ./airflow:/opt/airflow
   #   ports:
@@ -13,7 +13,7 @@ services:
   #   image: mongo
   #   container_name: mongodb
   #   ports:
-  #     - 27018:27017
+  #     - 27017:27017
   #   environment:
   #     MONGO_INITDB_ROOT_USERNAME: admin
   #     MONGO_INITDB_ROOT_PASSWORD: nhanbui
@@ -27,15 +27,15 @@ services:
 
   kafka-broker-1:
     image: wurstmeister/kafka:latest
-    mem_limit: '3g'
+    mem_limit: '4g'
     ports:
       - "9092:9092"
     expose:
       - "9093"
     environment:
-      KAFKA_BROKER_ID: 0
+      KAFKA_BROKER_ID: 1
       KAFKA_ADVERTISED_LISTENERS: INSIDE://:9093,OUTSIDE://localhost:9092
-      KAFKA_LISTENERS: INSIDE://:9093,OUTSIDE://:9092
+      KAFKA_LISTENERS: INSIDE://:9093,OUTSIDE://localhost:9092
       KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: INSIDE:PLAINTEXT,OUTSIDE:PLAINTEXT
       KAFKA_INTER_BROKER_LISTENER_NAME: INSIDE
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
@@ -48,9 +48,9 @@ services:
   #   expose:
   #     - "9095"
   #   environment:
-  #     KAFKA_BROKER_ID: 1
+  #     KAFKA_BROKER_ID: 2
   #     KAFKA_ADVERTISED_LISTENERS: INSIDE://:9095,OUTSIDE://172.28.0.2:9094
-  #     KAFKA_LISTENERS: INSIDE://:9095,OUTSIDE://:9094
+  #     KAFKA_LISTENERS: INSIDE://:9095,OUTSIDE://localhost:9094
   #     KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: INSIDE:PLAINTEXT,OUTSIDE:PLAINTEXT
   #     KAFKA_INTER_BROKER_LISTENER_NAME: INSIDE
   #     KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
