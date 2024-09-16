@@ -1,0 +1,6 @@
+elasticsearch
+pandas
+polars
+pyspark
+requests
+kafka-python
