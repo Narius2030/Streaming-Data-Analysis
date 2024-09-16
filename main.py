@@ -1,44 +1,28 @@
-from functions.KafkaComponent import Consumer
-import time
-import json
-from datetime import datetime
+from elasticsearch import Elasticsearch
 
+client = Elasticsearch(
+  hosts="https://1bb948ea706f49129cedb435f9951d06.asia-southeast1.gcp.elastic-cloud.com:443",
+  api_key="YUUyMC1KRUJDQlJXa2FMWlVZNDk6UHMtZmRUQ3NUQmkyZzBZT2twUmV4dw==",
+  # ca_certs="./http_ca.crt",
+  # verify_certs=True
+)
 
-def write_logs(message, path, bonus):
-    # Filter value
-    for _, datas in message.items():
-        # print(datas)
-        with open(path, 'w') as file:
-            for data in datas: 
-                value = data.value.decode('utf-8')
-                value = json.loads(value)
-                file.write(f'{value} - {datetime.now()} - {bonus}')
+# API key should have cluster monitor rights
+client.info()
 
-def example(topic):
-    tasks = [
-        Consumer(topic=topic, group_id='nhom-01' ,bonus='writed from Consumer-01 Group-id-01-01\n', path='./logs/log01.txt', cond=write_logs),
-        Consumer(topic=topic, group_id='nhom-02', bonus='writed from Consumer-02 Group-id-02-01\n', path='./logs/log02.txt', cond=write_logs)
-    ]
+documents = [
+  { "index": { "_index": "supermarket-sales", "_id": "9780553351927"}},
+  {"name": "Snow Crash", "author": "Neal Stephenson", "release_date": "1992-06-01", "page_count": 470, "_extract_binary_content": True, "_reduce_whitespace": True, "_run_ml_inference": True},
+  { "index": { "_index": "supermarket-sales", "_id": "9780441017225"}},
+  {"name": "Revelation Space", "author": "Alastair Reynolds", "release_date": "2000-03-15", "page_count": 585, "_extract_binary_content": True, "_reduce_whitespace": True, "_run_ml_inference": True},
+  { "index": { "_index": "supermarket-sales", "_id": "9780451524935"}},
+  {"name": "1984", "author": "George Orwell", "release_date": "1985-06-01", "page_count": 328, "_extract_binary_content": True, "_reduce_whitespace": True, "_run_ml_inference": True},
+  { "index": { "_index": "supermarket-sales", "_id": "9781451673319"}},
+  {"name": "Fahrenheit 451", "author": "Ray Bradbury", "release_date": "1953-10-15", "page_count": 227, "_extract_binary_content": True, "_reduce_whitespace": True, "_run_ml_inference": True},
+  { "index": { "_index": "supermarket-sales", "_id": "9780060850524"}},
+  {"name": "Brave New World", "author": "Aldous Huxley", "release_date": "1932-06-01", "page_count": 268, "_extract_binary_content": True, "_reduce_whitespace": True, "_run_ml_inference": True},
+  { "index": { "_index": "supermarket-sales", "_id": "9780385490818"}},
+  {"name": "The Handmaid's Tale", "author": "Margaret Atwood", "release_date": "1985-06-01", "page_count": 311, "_extract_binary_content": True, "_reduce_whitespace": True, "_run_ml_inference": True},
+]
 
-    # Start threads of a publisher/producer and a subscriber/consumer to 'my-topic' Kafka topic
-    for t in tasks:
-        t.start()
-
-    time.sleep(20)
-
-    # Stop threads
-    for task in tasks:
-        task.stop()
-
-    for task in tasks:
-        task.join()
-    
-    print("Thread of Consumber has stopped.")
-    
-    
-if __name__=='__main__':
-    # topic and producer
-    topic_name='demo-02'
-    
-    # run main
-    example(topic_name)
+client.bulk(operations=documents, pipeline="ent-search-generic-ingestion")
