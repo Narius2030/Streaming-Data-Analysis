@@ -23,8 +23,7 @@ class Producer(threading.Thread):
         while not self.stop_event.is_set():
             for page in range(1,6):
                 data, key = self.function(page)
-                # print(type(data), type(key))
-                producer.send(self.topic, value={'data': data}, key=str(key))
+                producer.send(self.topic, value={'data': data}, key=f"page_{str(key)}")
                 
         producer.close()
     

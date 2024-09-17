@@ -14,7 +14,6 @@ Create a consumer:
 docker exec -it movie-streaming-kafka-broker-1-1 /opt/kafka/bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic topic-test --from-beginning
 
 
-
 ########## CLUSTER (ON DOCKER) ##########
 
 Create a topic:
