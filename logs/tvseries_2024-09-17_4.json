@@ -2,63 +2,24 @@
     "data": [
         {
             "adult": false,
-            "backdrop_path": "/vK3reGUkyx8kYgG3votZfIoOGWB.jpg",
+            "backdrop_path": "/prpUCDAO8blJCReEICbpGBUNwA3.jpg",
             "genre_ids": [
-                10764
+                10766,
+                18
             ],
-            "id": 8106,
+            "id": 6647,
             "origin_country": [
-                "GB"
+                "US"
             ],
             "original_language": "en",
-            "original_name": "Homes Under the Hammer",
-            "overview": "Homes Under the Hammer is a British renovation and auction series that originally screened on BBC One as part of the BBC's morning television schedule, the series has been running since 2003. Its main presenters are Lucy Alexander and Martin Roberts, although in series three Marc Woodward and Jasmine Birtles alternated presenting duties with Alexander and Roberts. The series is the BBC's most successful show in the 10:00am slot, regularly attaining a 30% market share for new episodes.",
-            "popularity": 783.965,
-            "poster_path": "/8oqAkf0SgVSn3rVgcZ34rAABztU.jpg",
-            "first_air_date": "2003-11-17",
-            "name": "Homes Under the Hammer",
-            "vote_average": 4.2,
-            "vote_count": 5
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/fqUAB9GEBEYpAh4aNURzpJ80k6X.jpg",
-            "genre_ids": [
-                99
-            ],
-            "id": 78201,
-            "origin_country": [
-                "JP"
-            ],
-            "original_language": "en",
-            "original_name": "Journeys in Japan",
-            "overview": "Journeys in Japan provides an eye-opening look at the many unique places to visit in Japan. English-speaking visitors travel the length of the country, exploring the culture, meeting the local people, visiting historic sites and offering travel hints rarely found in guidebooks.",
-            "popularity": 724.137,
-            "poster_path": "/9y6cze7R5skd1DSg7jTrfzv0IYH.jpg",
-            "first_air_date": "2010-02-02",
-            "name": "Journeys in Japan",
-            "vote_average": 9.0,
-            "vote_count": 1
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/9Gj33rlZRbBkuPUTrjPJbmtlEBa.jpg",
-            "genre_ids": [
-                10764
-            ],
-            "id": 108466,
-            "origin_country": [
-                "NO"
-            ],
-            "original_language": "no",
-            "original_name": "Alle mot alle",
-            "overview": "",
-            "popularity": 708.156,
-            "poster_path": "/qmOYqF2ezHT1leCE91Mdm6tu3Vl.jpg",
-            "first_air_date": "2020-08-31",
-            "name": "Alle mot alle",
-            "vote_average": 8.0,
-            "vote_count": 1
+            "original_name": "The Bold and the Beautiful",
+            "overview": "Continuing drama combining romance and intrigue set against the glittering backdrop of Beverly Hills and the American fashion industry.",
+            "popularity": 700.546,
+            "poster_path": "/8EzeAbyorB9vE0dnzMg0cyqSm8E.jpg",
+            "first_air_date": "1987-03-23",
+            "name": "The Bold and the Beautiful",
+            "vote_average": 5.626,
+            "vote_count": 131
         },
         {
             "adult": false,
@@ -82,28 +43,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/oyZWiPvumwSYMrF2XbZH6yXQZ14.jpg",
-            "genre_ids": [
-                35,
-                9648,
-                80
-            ],
-            "id": 107113,
-            "origin_country": [
-                "US"
-            ],
-            "original_language": "en",
-            "original_name": "Only Murders in the Building",
-            "overview": "Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one.",
-            "popularity": 474.746,
-            "poster_path": "/bZubW4eLAk2zqk44fSWRDTFfcba.jpg",
-            "first_air_date": "2021-08-31",
-            "name": "Only Murders in the Building",
-            "vote_average": 8.3,
-            "vote_count": 1381
-        },
-        {
-            "adult": false,
             "backdrop_path": "/n9u72dPMB1e3IpgN3LHRaons6gw.jpg",
             "genre_ids": [
                 10764
@@ -124,6 +63,27 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/2tMeSoqZZOvssRVd30XvVAhiNaU.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 229480,
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "\uc190\ud574 \ubcf4\uae30 \uc2eb\uc5b4\uc11c",
+            "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
+            "popularity": 645.791,
+            "poster_path": "/ygmJUf1cCmdye5eyKqLxHsxAJDS.jpg",
+            "first_air_date": "2024-08-26",
+            "name": "No Gain No Love",
+            "vote_average": 8.836,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
             "backdrop_path": "/iF1W066gp2pkPMAqNDCLpqcCXIW.jpg",
             "genre_ids": [
                 18
@@ -141,6 +101,26 @@
             "name": "The Brave Yong Sujeong",
             "vote_average": 6.5,
             "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ookJ1LS8Uc0ji7cSDuJfV7Qh6Lb.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 18770,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Gran hermano",
+            "overview": "Gran Hermano is a reality television series broadcast in Spain on Telecinco and La Siete produced by Endemol. It is part of the Big Brother franchise first developed in the Netherlands. As of February 2012, 19 editions of the show have aired.",
+            "popularity": 633.441,
+            "poster_path": "/gQ0Emh2LT047Fip2HWye3NkrkQB.jpg",
+            "first_air_date": "2000-04-23",
+            "name": "Gran hermano",
+            "vote_average": 4.3,
+            "vote_count": 2
         },
         {
             "adult": false,
@@ -226,28 +206,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/aCiXh5QX6bg0BtpFEBXKaZYScB4.jpg",
-            "genre_ids": [
-                10763,
-                10764,
-                99
-            ],
-            "id": 203599,
-            "origin_country": [
-                "HK"
-            ],
-            "original_language": "cn",
-            "original_name": "\u6771\u5f35\u897f\u671b",
-            "overview": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly based on entertainment news and personal follow-up of the artists, and will also be interspersed with the latest trends of TVB dramas and artists. Some entertainment news content clips will be rebroadcast on the next day's \"Entertainment Live\".\n\nThis program will be broadcast on Jade Channel from 19:30-20:00 (Hong Kong time) from June 6, 2005, and will be broadcast every day from March 3, 2019, and will be broadcast on myTV (later myTV SUPER) to provide \"Program Review\".",
-            "popularity": 394.5,
-            "poster_path": "/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
-            "first_air_date": "2005-06-06",
-            "name": "Scoop",
-            "vote_average": 7.2,
-            "vote_count": 13
-        },
-        {
-            "adult": false,
             "backdrop_path": "/mlX6SG7lJ0BiLui5x5Nu4agetBA.jpg",
             "genre_ids": [
                 10766,
@@ -286,6 +244,28 @@
             "name": "Dunaj, k va\u0161im slu\u017eb\u00e1m",
             "vote_average": 7.0,
             "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oyZWiPvumwSYMrF2XbZH6yXQZ14.jpg",
+            "genre_ids": [
+                35,
+                9648,
+                80
+            ],
+            "id": 107113,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Only Murders in the Building",
+            "overview": "Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one.",
+            "popularity": 474.746,
+            "poster_path": "/bZubW4eLAk2zqk44fSWRDTFfcba.jpg",
+            "first_air_date": "2021-08-31",
+            "name": "Only Murders in the Building",
+            "vote_average": 8.3,
+            "vote_count": 1381
         },
         {
             "adult": false,
@@ -371,45 +351,66 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/q5OktELm35WgMtnEX9lJI7kGbc1.jpg",
+            "backdrop_path": "/jISkUqMQ2J2IQVH1longli1mzAz.jpg",
             "genre_ids": [
-                16,
-                10765,
                 18,
-                10759
+                10765
             ],
-            "id": 229676,
+            "id": 263106,
             "origin_country": [
-                "JP"
+                "CN"
             ],
-            "original_language": "ja",
-            "original_name": "\u72fc\u3068\u9999\u8f9b\u6599 MERCHANT MEETS THE WISE WOLF",
-            "overview": "Lawrence is a traveling merchant selling various goods from a horse-drawn cart. One day, he arrives at a village and meets a beautiful girl with the ears and tail of an animal! Her name is Holo the Wisewolf and she brings bountiful harvests. She wishes to return to her homeland, and Lawrence offers to take her. Now, the once-lonely merchant and the once-lonely wisewolf begin their journey north.",
-            "popularity": 313.176,
-            "poster_path": "/fxzL2EWdiv19eZAoC8s7zuGCJG1.jpg",
-            "first_air_date": "2024-04-02",
-            "name": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF",
-            "vote_average": 8.1,
-            "vote_count": 17
+            "original_language": "zh",
+            "original_name": "\u4ed6\u4eec\u7684\u5947\u5999\u65f6\u5149",
+            "overview": "When female game designer Song Lingling was accidentally possessed by the NPC she designed, she was forced to embark on a hilarious cohabitation life with \"the client,\" Xiao Ran. As they worked together to fix the game's bugs, they also strove to fix their own \"personal bugs.\" From being quarrelsome partners to genuinely appreciating each other, along with friends like Zhang Yunfei, they embarked on various adventures between the virtual and real worlds, developing a cross-dimensional romance! In the end, they all harvested valuable friendships and love.",
+            "popularity": 426.947,
+            "poster_path": "/rnz5QYSfNcDV3HtELwlRUBOg0Ec.jpg",
+            "first_air_date": "2024-09-03",
+            "name": "Their Wonderful Time",
+            "vote_average": 6.0,
+            "vote_count": 2
         },
         {
             "adult": false,
-            "backdrop_path": null,
+            "backdrop_path": "/eCNkqS4OWVKmPTjFmL2CWYhlVOL.jpg",
             "genre_ids": [
-                18,
-                10759
+                35,
+                80
             ],
-            "id": 256121,
+            "id": 130853,
             "origin_country": [
-                "PH"
+                "US"
             ],
-            "original_language": "tl",
-            "original_name": "Lavender Fields",
-            "overview": "Jasmin loved her idyllic life in her mountain town, but a brush with a criminal empire took it all away. Now she's out for revenge with a new identity.",
-            "popularity": 306.467,
-            "poster_path": "/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
-            "first_air_date": "2024-09-02",
-            "name": "Lavender Fields",
+            "original_language": "en",
+            "original_name": "Bad Monkey",
+            "overview": "A detective turned restaurant inspector in Southern Florida is pulled into a world of greed and corruption after a tourist finds a severed arm while fishing. And yes, there's a monkey.",
+            "popularity": 414.711,
+            "poster_path": "/sDbpr5VoxlcQvzvWFECr7bXCAwg.jpg",
+            "first_air_date": "2024-08-13",
+            "name": "Bad Monkey",
+            "vote_average": 7.3,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zJUfw8mJBjyGtxS6ciS5E7efIbL.jpg",
+            "genre_ids": [
+                16,
+                10765,
+                10759,
+                35
+            ],
+            "id": 263059,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Superthings Rivals of Kaboom, Kazoom Power",
+            "overview": "",
+            "popularity": 397.786,
+            "poster_path": "/xI71zifQmqHv3dUMMQhomGY3AUn.jpg",
+            "first_air_date": "2024-09-09",
+            "name": "Superthings Rivals of Kaboom, Kazoom Power",
             "vote_average": 0.0,
             "vote_count": 0
         }
