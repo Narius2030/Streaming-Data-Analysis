@@ -4,36 +4,44 @@ sys.path.append('./')
 from functions.KafkaComponent import Consumer, Producer
 import time
 import json
-from datetime import date, datetime
-
-
-def request_data():
-    # TODO: recieve data from API sources - transformation is optional
-    ### CODE HERE
+import requests
+from datetime import datetime
+from core.config import get_settings
     
-    ### CODE HERE
-    pass
+
+settings = get_settings()
+
+def request_data(page):
+    # TODO: recieve data from API sources - transformation is optional
+    ### START CODE HERE
+    url = f"https://api.themoviedb.org/3/movie/now_playing?language=en-US&page={page}"
+    headers = {
+        "accept": "application/json",
+        "Authorization": f"Bearer {settings.TMDB_BEARER_TOKEN}"
+    }
+    response = requests.get(url, headers=headers)
+    return response.json().get('results'), response.json().get('page')
+    ### END CODE HERE
 
 
 def write_logs(message, path, announce):
     # Filter value
-    # for _, datas in message.items():
-    data = message
-    with open(path, 'a') as file:
-        # for data in datas:
-        value = data.value.decode('utf-8')
-        value = json.loads(value)
-        file.write(f'{value} - {datetime.now()} - {announce}')
+    for _, datas in message.items():
+        for data in datas:
+            with open(path, 'a', encoding="utf-8") as file:
+                # for data in datas:
+                value = data.value.decode('utf-8')
+                value = json.loads(value)
+                file.write(f'{value} - {datetime.now()} - {announce}')
 
 def example(topic):
     prod_tasks = [
-        Producer(topic=topic),
+        Producer(topic=topic, function=request_data),
     ]
     
     cons_tasks = [
-        Consumer(topic=topic, group_id='nhom-01' ,announce='writed from Consumer-01 Group-id-01-01\n', path='./logs/log01.txt', function=write_logs),
-        Consumer(topic=topic, group_id='nhom-02', announce='writed from Consumer-02 Group-id-02-01\n', path='./logs/log02.txt', function=write_logs),
-        Consumer(topic=topic, group_id='nhom-02', announce='writed from Consumer-02 Group-id-02-02\n', path='./logs/log02.txt', function=write_logs)
+        Consumer(topic=topic, group_id='movie', announce='writed from Consumer-01 movie-01\n', path='./logs/log01.txt', function=write_logs),
+        Consumer(topic=topic, group_id='tv', announce='writed from Consumer-02 tv-01\n', path='./logs/log02.txt', function=write_logs)
     ]
 
     # Start threads and Stop threads
@@ -48,18 +56,18 @@ def example(topic):
     time.sleep(5)
     for task in cons_tasks:
         task.stop()
-
-    # for task in prod_tasks:
-    #     task.join()
+        
+    for task in prod_tasks:
+        task.join()
     for task in cons_tasks:
         task.join()
     
-    print("Thread of Consumber has stopped.")
+    print("Threads have stopped.")
     
     
 if __name__=='__main__':
     # topic and producer
-    topic_name='demo-03'
+    topic_name='films'
     
     # run main
     example(topic_name)

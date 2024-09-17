@@ -17,15 +17,14 @@ class Producer(threading.Thread):
         
     def run(self):
         producer = KafkaProducer(bootstrap_servers=['localhost:9092'],
-                                value_serializer=lambda x: dumps(x).encode('utf-8'))
+                                 key_serializer=str.encode,
+                                 value_serializer=lambda x: dumps(x).encode('utf-8'))
         # send data to topic
-        num = 0
         while not self.stop_event.is_set():
-            num += 1
-            if num%2 == 0:
-                producer.send(self.topic, value={'number': num}, partition=0)
-            else:
-                producer.send(self.topic, value={'number': num}, partition=1)
+            for page in range(1,6):
+                data, key = self.function(page)
+                # print(type(data), type(key))
+                producer.send(self.topic, value={'data': data}, key=str(key))
                 
         producer.close()
     
@@ -44,24 +43,23 @@ class Consumer(threading.Thread):
         self.stop_event.set()
         
     def run(self):
-        consumer = KafkaConsumer(self.topic, bootstrap_servers=['localhost:9092'],
-                                auto_offset_reset='latest',
-                                group_id=self.group_id)
+        consumer = KafkaConsumer(self.topic, 
+                                 bootstrap_servers=['localhost:9092'],
+                                 auto_offset_reset='latest',
+                                 group_id=self.group_id)
         consumer.subscribe([self.topic])
         
         while not self.stop_event.is_set():
             # while True:
-            #     message = consumer.poll(timeout_ms=1000)
-            with open(self.path, 'a') as file:
-                file.write(f'========================================== {date.today()} ==========================================\n\n')
-            for message in consumer:
-                # Processing Function
-                if not message:
-                    continue
-                self.function(message, self.path, self.announce)
-                # Termination Event
-                if self.stop_event.is_set():
-                    break
+            message = consumer.poll(timeout_ms=1000)
+            # for message in consumer:
+            # Processing Function
+            if not message:
+                continue
+            self.function(message, self.path, self.announce)
+            # Termination Event
+            if self.stop_event.is_set():
+                break
         consumer.close()
 
     
