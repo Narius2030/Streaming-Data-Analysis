@@ -1,0 +1,399 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/qnjzH3r7jzxNfiMu2lpmeqOBpYe.jpg",
+            "genre_ids": [
+                35,
+                80,
+                28
+            ],
+            "id": 1180702,
+            "original_language": "fr",
+            "original_title": "Nice Girls",
+            "overview": "A maverick cop and a meticulous detective join forces with a charming ex-hacker to solve an officer's disappearance and save Nice from disaster.",
+            "popularity": 77.744,
+            "poster_path": "/2BjyLLlw1DfQufQTViPVFgcOQ0g.jpg",
+            "release_date": "2024-08-20",
+            "title": "Nice Girls",
+            "video": false,
+            "vote_average": 5.284,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vW7lwVHkRePHzayZfoKOyYBeZqO.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                10751
+            ],
+            "id": 1221404,
+            "original_language": "ja",
+            "original_title": "\u6620\u753b\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093 \u30aa\u30e9\u305f\u3061\u306e\u6050\u7adc\u65e5\u8a18",
+            "overview": "Follow the friendship between the Nobara family's pet dog Shiro and a \"small dinosaur\". Their connection helps the growth of Shinnosuke and the Kusakabe Defense Squad.",
+            "popularity": 76.968,
+            "poster_path": "/nVUZBgpWxGDiKHMI6ymm4neoBsE.jpg",
+            "release_date": "2024-08-09",
+            "title": "Crayon Shin-chan: Ora's Dinosaur Diary",
+            "video": false,
+            "vote_average": 9.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aINel9503ompOlGKn4sIVMg09Un.jpg",
+            "genre_ids": [
+                9648,
+                27,
+                53
+            ],
+            "id": 838209,
+            "original_language": "ko",
+            "original_title": "\ud30c\ubb18",
+            "overview": "After tracing the origin of a disturbing supernatural affliction to a wealthy family's ancestral gravesite, a team of paranormal experts relocates the remains\u2014and soon discovers what happens to those who dare to mess with the wrong grave.",
+            "popularity": 89.3,
+            "poster_path": "/pQYHouPsDw32FhDLr7E3jmw0WTk.jpg",
+            "release_date": "2024-02-22",
+            "title": "Exhuma",
+            "video": false,
+            "vote_average": 7.649,
+            "vote_count": 326
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ly1jzyYU93NHF968i9M1tKkVAf9.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648,
+                878
+            ],
+            "id": 1148027,
+            "original_language": "en",
+            "original_title": "New Life",
+            "overview": "A mysterious woman on the run, and the resourceful fixer assigned to bring her in. Their two unique stories inextricably link, as the stakes of the pursuit rise to apocalyptic proportions.",
+            "popularity": 83.475,
+            "poster_path": "/nk15OpDdPgRFgA3I536FCAbSG74.jpg",
+            "release_date": "2024-05-03",
+            "title": "New Life",
+            "video": false,
+            "vote_average": 6.179,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l0YKBu3LaehIFzBNjseLjx7MbaN.jpg",
+            "genre_ids": [
+                14,
+                27
+            ],
+            "id": 538858,
+            "original_language": "hi",
+            "original_title": "\u0924\u0941\u092e\u094d\u092c\u093e\u0921",
+            "overview": "India, 1918. On the outskirts of Tumbbad, a cursed village where it always rains, Vinayak, along with his mother and his brother, care of a mysterious old woman who keeps the secret of an ancestral treasure that Vinayak gets obsessed with.",
+            "popularity": 95.555,
+            "poster_path": "/z1xOCxw780WFJC5uCTMfCkQ4Agi.jpg",
+            "release_date": "2018-10-12",
+            "title": "Tumbbad",
+            "video": false,
+            "vote_average": 7.487,
+            "vote_count": 239
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9oYdz5gDoIl8h67e3ccv3OHtmm2.jpg",
+            "genre_ids": [
+                18,
+                27,
+                878
+            ],
+            "id": 933260,
+            "original_language": "en",
+            "original_title": "The Substance",
+            "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+            "popularity": 137.836,
+            "poster_path": "/zQc1PITqFxZDbEmHlQgO5Mxc4Od.jpg",
+            "release_date": "2024-09-07",
+            "title": "The Substance",
+            "video": false,
+            "vote_average": 7.75,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oMiKHO3H5RixfLsiU5Vumhlp5sj.jpg",
+            "genre_ids": [
+                80,
+                10749,
+                53
+            ],
+            "id": 948549,
+            "original_language": "en",
+            "original_title": "Love Lies Bleeding",
+            "overview": "Reclusive gym manager Lou falls hard for Jackie, an ambitious bodybuilder headed through town to Las Vegas in pursuit of her dream. But their love ignites violence, pulling them deep into the web of Lou\u2019s criminal family.",
+            "popularity": 81.821,
+            "poster_path": "/p7jyFWiLyHPttqYBFAlLJwtYTYH.jpg",
+            "release_date": "2024-03-08",
+            "title": "Love Lies Bleeding",
+            "video": false,
+            "vote_average": 6.566,
+            "vote_count": 491
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bGCYzJFO9LGjKE4aEM60Qk4mQLS.jpg",
+            "genre_ids": [
+                12,
+                16,
+                10751,
+                14
+            ],
+            "id": 676696,
+            "original_language": "fr",
+            "original_title": "Sirocco et le Royaume des courants d\u2019air",
+            "overview": "Agn\u00e8s, Juliette and Carmen's neighbour, writes children's storybooks that take place in a fantasy world, The Kingdom of the Winds. The intrepid sisters discover a passageway between their world and this extraordinary universe. Once on the other side the girls take on the appearance of cats, and discover Sirocco, a terrifying character who can control the wind.",
+            "popularity": 136.878,
+            "poster_path": "/3n8tWaBBGS6Df1MtX44aTFws7WJ.jpg",
+            "release_date": "2023-12-13",
+            "title": "Sirocco and the Kingdom of the Winds",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k9dOgIzSnU4yl6Peqgn6Yi74Hi8.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 1250786,
+            "original_language": "es",
+            "original_title": "Technoboys",
+            "overview": "They're fierce, they're iconic, they're back \u2014 and they're totally lost. A boyband seeking a renaissance must navigate a world they barely understand.",
+            "popularity": 133.35,
+            "poster_path": "/yBDxtZ16HyOYPGCx1nnHFqwAA6a.jpg",
+            "release_date": "2024-09-05",
+            "title": "Technoboys",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6VoxDupaW2VXfLtJyeOoGCgXSjD.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1116490,
+            "original_language": "en",
+            "original_title": "Cash Out",
+            "overview": "Criminal mastermind Mason is about to execute the score of a lifetime when his lover and key member of his crew, Decker, takes the team down and reveals she\u2019s an undercover Interpol agent. Heartbroken, Mason escapes and retires from the life of crime until his younger brother Shawn is out of his league taking on a big bank heist all on his own. Mason has no choice left but to come to the rescue, while Interpol brings Decker in hoping to unnerve him. Before the SWAT teams storm the bank, Mason must use every tool in his arsenal to not only escape with the prize, but also the love of his life.",
+            "popularity": 76.634,
+            "poster_path": "/xBJnIvRdL0nDHgvivr6EgBQizes.jpg",
+            "release_date": "2024-04-26",
+            "title": "Cash Out",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 56
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jNjT5y95BToczcxgVPl1NBB7goY.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 11,
+            "original_language": "en",
+            "original_title": "Star Wars",
+            "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+            "popularity": 101.901,
+            "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+            "release_date": "1977-05-25",
+            "title": "Star Wars",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 20399
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ahYDVW0ReOTKI6sbI6du9SoXdX9.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 666035,
+            "original_language": "en",
+            "original_title": "Wanted Man",
+            "overview": "Follows a police officer who must retrieve an eyewitness and escort her after a cartel shooting leaves several DEA agents dead, but then he must decide who to trust when they discover that the attack was executed by American forces.",
+            "popularity": 121.012,
+            "poster_path": "/pmdgdb8biQLLzTjySZLPdK13KwM.jpg",
+            "release_date": "2024-08-29",
+            "title": "Wanted Man",
+            "video": false,
+            "vote_average": 9.2,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qSc5JzPvSm6KxVv54nrn7SNXFtk.jpg",
+            "genre_ids": [
+                16,
+                10402,
+                35,
+                14,
+                10751
+            ],
+            "id": 1192209,
+            "original_language": "pt",
+            "original_title": "Arca de No\u00e9",
+            "overview": "A pair of mice attempt to board Noah's Ark: Vini, a charismatic poet with terrible stage fright, and Tito, a talented and charming guitarist. When the rains come, only one male and one female of each species is allowed on Noah's Ark. With the help of an ingenious cockroach and fate's good luck, Vini and Tito sneak their way onto the Ark and together avert a showdown among the ships carnivores and plant eaters. All the while, the animals perform a series of classic songs inspired by world renowned poet, Vinicius de Moraes. Can these talented stowaways use music to break the tension and help these cooped up creatures survive the 40 days and 40 nights together?",
+            "popularity": 68.434,
+            "poster_path": "/j1Rjw6a62UwrbTNT0I3JzZnnCmr.jpg",
+            "release_date": "2024-01-05",
+            "title": "Noah's Ark",
+            "video": false,
+            "vote_average": 6.767,
+            "vote_count": 86
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 559,
+            "original_language": "en",
+            "original_title": "Spider-Man 3",
+            "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains\u2014including the shape-shifting Sandman. While Spider-Man\u2019s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+            "popularity": 86.521,
+            "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+            "release_date": "2007-05-01",
+            "title": "Spider-Man 3",
+            "video": false,
+            "vote_average": 6.429,
+            "vote_count": 13928
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AqBxAnyHjAFtoTK9NSi2O0sjljN.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 1019404,
+            "original_language": "en",
+            "original_title": "The Wasp",
+            "overview": "Heather bumps into Carla, having not spoken to her in years, and presents her with a very unexpected proposition that could change both of their lives forever.",
+            "popularity": 61.367,
+            "poster_path": "/iCuQOTy1nnyPtbRn3xImcu9hvpi.jpg",
+            "release_date": "2024-08-29",
+            "title": "The Wasp",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1UzAEzVO34cBAQ5Hk3r7QoqK42P.jpg",
+            "genre_ids": [
+                35,
+                9648,
+                80
+            ],
+            "id": 974250,
+            "original_language": "en",
+            "original_title": "Greedy People",
+            "overview": "The eclectic residents of a small, picturesque island town must navigate a sensational murder and the discovery of a million dollars, leading to a series of increasingly bad decisions which upend the once-peaceful community.",
+            "popularity": 67.971,
+            "poster_path": "/aIUZiciO0nMh8MrhmsTaMWZvEWK.jpg",
+            "release_date": "2024-08-23",
+            "title": "Greedy People",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 44
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 1087421,
+            "original_language": "es",
+            "original_title": "Odio el verano",
+            "overview": "",
+            "popularity": 57.127,
+            "poster_path": "/jYGDR24XdGne6yr5uhG2waaHxDF.jpg",
+            "release_date": "2024-08-23",
+            "title": "Odio el verano",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1bRxlfuI7woxnxM8Z8LIgaKpffH.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1302017,
+            "original_language": "tl",
+            "original_title": "Uhaw",
+            "overview": "A wife learns that her husband who's in coma had an affair. She confronts the other woman but instead finds solace in her. She then realizes she's falling for her husband's mistress.",
+            "popularity": 62.844,
+            "poster_path": "/sQ0tSFqX5pWGivFVe9ahM6YM3Km.jpg",
+            "release_date": "2024-08-30",
+            "title": "Uhaw",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iCsKn1JVs9oY1J6EcZtrIpplPqk.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 1333048,
+            "original_language": "en",
+            "original_title": "Rebuilding Coraline",
+            "overview": "A behind-the-scenes featurette explaining the process to make new Coraline puppets fifteen years after the film's release.",
+            "popularity": 75.563,
+            "poster_path": "/iOQDAE4mEbgcMyOxFiaOoCd7E4n.jpg",
+            "release_date": "2024-08-15",
+            "title": "Rebuilding Coraline",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kwPaQ05Mix2KHwleqW6MFRvGM7U.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 507241,
+            "original_language": "en",
+            "original_title": "The Killer's Game",
+            "overview": "When a top hitman is diagnosed with a terminal illness, he decides to take matters into his own hands \u2013 by taking a hit out on himself. But when the very hitmen he hired also target his pregnant ex-girlfriend, he must fend off an army of assassin colleagues and win back the love of his life before it\u2019s too late.",
+            "popularity": 75.153,
+            "poster_path": "/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg",
+            "release_date": "2024-09-12",
+            "title": "The Killer's Game",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 5
+        }
+    ],
+    "type": "movie",
+    "page": 5
+}

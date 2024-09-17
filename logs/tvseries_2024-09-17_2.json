@@ -1,0 +1,419 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/bYMkuSxg9zJY61vQrceGooqLNOQ.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 4551,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "America's Got Talent",
+            "overview": "A weekly talent competition where an array of performers \u2013 from singers and dancers, to comedians and novelty acts \u2013 vie for a $1 million cash prize.",
+            "popularity": 2418.546,
+            "poster_path": "/1YLiZqge79k4M0sIbiWi1ByNags.jpg",
+            "first_air_date": "2006-06-21",
+            "name": "America's Got Talent",
+            "vote_average": 5.658,
+            "vote_count": 250
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5S0SI4NjyMji05OPL0GOZ4BsiMh.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 136166,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "Lang Leve de Liefde",
+            "overview": "",
+            "popularity": 2399.391,
+            "poster_path": "/9lpvvzEl5kViIc2vUJG4QKzj2ds.jpg",
+            "first_air_date": "2020-01-20",
+            "name": "Lang Leve de Liefde",
+            "vote_average": 6.3,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q2gOWmtelceZGmKdLc08t8M443b.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 242099,
+            "origin_country": [
+                "PT"
+            ],
+            "original_language": "pt",
+            "original_name": "Senhora do Mar",
+            "overview": "",
+            "popularity": 2361.906,
+            "poster_path": "/wy4tkwuoWMGEa5Wi8dCvLVuxBzt.jpg",
+            "first_air_date": "2024-02-05",
+            "name": "Senhora do Mar",
+            "vote_average": 6.714,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uGbBFoxXNscnH9UZuF8v0ODrrve.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 14509,
+            "origin_country": [
+                "DE"
+            ],
+            "original_language": "de",
+            "original_name": "In aller Freundschaft",
+            "overview": "German soap opera about the staff of the fictional hospital \"Sachsenklinik\" in the city of Leipzig.",
+            "popularity": 2351.646,
+            "poster_path": "/f8ZHSXNs5jyjMz3qg7mB2fqnTjP.jpg",
+            "first_air_date": "1998-10-26",
+            "name": "In aller Freundschaft",
+            "vote_average": 7.0,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/17CJzNN1gEeqTvznJFMdYdmvqIg.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 210078,
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "fr",
+            "original_name": "STAT",
+            "overview": "The daily lives of the personnel of the St-Vincent hospital in Montr\u00e9al.",
+            "popularity": 1674.575,
+            "poster_path": "/i8t2DQVBv7rfJeUerVSIWGyMLqw.jpg",
+            "first_air_date": "2022-09-12",
+            "name": "STAT",
+            "vote_average": 5.8,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5ElVEImEPQmLVj1hkRM26rpsDKe.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 242101,
+            "origin_country": [
+                "PT"
+            ],
+            "original_language": "pt",
+            "original_name": "Cacau",
+            "overview": "Cacau is an engaging saga of family secrets, clandestine loves and sacrifices, all sweetened by the irresistible taste of chocolate and the magic of cocoa plantations.",
+            "popularity": 2238.191,
+            "poster_path": "/nNCFBKZ68fmr008moWSzLdu2mUP.jpg",
+            "first_air_date": "2024-01-15",
+            "name": "Cacau",
+            "vote_average": 5.7,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sx3N4xsZDv0zAGfImtruZLYirhs.jpg",
+            "genre_ids": [
+                10759,
+                18,
+                10768,
+                10751
+            ],
+            "id": 242931,
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "Pulang Araw",
+            "overview": "Red Sun is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese occupation of the Philippines.",
+            "popularity": 2141.534,
+            "poster_path": "/2zbaRzgieKiHYkTGztQUzrAYbgb.jpg",
+            "first_air_date": "2024-07-29",
+            "name": "Pulang Araw",
+            "vote_average": 8.286,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/54PAMB4ZxSS8KrraEPtXu4bIWjL.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 30745,
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "original_name": "My Kitchen Rules",
+            "overview": "My Kitchen Rules is an Australian competitive cooking game show broadcast on the Seven Network since 2010. The series is produced by the team who created the Seven reality show My Restaurant Rules, and was put into production based on the success of Network Ten's MasterChef Australia. My Kitchen Rules has just been renewed by the Seven Network for a fifth series.",
+            "popularity": 2047.437,
+            "poster_path": "/puMIggVFjjziprH6Deq4jqz67PL.jpg",
+            "first_air_date": "2010-02-01",
+            "name": "My Kitchen Rules",
+            "vote_average": 5.7,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aRtLEHMrcbG5InnfL8l3ZdIWS5I.jpg",
+            "genre_ids": [
+                10751,
+                18
+            ],
+            "id": 246331,
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "\uc218\uc9c0\ub9de\uc740 \uc6b0\ub9ac",
+            "overview": "A healing romance begins between fallen star doctor Jin Su Ji and stubborn newbie doctor Choi U Ri.",
+            "popularity": 1976.737,
+            "poster_path": "/bGVdZ8nc99GIwCDxmXpGP0oCSzT.jpg",
+            "first_air_date": "2024-03-25",
+            "name": "Su Ji and U Ri",
+            "vote_average": 5.8,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4i3iJepkqqH5JJgTNLJdi8ke6ir.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 249010,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Kelders van Geheime",
+            "overview": "Kelders van Geheime (Cellars of Secrets) is a South African, Afrikaans-language telenovela based on the wheeling's and dealings of the community that lives on Soebatskloof (a wine farm in the Cape). The series focuses on three families: the Abrahams, Syster and Marais households. These families will have to stand together, agree (or agree to disagree), and work together to earn their bread and butter \u2013 and a glass of wine.",
+            "popularity": 1923.653,
+            "poster_path": "/vf1I0G5jICTstI1EXxb9Oqq80TU.jpg",
+            "first_air_date": "2024-05-06",
+            "name": "Kelders van Geheime",
+            "vote_average": 7.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uCY1j1YqfDWRbbS7hJwd9szX1sJ.jpg",
+            "genre_ids": [
+                10766,
+                18,
+                35
+            ],
+            "id": 237480,
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "No Rancho Fundo",
+            "overview": "",
+            "popularity": 1916.026,
+            "poster_path": "/eONkvEahSQJan1HTzWJKjvaMe29.jpg",
+            "first_air_date": "2024-04-15",
+            "name": "No Rancho Fundo",
+            "vote_average": 4.912,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oPUJvCl9vo16nttEDwmK3zy06jj.jpg",
+            "genre_ids": [
+                10766,
+                18,
+                10759,
+                10765
+            ],
+            "id": 247884,
+            "origin_country": [
+                "MX"
+            ],
+            "original_language": "es",
+            "original_name": "Fugitivas: en busca de la libertad",
+            "overview": "Lorena, Frida, Lisset and Montse, four friends who are in prison serving a sentence. One of them is accused unjustly. In the prison where they are held there is a massive escape and they escape. After their escape, the fugitives take refuge in a bar looking for the opportunity to start a new life.",
+            "popularity": 1880.497,
+            "poster_path": "/oqHWSZmoCgz7JPsbNXihASGnfLW.jpg",
+            "first_air_date": "2024-07-01",
+            "name": "Fugitivas: en busca de la libertad",
+            "vote_average": 7.5,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mLcD1v4sfoa1juOsBat7Vik7wEe.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 248890,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "en",
+            "original_name": "Ready Steady Cook South Africa",
+            "overview": "In Ready Steady Cook, two teams - a Red Tomato and a Green Pepper - compete in a Red Kitchen and a Green Kitchen, together with a South African chef on each side and paired with enthusiastic home cooks, as they are challenged creatively with a mystery bag of ingredients in a 20-minute cook-off.",
+            "popularity": 1851.522,
+            "poster_path": "/30xX4IMbgnMbQwo76xM4BOSokZO.jpg",
+            "first_air_date": "2024-03-18",
+            "name": "Ready Steady Cook South Africa",
+            "vote_average": 1.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u4Lh4viuwHGVLFyUnY7YvwOTwl0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 252373,
+            "origin_country": [
+                "PT"
+            ],
+            "original_language": "pt",
+            "original_name": "A Promessa",
+            "overview": "",
+            "popularity": 1831.88,
+            "poster_path": "/uptgxt2apx5wwWItQzqL0HwhjZC.jpg",
+            "first_air_date": "2024-06-18",
+            "name": "A Promessa",
+            "vote_average": 8.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kj7PtSPdlG73ANqoOHe91pgsTov.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 17404,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Chopped",
+            "overview": "A high energy, fast paced cooking competition that challenges four up-and-coming chefs to turn a selection of everyday ingredients into an extraordinary three-course meal. After each course, a contestant gets \u201cchopped\u201d by our panel of esteemed culinary luminaries until the last man or woman left standing claims victory.",
+            "popularity": 1804.555,
+            "poster_path": "/x7g390tj73dtlGX3ajZrlQRcRpO.jpg",
+            "first_air_date": "2009-01-13",
+            "name": "Chopped",
+            "vote_average": 6.2,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pmAzkQJa993nIgPqFtVmOhStHXg.jpg",
+            "genre_ids": [
+                18,
+                10766
+            ],
+            "id": 2354,
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "original_name": "Home and Away",
+            "overview": "Home and Away is set in the fictional town of Summer Bay, a coastal town in New South Wales, and follows the personal and professional lives of the people living in the area. The show initially focused on the Fletcher family, Pippa and Tom Fletcher and their five foster children Frank Morgan, Carly Morris, Steven Matheson, Lynn Davenport and Sally Keating, who would go on to become one of the show's longest-running characters. The show also originally and currently focuses on the Stewart family. During the early 2000s, the central storylines focused on the Sutherlands and later, the Hunters. Home and Away had proved popular when it premiered in 1988 and had risen to become a hit in Australia, and after only a few weeks, the show tackled its first major and disturbing storyline, the rape of Carly Morris; it was one of the first shows to feature such storylines during the early timeslot. H&A has tackled many adult-themed and controversial storylines; something rarely found in its restricted timeslot.",
+            "popularity": 1742.679,
+            "poster_path": "/vn0eKMiG69bhQtxb7qLRo8SSqu5.jpg",
+            "first_air_date": "1988-01-17",
+            "name": "Home and Away",
+            "vote_average": 6.4,
+            "vote_count": 65
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 36361,
+            "origin_country": [
+                "CZ"
+            ],
+            "original_language": "cs",
+            "original_name": "Ulice",
+            "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farsk\u00fd, Jord\u00e1n, Boh\u00e1\u010d, Nikl, and Li\u0161ka families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
+            "popularity": 1701.839,
+            "poster_path": "/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
+            "first_air_date": "2005-09-05",
+            "name": "Ulice",
+            "vote_average": 3.4,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4qpD3fuXqL7eGclUVEwTz24eVlL.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 91221,
+            "origin_country": [
+                "DE"
+            ],
+            "original_language": "de",
+            "original_name": "Gefragt - Gejagt",
+            "overview": "",
+            "popularity": 1680.902,
+            "poster_path": "/syHMWoToYO2wuz7KrOJdN8SToG7.jpg",
+            "first_air_date": "2012-07-08",
+            "name": "Gefragt - Gejagt",
+            "vote_average": 7.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mu3lEhGovyhKHPJzb7HNYtZUCDT.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 206559,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Binnelanders",
+            "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+            "popularity": 1571.184,
+            "poster_path": "/v9nGSRx5lFz6KEgfmgHJMSgaARC.jpg",
+            "first_air_date": "2005-10-13",
+            "name": "Binnelanders",
+            "vote_average": 5.632,
+            "vote_count": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/93R3gd0iNqnib1JKwbWXksDcMY.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "id": 255150,
+            "origin_country": [
+                "PE"
+            ],
+            "original_language": "es",
+            "original_name": "Pituca Sin Lucas",
+            "overview": "",
+            "popularity": 1563.017,
+            "poster_path": "/cjqJqODyUbul2GZL7ti2B5SVv7I.jpg",
+            "first_air_date": "2024-05-06",
+            "name": "Pituca Sin Lucas",
+            "vote_average": 7.0,
+            "vote_count": 1
+        }
+    ],
+    "type": "tvseries",
+    "page": 2
+}

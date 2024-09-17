@@ -5,7 +5,7 @@ from kafka import KafkaProducer, KafkaConsumer
 
 
 class Producer(threading.Thread):
-    def __init__(self, topic, key=None, function=None):
+    def __init__(self, topic:str, key:str=None, function=None):
         threading.Thread.__init__(self)
         self.stop_event = threading.Event()
         self.topic = topic
@@ -22,15 +22,16 @@ class Producer(threading.Thread):
         # send data to topic
         while not self.stop_event.is_set():
             for page in range(1,6):
-                data, key = self.function(page)
-                producer.send(self.topic, value={'data': data}, key=f"page_{str(key)}")
+                data = self.function(page)
+                producer.send(self.topic, value={'data':data, 'type':str(self.key), 'page':page}, key=f"{str(self.key)}")
             self.stop()
                 
         producer.close()
     
 
 class Consumer(threading.Thread):
-    def __init__(self, topic, group_id, announce=None, function=None, path=None):
+    def __init__(self, topic:str, group_id:str=None, announce:str=None, 
+                 path:str=None, function=None):
         threading.Thread.__init__(self)
         self.stop_event = threading.Event()
         self.topic = topic

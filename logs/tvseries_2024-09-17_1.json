@@ -1,0 +1,420 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/mzgxjQFLYPk73bCYeGFWOAmKqV0.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 11890,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "Goede Tijden, Slechte Tijden",
+            "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+            "popularity": 6792.81,
+            "poster_path": "/eQj2e8Nok6LCDO1dJXqNUkVcNby.jpg",
+            "first_air_date": "1990-10-01",
+            "name": "Goede Tijden, Slechte Tijden",
+            "vote_average": 5.094,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
+            "genre_ids": [
+                10767,
+                35
+            ],
+            "id": 61818,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Late Night with Seth Meyers",
+            "overview": "Seth Meyers, who is \"Saturday Night Live\u2019s\" longest serving anchor on the show\u2019s wildly popular \"Weekend Update,\" takes over as host of NBC\u2019s \"Late Night\" \u2014 home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+            "popularity": 6925.995,
+            "poster_path": "/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg",
+            "first_air_date": "2014-02-25",
+            "name": "Late Night with Seth Meyers",
+            "vote_average": 5.5,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rj3jBAZwPiOgkwAy1205MAgLahj.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 81329,
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Un si grand soleil",
+            "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
+            "popularity": 6363.977,
+            "poster_path": "/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
+            "first_air_date": "2018-08-27",
+            "name": "Chronicles of the Sun",
+            "vote_average": 7.218,
+            "vote_count": 85
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nlLKuyFz6lI0KyiY1V1AE2GwGX9.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10766
+            ],
+            "id": 32209,
+            "origin_country": [
+                "PE"
+            ],
+            "original_language": "es",
+            "original_name": "Al Fondo Hay Sitio",
+            "overview": "Al fondo hay sitio is a Peruvian TV series created in 2008-2009 by Efra\u00edn Aguilar. It deals with the problems of social differences and economic status. It's one of the most popular shows in Peru and is now being shown in Ecuador, Bolivia, Paraguay and Uruguay.",
+            "popularity": 5010.439,
+            "poster_path": "/g7cuCCkvoBuSwemTHYz3k0hvvmz.jpg",
+            "first_air_date": "2009-03-30",
+            "name": "Al Fondo Hay Sitio",
+            "vote_average": 7.86,
+            "vote_count": 211
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+            "genre_ids": [
+                35,
+                10767
+            ],
+            "id": 63770,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Late Show with Stephen Colbert",
+            "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater. Stephen Colbert, Chris Licht, Tom Purcell, and Jon Stewart are executive producers. Barry Julien and Denise Rehrig serve as co-executive producers.must watch",
+            "popularity": 5477.693,
+            "poster_path": "/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+            "first_air_date": "2015-09-08",
+            "name": "The Late Show with Stephen Colbert",
+            "vote_average": 6.549,
+            "vote_count": 266
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 14750,
+            "origin_country": [
+                "PL"
+            ],
+            "original_language": "pl",
+            "original_name": "Na Wsp\u00f3lnej",
+            "overview": "Na Wsp\u00f3lnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wsp\u00f3lna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Bar\u00e1tok k\u00f6zt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wsp\u00f3lnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wsp\u00f3lna Street.",
+            "popularity": 4866.167,
+            "poster_path": "/uksRhdaOn64bO5d33d7rcTbrhJI.jpg",
+            "first_air_date": "2003-01-27",
+            "name": "Na Wsp\u00f3lnej",
+            "vote_average": 5.3,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "id": 112470,
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Ici tout commence",
+            "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world\u2014delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+            "popularity": 4160.905,
+            "poster_path": "/yuTHx38jpogXovMhqNatvozigMJ.jpg",
+            "first_air_date": "2020-11-02",
+            "name": "Here it all begins",
+            "vote_average": 7.1,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aYXF10EsIlgY7d24BWX0I7x2zfp.jpg",
+            "genre_ids": [
+                10763,
+                35
+            ],
+            "id": 2224,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Daily Show",
+            "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+            "popularity": 4647.629,
+            "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+            "first_air_date": "1996-07-22",
+            "name": "The Daily Show",
+            "vote_average": 6.339,
+            "vote_count": 519
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6Hfv3CbetcRQFNAe0wc9ZkXvm0w.jpg",
+            "genre_ids": [
+                10751,
+                10764
+            ],
+            "id": 1508,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Dancing with the Stars",
+            "overview": "The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom experts and voted on by viewers. Enjoy sizzling salsas, sambas and spray-tans as they vie for the coveted Mirrorball Trophy.",
+            "popularity": 4401.753,
+            "poster_path": "/hgYQRDhAbJyFTLJaDaW6T7svuGd.jpg",
+            "first_air_date": "2005-06-01",
+            "name": "Dancing with the Stars",
+            "vote_average": 5.9,
+            "vote_count": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rotcih1fY3UOYejNbiTmz36og12.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 242722,
+            "origin_country": [
+                "IN"
+            ],
+            "original_language": "hi",
+            "original_name": "\u0936\u094d\u0930\u0940\u092e\u0926\u094d \u0930\u093e\u092e\u093e\u092f\u0923",
+            "overview": "Shrimad Ramayan is an ambitious television series that brings to life the timeless epic, the Ramayan, with a deep commitment to authenticity, cultural reverence and a contemporary sensibility.",
+            "popularity": 3033.673,
+            "poster_path": "/aCDK83ykQYnQGFOTfiLjnoqXv1b.jpg",
+            "first_air_date": "2024-01-22",
+            "name": "Shrimad Ramayan",
+            "vote_average": 9.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nCXV9ARvIE2Yc9tLg6pBwpPpPld.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 8892,
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "Pinoy Big Brother",
+            "overview": "The Philippine adaptation of the reality game show \"Big Brother\" features Filipino housemates live together, share their stories and build meaningful relationships as they do tasks and challenges supervised by Big Brother. Every week a nomination is done, and the public decides who gets evicted and eventually become the Big Winner of the program.",
+            "popularity": 3209.166,
+            "poster_path": "/zUva0cs2SOjoxFPpwINbpevzoax.jpg",
+            "first_air_date": "2005-08-21",
+            "name": "Pinoy Big Brother",
+            "vote_average": 5.0,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kkfqNkGQR5og5sDjJTxTVmI9PW.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 72879,
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Demain nous appartient",
+            "overview": "The story revolves around the people of S\u00e8te, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+            "popularity": 2884.011,
+            "poster_path": "/zMWldNZF0wS3L5XkDVFHxYhclcL.jpg",
+            "first_air_date": "2017-07-17",
+            "name": "Tomorrow Is Ours",
+            "vote_average": 6.2,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xBPjlyXRBGJVErqrip25HloiUk8.jpg",
+            "genre_ids": [
+                10764,
+                10751
+            ],
+            "id": 226658,
+            "origin_country": [
+                "MX"
+            ],
+            "original_language": "es",
+            "original_name": "La Casa de los Famosos M\u00e9xico",
+            "overview": "Different celebrities live in the same house watched by cameras 24 hours a day. They will have to overcome tests, strategize and eliminate each other so that only one can be the winner of the most famous house in Mexico.",
+            "popularity": 2443.658,
+            "poster_path": "/uFfmjmnckW4u5z2f7pDrPJuczYB.jpg",
+            "first_air_date": "2023-06-04",
+            "name": "La Casa de los Famosos M\u00e9xico",
+            "vote_average": 7.6,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hpZ5VJP1MvQjuFUMORuAoDFAH30.jpg",
+            "genre_ids": [
+                35,
+                10766,
+                10759
+            ],
+            "id": 222289,
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Fam\u00edlia \u00e9 Tudo",
+            "overview": "Five half-siblings \u2013 Venus, Andromeda, Jupiter, Electra, and Plutao \u2013 share the same father, Pedro. Separated by their respective mothers after Pedro's death, the quintet have had few social and intimate interactions since. Years later, now adults, they reunite when their millionaire grandmother disappears on a cruise and is presumed dead. To earn their inheritance, they will have to live and work together for a year in an attempt to bring the family business back to its peak. If they don't succeed, the inheritance will go to their cousin, Hans, who will do anything to get the money from his aunt.",
+            "popularity": 2729.363,
+            "poster_path": "/tDbJuSfVhf3ZnxiJrXlXEALyAz5.jpg",
+            "first_air_date": "2024-03-04",
+            "name": "Fam\u00edlia \u00e9 Tudo",
+            "vote_average": 6.1,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xl1wGwaPZInJo1JAnpKqnFozWBE.jpg",
+            "genre_ids": [
+                35,
+                10767
+            ],
+            "id": 59941,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Tonight Show Starring Jimmy Fallon",
+            "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+            "popularity": 3163.763,
+            "poster_path": "/d735cGL2G07Tb0ysLHStu8c0uo8.jpg",
+            "first_air_date": "2014-02-17",
+            "name": "The Tonight Show Starring Jimmy Fallon",
+            "vote_average": 5.85,
+            "vote_count": 311
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l7LRGYJY3NzIGBlpvHpMsNXHbm5.jpg",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 218145,
+            "origin_country": [
+                "SK"
+            ],
+            "original_language": "sk",
+            "original_name": "Mama na pren\u00e1jom",
+            "overview": "Abandoned by his wife, Martin is lying to his daughter not to be upset. But as Hanka grows, these lies become unbearable. Martin meets Nada unexpectedly, asked her to be a rent-a-mother and all lives are completely changed.",
+            "popularity": 2582.139,
+            "poster_path": "/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
+            "first_air_date": "2023-01-09",
+            "name": "Mom for rent",
+            "vote_average": 5.0,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bPnzBs4Ka1tZFCsZF3cPkzNjiLC.jpg",
+            "genre_ids": [
+                35,
+                10767
+            ],
+            "id": 122653,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Gutfeld!",
+            "overview": "Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.",
+            "popularity": 2092.17,
+            "poster_path": "/9zLuN3MfvTcABYYNJq5PkIG81S5.jpg",
+            "first_air_date": "2021-04-05",
+            "name": "Gutfeld!",
+            "vote_average": 6.0,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6sI85zW1DWcOVVdMfAxlRS8YEpY.jpg",
+            "genre_ids": [],
+            "id": 260196,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "es",
+            "original_name": "La Isla: Desaf\u00edo Extremo",
+            "overview": "A tour across Turkey where 24 contestants face survival challenges.",
+            "popularity": 1837.011,
+            "poster_path": "/1mOLASAf5AkdYcRwe8L3uVa6yvb.jpg",
+            "first_air_date": "2024-07-30",
+            "name": "La Isla: Desaf\u00edo Extremo",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1fdFxZJR6HOfZTbbknrX7wmuB6E.jpg",
+            "genre_ids": [
+                10763,
+                35
+            ],
+            "id": 70,
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "en",
+            "original_name": "This Hour Has 22 Minutes",
+            "overview": "This Hour Has 22 Minutes is a weekly Canadian television comedy that airs on CBC Television. Launched in 1993 during Canada's 35th general election, the show focuses on Canadian politics, combining news parody, sketch comedy and satirical editorials. Originally featuring Cathy Jones, Rick Mercer, Greg Thomey and Mary Walsh, the series featured satirical sketches of the weekly news and Canadian political events. The show's format is a mock news program, intercut with comic sketches, parody commercials and humorous interviews of public figures. The on-location segments are frequently filmed with slanted camera angles.\n\nIts full name is a parody of This Hour Has Seven Days, a CBC newsmagazine from the 1960s; the \"22 Minutes\" refers to the fact that a half-hour television program in Canada and the U.S. is typically 22 minutes long with eight minutes of commercials.\n\nJones and Walsh had previously worked together on the sketch comedy series CODCO, on which Thomey sometimes appeared as a guest. Mercer had been a notable young writer and performer on his own, touring several successful one-man shows of comedic political commentary.",
+            "popularity": 2446.044,
+            "poster_path": "/7sP1tv9e2wZzdOATVZxtZN3DUbi.jpg",
+            "first_air_date": "2009-09-28",
+            "name": "This Hour Has 22 Minutes",
+            "vote_average": 6.6,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/725Dh3UC4bjDTflsIxQvSx9vkLr.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 250716,
+            "origin_country": [
+                "CL"
+            ],
+            "original_language": "es",
+            "original_name": "\u00bfGanar o servir?",
+            "overview": "",
+            "popularity": 2318.446,
+            "poster_path": "/7ZhXzKBXNuFictb3XE2HZDLN9tl.jpg",
+            "first_air_date": "2024-04-21",
+            "name": "\u00bfGanar o servir?",
+            "vote_average": 9.0,
+            "vote_count": 1
+        }
+    ],
+    "type": "tvseries",
+    "page": 1
+}

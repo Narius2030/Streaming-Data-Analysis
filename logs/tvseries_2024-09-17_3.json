@@ -1,0 +1,414 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/wCsDvlcQLwz7fzuZkfe2eS5Pgkh.jpg",
+            "genre_ids": [
+                18,
+                10759
+            ],
+            "id": 256429,
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "Pamilya Sagrado",
+            "overview": "The members of the Sagrado family live to prove they are the most powerful and influential, stopping at nothing to bury dirty secrets to keep their name faultless and sacred.",
+            "popularity": 1530.232,
+            "poster_path": "/hlRhstt3Du57qm4A30w7RkHqEXg.jpg",
+            "first_air_date": "2024-06-17",
+            "name": "Pamilya Sagrado",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vSrR7pq1wtPw85XpiOrdNcYdtUb.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 239526,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Sue\u00f1os de libertad",
+            "overview": "",
+            "popularity": 1449.588,
+            "poster_path": "/95RVeMWMvk97PBW0msryIJC32XD.jpg",
+            "first_air_date": "2024-02-25",
+            "name": "Sue\u00f1os de libertad",
+            "vote_average": 6.3,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i8iqYtAy9qcO5RSrA1f6fY1n6SN.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 235484,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Suidooster",
+            "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+            "popularity": 1392.084,
+            "poster_path": "/naCgSiacvV685kait6fBvhVhdce.jpg",
+            "first_air_date": "2015-11-16",
+            "name": "Suidooster",
+            "vote_average": 7.5,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uC59DjmJalAFgosXCYIUnRHroQh.jpg",
+            "genre_ids": [
+                10763,
+                10767
+            ],
+            "id": 207956,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Alex Wagner Tonight",
+            "overview": "Alex Wagner brings years of reporting experience and insight to covering the news of the day, politics and the cultural trends shaping the United States and American lives, giving viewers a better understanding of the rapidly changing world.",
+            "popularity": 1388.789,
+            "poster_path": "/qbHPxFRxwBMQqSmpktgNgRAvlFj.jpg",
+            "first_air_date": "2022-08-16",
+            "name": "Alex Wagner Tonight",
+            "vote_average": 2.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4zR7CfhkQ2oJgBO934u3pCnDfJY.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 257943,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "El diario de Jorge",
+            "overview": "",
+            "popularity": 1343.364,
+            "poster_path": "/cWXwHwiZXiQoykoiTGjL1COS9pV.jpg",
+            "first_air_date": "2024-07-29",
+            "name": "El diario de Jorge",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yWVqYVOUcS6vu22v4BPXKJW10m5.jpg",
+            "genre_ids": [
+                10764,
+                10751
+            ],
+            "id": 206679,
+            "origin_country": [
+                "CZ"
+            ],
+            "original_language": "cs",
+            "original_name": "Na lovu",
+            "overview": "Na Lovu is a Czech game-show, based on the license of the popular global format The Chase. A heart-racing quiz show where four competitors must pit their wits and face off against Lovec (the Chaser), a ruthless quiz genius determined to stop them from winning cash prizes.",
+            "popularity": 1320.887,
+            "poster_path": "/udJ1wVuOwFg1q6UBcQGwcpcdIYF.jpg",
+            "first_air_date": "2021-08-16",
+            "name": "Na lovu",
+            "vote_average": 5.9,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Bkqjc9tNWo3KLr1aRYyJ7vMQtM.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 235493,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "De Bondgenoten",
+            "overview": "",
+            "popularity": 1292.738,
+            "poster_path": "/wsipinibYxrZhpkQ6MKxIMgL0hv.jpg",
+            "first_air_date": "2023-10-22",
+            "name": "De Bondgenoten",
+            "vote_average": 6.778,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wYGqCZuBdYeL7OLQTDxVA1AnuUl.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 49394,
+            "origin_country": [
+                "PL"
+            ],
+            "original_language": "pl",
+            "original_name": "Kuba Wojew\u00f3dzki",
+            "overview": "",
+            "popularity": 1207.128,
+            "poster_path": "/rDSmFaUFy8hYdDQonE1oVnDiE3A.jpg",
+            "first_air_date": "2002-10-04",
+            "name": "Kuba Wojew\u00f3dzki",
+            "vote_average": 8.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pVWQHcdFuVHicmbflfMncGklvAZ.jpg",
+            "genre_ids": [
+                10767,
+                10763,
+                35
+            ],
+            "id": 138147,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "De Avondshow met Arjen Lubach",
+            "overview": "Arjen Lubach dives through the issues of the day past inspiring guests to the bottom of the news. Everyone always wants to go from the issues of the day to deepening. Arjen is really looking forward to the issues of the day.",
+            "popularity": 1110.341,
+            "poster_path": "/lXQqKsUQvgBrv9t1S3Q3CGkTUAg.jpg",
+            "first_air_date": "2022-02-21",
+            "name": "De Avondshow met Arjen Lubach",
+            "vote_average": 7.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q0zY5AbqOhCghYWWwzpfT7dhcfb.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 29173,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "House Hunters International",
+            "overview": "This spin-off of the wildly popular House Hunters goes around the globe. Home hunters and their realtors check out all sorts of architectural styles and work through the quirks of buying real estate in other countries.",
+            "popularity": 958.553,
+            "poster_path": "/uzPQ3FvOtmMrvGsNnKPoIJuMJON.jpg",
+            "first_air_date": "2006-03-06",
+            "name": "House Hunters International",
+            "vote_average": 6.4,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5i7aAPgYXXVusuzE4IzYlCEmjcs.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 2612,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Deadliest Catch",
+            "overview": "Forty-foot waves, 700 pound crab pots, freezing temperatures and your mortality staring you in the face\u2026it's all in a day's work for these modern day prospectors. During each episode we will watch crews race to meet their quota and make it home safely.",
+            "popularity": 919.314,
+            "poster_path": "/thjh1mHkwGbTs3Wz4tiajuJbmbC.jpg",
+            "first_air_date": "2005-04-12",
+            "name": "Deadliest Catch",
+            "vote_average": 7.1,
+            "vote_count": 145
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/upD2G9Z7W07w47c7B8ZqLqbTDc5.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 1900,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "LIVE with Kelly and Mark",
+            "overview": "A morning talk show with A-list celebrity guests, top-notch performances and one-of-a-kind segments that are unrivaled on daytime television, plus spontaneous, hilarious and unpredictable talk.",
+            "popularity": 909.301,
+            "poster_path": "/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg",
+            "first_air_date": "1988-09-05",
+            "name": "LIVE with Kelly and Mark",
+            "vote_average": 5.4,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6RGenKnUe7UoEJLRKVAMMq2TWG.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 154828,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "Vandaag Inside",
+            "overview": "",
+            "popularity": 870.379,
+            "poster_path": "/xEFfIcHzlxiYw8e6hXRCqskSKsG.jpg",
+            "first_air_date": "2022-01-10",
+            "name": "Vandaag Inside",
+            "vote_average": 5.1,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3Jolb6Ky31IhEwyS8QhRykKo79J.jpg",
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "id": 243117,
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Plus belle la vie, encore plus belle",
+            "overview": "",
+            "popularity": 839.839,
+            "poster_path": "/5js5JCtxfiYF2MdNn0zGyCwyg8L.jpg",
+            "first_air_date": "2024-01-08",
+            "name": "Plus belle la vie, encore plus belle",
+            "vote_average": 4.4,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o74zr3P3eYKKs7jUlWgkmADnpAg.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 231962,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Diepe Waters",
+            "overview": "A South African, Afrikaans-language telenovela which takes place in and around a competitive swimming club, Die Swartmarlyne.",
+            "popularity": 839.497,
+            "poster_path": "/9YpV8H6E0gxp946jPox0Oa53jp6.jpg",
+            "first_air_date": "2022-10-03",
+            "name": "Diepe Waters",
+            "vote_average": 9.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uVnOphmgvN6fUVr0QPvZrt5M4uG.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 30810,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Pointless",
+            "overview": "Quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else can think of.",
+            "popularity": 837.031,
+            "poster_path": "/vhKxgbh4QvnBFU1jRYSBiizWpDg.jpg",
+            "first_air_date": "2009-08-24",
+            "name": "Pointless",
+            "vote_average": 6.6,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vK3reGUkyx8kYgG3votZfIoOGWB.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 8106,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Homes Under the Hammer",
+            "overview": "Homes Under the Hammer is a British renovation and auction series that originally screened on BBC One as part of the BBC's morning television schedule, the series has been running since 2003. Its main presenters are Lucy Alexander and Martin Roberts, although in series three Marc Woodward and Jasmine Birtles alternated presenting duties with Alexander and Roberts. The series is the BBC's most successful show in the 10:00am slot, regularly attaining a 30% market share for new episodes.",
+            "popularity": 783.965,
+            "poster_path": "/8oqAkf0SgVSn3rVgcZ34rAABztU.jpg",
+            "first_air_date": "2003-11-17",
+            "name": "Homes Under the Hammer",
+            "vote_average": 4.2,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fqUAB9GEBEYpAh4aNURzpJ80k6X.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 78201,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "en",
+            "original_name": "Journeys in Japan",
+            "overview": "Journeys in Japan provides an eye-opening look at the many unique places to visit in Japan. English-speaking visitors travel the length of the country, exploring the culture, meeting the local people, visiting historic sites and offering travel hints rarely found in guidebooks.",
+            "popularity": 724.137,
+            "poster_path": "/9y6cze7R5skd1DSg7jTrfzv0IYH.jpg",
+            "first_air_date": "2010-02-02",
+            "name": "Journeys in Japan",
+            "vote_average": 9.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ohJTnu93hJ0Uonl86Wn3mOSlWXN.jpg",
+            "genre_ids": [
+                10751,
+                35,
+                18
+            ],
+            "id": 91759,
+            "origin_country": [
+                "HK"
+            ],
+            "original_language": "cn",
+            "original_name": "\u611b\u00b7\u56de\u5bb6\u4e4b\u958b\u5fc3\u901f\u905e",
+            "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
+            "popularity": 715.894,
+            "poster_path": "/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+            "first_air_date": "2017-02-06",
+            "name": "Come Home Love: Lo and Behold",
+            "vote_average": 5.1,
+            "vote_count": 38
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Gj33rlZRbBkuPUTrjPJbmtlEBa.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 108466,
+            "origin_country": [
+                "NO"
+            ],
+            "original_language": "no",
+            "original_name": "Alle mot alle",
+            "overview": "",
+            "popularity": 708.156,
+            "poster_path": "/qmOYqF2ezHT1leCE91Mdm6tu3Vl.jpg",
+            "first_air_date": "2020-08-31",
+            "name": "Alle mot alle",
+            "vote_average": 8.0,
+            "vote_count": 1
+        }
+    ],
+    "type": "tvseries",
+    "page": 3
+}

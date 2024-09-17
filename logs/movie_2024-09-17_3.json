@@ -1,0 +1,396 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/716FGefV5R7drdoCOjJtzbPyyY8.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 1207898,
+            "original_language": "en",
+            "original_title": "The Jack in the Box: Rises",
+            "overview": "When a creepy Jack-in-the-Box is discovered and opened on the grounds of an exclusive girls' school, six brave students soon enter a fight to the finish against the unleashed demon.",
+            "popularity": 201.797,
+            "poster_path": "/oDVjlCTSyF6Fh8Fpm683MyGGnSG.jpg",
+            "release_date": "2024-01-18",
+            "title": "The Jack in the Box: Rises",
+            "video": false,
+            "vote_average": 6.869,
+            "vote_count": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hP3HWRujFCM2qLUYhSAJEm23ElP.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "id": 1096342,
+            "original_language": "en",
+            "original_title": "Beautiful Wedding",
+            "overview": "Abby and Travis wake after a crazy night in Vegas as accidental newlyweds! With the mob on their heels, they flee to Mexico for a wild, weird honeymoon\u2014but are they in for another disaster?",
+            "popularity": 183.274,
+            "poster_path": "/6214Uk9CZZcIibI84o5DEtbhfyk.jpg",
+            "release_date": "2024-01-24",
+            "title": "Beautiful Wedding",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 164
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/viKEEaaCaZ0hZ2nGuvIEozlLooL.jpg",
+            "genre_ids": [
+                27,
+                80,
+                9648
+            ],
+            "id": 1023922,
+            "original_language": "en",
+            "original_title": "MaXXXine",
+            "overview": "In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally gets her big break. But as a mysterious killer stalks the starlets of Hollywood, a trail of blood threatens to reveal her sinister past.",
+            "popularity": 205.614,
+            "poster_path": "/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
+            "release_date": "2024-07-04",
+            "title": "MaXXXine",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 517
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/62zw627mH74rng9zc4tFfaR54KW.jpg",
+            "genre_ids": [
+                16,
+                878,
+                10751
+            ],
+            "id": 1184918,
+            "original_language": "en",
+            "original_title": "The Wild Robot",
+            "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+            "popularity": 199.001,
+            "poster_path": "/vcZfDONCxoOU7mosZEnkhYujBEG.jpg",
+            "release_date": "2024-09-12",
+            "title": "The Wild Robot",
+            "video": false,
+            "vote_average": 8.9,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 746036,
+            "original_language": "en",
+            "original_title": "The Fall Guy",
+            "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+            "popularity": 172.278,
+            "poster_path": "/tSz1qsmSJon0rqjHBxXZmrotuse.jpg",
+            "release_date": "2024-04-24",
+            "title": "The Fall Guy",
+            "video": false,
+            "vote_average": 7.175,
+            "vote_count": 2007
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vblTCXOWUQGSc837vgbhDRi4HSc.jpg",
+            "genre_ids": [
+                28,
+                80,
+                35,
+                53
+            ],
+            "id": 955555,
+            "original_language": "ko",
+            "original_title": "\ubc94\uc8c4\ub3c4\uc2dc 3",
+            "overview": "Detective Ma Seok-do changes his affiliation from the Geumcheon Police Station to the Metropolitan Investigation Team, in order to eradicate Japanese gangsters who enter Korea to commit heinous crimes.",
+            "popularity": 159.0,
+            "poster_path": "/lW6IHrtaATxDKYVYoQGU5sh0OVm.jpg",
+            "release_date": "2023-05-31",
+            "title": "The Roundup: No Way Out",
+            "video": false,
+            "vote_average": 7.239,
+            "vote_count": 400
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wkPPRIducGfsbaUPsWfw0MCQdX7.jpg",
+            "genre_ids": [
+                28,
+                35,
+                12
+            ],
+            "id": 1051891,
+            "original_language": "en",
+            "original_title": "Thelma",
+            "overview": "When 93-year-old Thelma Post gets duped by a phone scammer pretending to be her grandson, she sets out on a treacherous quest across the city to reclaim what was taken from her.",
+            "popularity": 195.17,
+            "poster_path": "/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
+            "release_date": "2024-06-21",
+            "title": "Thelma",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7QBtfV7e24sNFQ47g8xh9iU5D4J.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                14
+            ],
+            "id": 1159477,
+            "original_language": "en",
+            "original_title": "The King Tide",
+            "overview": "After the mayor of an idyllic island village discovers a child with mysterious powers awash on their shores, the once peaceful community devolves into civil war, torn over the belief that the child is the next saviour.",
+            "popularity": 166.753,
+            "poster_path": "/nLVFvWHI3449klfOhR4nMxfHXzM.jpg",
+            "release_date": "2024-04-26",
+            "title": "The King Tide",
+            "video": false,
+            "vote_average": 7.067,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vvIKttfL7SoE9rZyLkg6TaAVsDH.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1010600,
+            "original_language": "en",
+            "original_title": "The Strangers: Chapter 1",
+            "overview": "After their car breaks down in an eerie small town, a young couple are forced to spend the night in a remote cabin. Panic ensues as they are terrorized by three masked strangers who strike with no mercy and seemingly no motives.",
+            "popularity": 161.652,
+            "poster_path": "/oYsCNpW4k7Pd7ac3uQfBhr2ihtW.jpg",
+            "release_date": "2024-05-15",
+            "title": "The Strangers: Chapter 1",
+            "video": false,
+            "vote_average": 5.968,
+            "vote_count": 316
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/83NiekHNOZkLbPdjd5KTIOE92Tn.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1280440,
+            "original_language": "pl",
+            "original_title": "Bokser",
+            "overview": "With only his wife by his side, a promising young boxer flees communist Poland to chase his dream of becoming the greatest fighter in history.",
+            "popularity": 182.859,
+            "poster_path": "/2LtIFOtp9yjVd2pOtVRc091TpxP.jpg",
+            "release_date": "2024-09-10",
+            "title": "Boxer",
+            "video": false,
+            "vote_average": 7.467,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pysPTtYmTcQBlShcxXZwfs3Zp8H.jpg",
+            "genre_ids": [
+                878,
+                53,
+                27
+            ],
+            "id": 1064028,
+            "original_language": "en",
+            "original_title": "Subservience",
+            "overview": "With his wife out sick, a struggling father brings home a lifelike AI, only to have his self-aware new help want everything her new family has to offer... Like the affection of her owner and she'll kill to get it.",
+            "popularity": 179.26,
+            "poster_path": "/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
+            "release_date": "2024-08-15",
+            "title": "Subservience",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v2oPRCnWADeQhEAAUKD7DfMdScP.jpg",
+            "genre_ids": [
+                28,
+                878,
+                9648,
+                53
+            ],
+            "id": 720321,
+            "original_language": "en",
+            "original_title": "Breathe",
+            "overview": "Air-supply is scarce in the near future, forcing a mother and daughter to fight for survival when two strangers arrive desperate for an oxygenated haven.",
+            "popularity": 156.656,
+            "poster_path": "/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg",
+            "release_date": "2024-04-04",
+            "title": "Breathe",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jtSCugyOC4gtKqVXK3WaaxRNzqZ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1103621,
+            "original_language": "th",
+            "original_title": "\u0e2b\u0e25\u0e32\u0e19\u0e21\u0e48\u0e32",
+            "overview": "A man quits work to care for dying grandmother, motivated by her fortune. He schemes to win her favor before she passes.",
+            "popularity": 137.78,
+            "poster_path": "/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg",
+            "release_date": "2024-04-04",
+            "title": "How to Make Millions Before Grandma Dies",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/buawWBeKYjYfeiPoS2jIcjOrghZ.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1214509,
+            "original_language": "en",
+            "original_title": "In a Violent Nature",
+            "overview": "The enigmatic resurrection, rampage, and retribution of an undead monster in a remote wilderness unleashes an iconic new killer after a locket is removed from a collapsed fire tower that entombed its rotting corpse.",
+            "popularity": 163.953,
+            "poster_path": "/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg",
+            "release_date": "2024-05-31",
+            "title": "In a Violent Nature",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 174
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8xMR5w9qfpwhTJzjjvfj2ywvIF3.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 956842,
+            "original_language": "en",
+            "original_title": "Fly Me to the Moon",
+            "overview": "Sparks fly in all directions as marketing maven Kelly Jones, brought in to fix NASA's public image, wreaks havoc on Apollo 11 launch director Cole Davis' already difficult task of putting a man on the moon. When the White House deems the mission too important to fail, Jones is directed to stage a fake moon landing as backup, and the countdown truly begins.",
+            "popularity": 156.68,
+            "poster_path": "/gjk8YdXpItoC1in53FCrZMFIuBx.jpg",
+            "release_date": "2024-07-10",
+            "title": "Fly Me to the Moon",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 449
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5r2NPZgYBB8ALBL3q4iX9AjTLJ6.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 1308821,
+            "original_language": "tl",
+            "original_title": "Unang Tikim",
+            "overview": "Yuna, a woman engaged with her long time boyfriend, Nicco, starts to have second thoughts when she meets again her first love, Becca. Now she is torn between the man she loves and the woman she first loved.",
+            "popularity": 139.832,
+            "poster_path": "/oDWZS6LznvdH7mZOYfCro0ISJCM.jpg",
+            "release_date": "2024-07-07",
+            "title": "Unang Tikim",
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+            "genre_ids": [
+                878,
+                27,
+                28
+            ],
+            "id": 940721,
+            "original_language": "ja",
+            "original_title": "\u30b4\u30b8\u30e9-1.0",
+            "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+            "popularity": 136.402,
+            "poster_path": "/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg",
+            "release_date": "2023-11-03",
+            "title": "Godzilla Minus One",
+            "video": false,
+            "vote_average": 7.581,
+            "vote_count": 2121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gZWl93sf8AxavYpVT1Un6EF3oCj.jpg",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "id": 475557,
+            "original_language": "en",
+            "original_title": "Joker",
+            "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+            "popularity": 139.708,
+            "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+            "release_date": "2019-10-01",
+            "title": "Joker",
+            "video": false,
+            "vote_average": 8.156,
+            "vote_count": 25154
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sqfam7wEpmyG9Fx0AdVQYrLcIfy.jpg",
+            "genre_ids": [
+                53,
+                80,
+                18
+            ],
+            "id": 1298238,
+            "original_language": "es",
+            "original_title": "Pr\u00edncipes salvajes",
+            "overview": "A group of wealthy teenagers commit crimes that escalate from petty mischief to dangerous plots, causing chaotic consequences \u2014 but not for themselves.",
+            "popularity": 84.542,
+            "poster_path": "/iEe9RODlNgobupiksZ2vE4TZwUg.jpg",
+            "release_date": "2024-08-27",
+            "title": "Untamed Royals",
+            "video": false,
+            "vote_average": 5.906,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4gOB72zD9udHk3jAR0reHwgURZp.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 1029955,
+            "original_language": "en",
+            "original_title": "Kinds of Kindness",
+            "overview": "A triptych fable following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+            "popularity": 147.21,
+            "poster_path": "/8mmpltkcG9areafsQHXaURedno3.jpg",
+            "release_date": "2024-05-30",
+            "title": "Kinds of Kindness",
+            "video": false,
+            "vote_average": 6.639,
+            "vote_count": 586
+        }
+    ],
+    "type": "movie",
+    "page": 3
+}
