@@ -36,7 +36,7 @@ def request_tvseries(page):
     ### END CODE HERE
 
 
-def write_logs(message, path, announce):
+def write_logs(message, path):
     # Filter value
     for _, datas in message.items():
         for data in datas:
@@ -44,7 +44,6 @@ def write_logs(message, path, announce):
             value = data.value.decode('utf-8')
             value = json.loads(value)
             with open(f"{path}/{value['type']}_{date.today()}_{value['page']}.json", "w", encoding="utf-8") as file:
-                # file.write(f'{value} - {datetime.now()} - {announce}')
                 json.dump(value, file, indent=4)
 
 def transport(topic):
@@ -54,8 +53,8 @@ def transport(topic):
     ]
     
     cons_tasks = [
-        Consumer(topic=topic, group_id='films', announce='writed from Consumer-01 movie-01\n', path='./logs', function=write_logs),
-        Consumer(topic=topic, group_id='films', announce='writed from Consumer-02 tv-01\n', path='./logs', function=write_logs)
+        Consumer(topic=topic, group_id='films', path='./logs', function=write_logs),
+        Consumer(topic=topic, group_id='films', path='./logs', function=write_logs)
     ]
 
     # Start threads and Stop threads

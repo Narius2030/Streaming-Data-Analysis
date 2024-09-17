@@ -36,7 +36,6 @@ class Consumer(threading.Thread):
         self.stop_event = threading.Event()
         self.topic = topic
         self.group_id = group_id
-        self.announce = announce
         self.path = path
         self.function = function
 
@@ -54,11 +53,10 @@ class Consumer(threading.Thread):
         while not self.stop_event.is_set():
             # while True:
             message = consumer.poll(timeout_ms=1000)
-            # for message in consumer:
             # Processing Function
             if not message:
                 continue
-            self.function(message, self.path, self.announce)
+            self.function(message, self.path)
             # Termination Event
             if self.stop_event.is_set():
                 break
