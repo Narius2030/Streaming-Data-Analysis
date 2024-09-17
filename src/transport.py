@@ -7,7 +7,6 @@ import json
 import requests
 from datetime import datetime
 from core.config import get_settings
-    
 
 settings = get_settings()
 
@@ -71,3 +70,6 @@ if __name__=='__main__':
     
     # run main
     example(topic_name)
+    
+    # data processing functions
+    ...

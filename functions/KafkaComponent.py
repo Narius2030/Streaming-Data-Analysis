@@ -24,6 +24,7 @@ class Producer(threading.Thread):
             for page in range(1,6):
                 data, key = self.function(page)
                 producer.send(self.topic, value={'data': data}, key=f"page_{str(key)}")
+            self.stop()
                 
         producer.close()
     
@@ -45,6 +46,7 @@ class Consumer(threading.Thread):
         consumer = KafkaConsumer(self.topic, 
                                  bootstrap_servers=['localhost:9092'],
                                  auto_offset_reset='latest',
+                                 auto_commit_interval_ms=2500,
                                  group_id=self.group_id)
         consumer.subscribe([self.topic])
         
