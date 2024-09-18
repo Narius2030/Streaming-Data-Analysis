@@ -5,14 +5,15 @@ from functions.KafkaComponent import Consumer, Producer
 import time
 import json
 import requests
-from datetime import datetime, date
+from datetime import date
 from core.config import get_settings
+from functions.ElasticHandler import ElasticHandlers
+
 
 settings = get_settings()
 
 def request_movies(page):
     # TODO: recieve data from API sources - transformation is optional
-    ### START CODE HERE
     url = f"https://api.themoviedb.org/3/movie/now_playing?language=en-US&page={page}"
     headers = {
         "accept": "application/json",
@@ -20,12 +21,10 @@ def request_movies(page):
     }
     response = requests.get(url, headers=headers)
     return response.json().get('results')
-    ### END CODE HERE
     
 
 def request_tvseries(page):
     # TODO: recieve data from API sources - transformation is optional
-    ### START CODE HERE
     url = f"https://api.themoviedb.org/3/tv/airing_today?language=en-US&page={page}"
     headers = {
         "accept": "application/json",
@@ -33,7 +32,6 @@ def request_tvseries(page):
     }
     response = requests.get(url, headers=headers)
     return response.json().get('results')
-    ### END CODE HERE
 
 
 def write_logs(message, path):
@@ -57,33 +55,38 @@ def transport(topic):
         Consumer(topic=topic, group_id='films', path='./logs', function=write_logs)
     ]
 
-    # Start threads and Stop threads
-    for t in prod_tasks:
-        t.start()
-    time.sleep(2)
-    for task in prod_tasks:
-        task.stop()
-    
-    for t in cons_tasks:
-        t.start()
-    time.sleep(5)
-    for task in cons_tasks:
-        task.stop()
+    try:
+        # Start threads and Stop threads
+        for t in prod_tasks:
+            t.start()
+        time.sleep(5)
+        for task in prod_tasks:
+            task.stop()
         
-    for task in prod_tasks:
-        task.join()
-    for task in cons_tasks:
-        task.join()
-    
-    print("Threads have stopped.")
-    
+        for t in cons_tasks:
+            t.start()
+        time.sleep(5)
+        for task in cons_tasks:
+            task.stop()
+            
+        for task in prod_tasks:
+            task.join()
+        for task in cons_tasks:
+            task.join()
+        print("Films transporting threads have stopped ✔")
+    except Exception as exc:
+        print(str(exc) + '❌')
     
 if __name__=='__main__':
-    # topics
     topic_name='films'
     
-    # run transporting
+    ## TODO: run transporting
     transport(topic_name)
     
-    # data processing functions
-    ...
+    ## TODO: data processing functions
+    handler = ElasticHandlers(
+        host=settings.ELASTIC_HOST,
+        api_key=settings.FILMS_INDEX_KEY,
+    )
+    documents = handler.create_documents(index=topic_name, path="./logs/*.json")
+    # handler.ingest_data(es, "films", documents)
