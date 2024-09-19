@@ -1,0 +1,414 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/zd1IeJsmzwCHoHVJhxuKnaDcq1l.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 217650,
+            "origin_country": [
+                "SK"
+            ],
+            "original_language": "sk",
+            "original_name": "Dunaj, k va\u0161im slu\u017eb\u00e1m",
+            "overview": "",
+            "popularity": 636.65,
+            "poster_path": "/a4P7vTW2RRIRJMoCIeKkv7vxtZo.jpg",
+            "first_air_date": "2023-01-10",
+            "name": "Dunaj, k va\u0161im slu\u017eb\u00e1m",
+            "vote_average": 7.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aXkTTQfSJVAEDK0FXXAGRMhxe4e.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 208438,
+            "origin_country": [
+                "BE"
+            ],
+            "original_language": "nl",
+            "original_name": "De Tafel van Gert",
+            "overview": "",
+            "popularity": 615.175,
+            "poster_path": "/L1jmAIQH3xTGBcc1AqJ37x1P2e.jpg",
+            "first_air_date": "2022-09-05",
+            "name": "De Tafel van Gert",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8zDEV7kkE4wvCWyDgrJ7X4BznFQ.jpg",
+            "genre_ids": [
+                16,
+                10762
+            ],
+            "id": 138523,
+            "origin_country": [
+                "GB",
+                "US",
+                "CA"
+            ],
+            "original_language": "en",
+            "original_name": "Thomas & Friends: All Engines Go!",
+            "overview": "In a reboot of the classic TV series, a younger Thomas The Tank Engine goes on adventures with all of his friends, as they work on The Island Of Sodor.",
+            "popularity": 610.809,
+            "poster_path": "/7R8ssJqWA2P1wfH2776oxh81FNe.jpg",
+            "first_air_date": "2021-08-23",
+            "name": "Thomas & Friends: All Engines Go!",
+            "vote_average": 3.75,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                10759
+            ],
+            "id": 256121,
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "Lavender Fields",
+            "overview": "Jasmin loved her idyllic life in her mountain town, but a brush with a criminal empire took it all away. Now she's out for revenge with a new identity.",
+            "popularity": 600.676,
+            "poster_path": "/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
+            "first_air_date": "2024-09-02",
+            "name": "Lavender Fields",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5yDWkP9XICLarujQe3q5WpeYsXk.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 231278,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Boer Soek 'n Vrou",
+            "overview": "Boer Soek 'n Vrou is a reality program based on the international series \"Farmer Wants A Wife\".\n\nThe farmers for the program are selected from hundreds of applications and then introduced to the public in a special program on KykNET earlier in the year. Singles then get the chance to send a romantic love letter to the farmer of their choice. Based on the letters that the farmers receive, they choose 10 potential life partners that they would like to get to know better on the program.\n\nThere is no prize money or wedding to be won on Boer Soek 'n Vrou. The program only creates an opportunity for farmers to meet other singles from which possible friendships or romance can arise.",
+            "popularity": 575.686,
+            "poster_path": "/8sIa5EFYftPjyoylOTEt23kLHYw.jpg",
+            "first_air_date": "2008-07-30",
+            "name": "Boer Soek 'n Vrou",
+            "vote_average": 7.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gZibM6AJMkzvokmEdAKjW9LevoF.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 59186,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Impractical Jokers",
+            "overview": "This hidden-camera series follows four lifelong friends -- Brian \"Q\"' Quinn, James \"Murr\"' Murray, Joe Gatto and Sal Vulcano -- who take dares to an outrageous level. To find out who is best under pressure, the guys compete in awkward and outrageous hidden-camera hijinks with the loser performing what is deemed to be the most-mortifying challenge yet.",
+            "popularity": 563.44,
+            "poster_path": "/7ZGhfLbGUijD9OxPtBuA8xAE7Bi.jpg",
+            "first_air_date": "2011-12-15",
+            "name": "Impractical Jokers",
+            "vote_average": 7.907,
+            "vote_count": 350
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8hnuZvCF9M2H6tnvy6gXxM6Htd2.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 134156,
+            "origin_country": [
+                "SK",
+                "CZ"
+            ],
+            "original_language": "cs",
+            "original_name": "Love Island",
+            "overview": "",
+            "popularity": 559.089,
+            "poster_path": "/p10tBxVHtHfSfbYOpqDZTMSvVLN.jpg",
+            "first_air_date": "2021-09-18",
+            "name": "Love Island",
+            "vote_average": 4.0,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w8Um9O5rIHCbYwqVXTjLkKgivFt.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 262364,
+            "origin_country": [
+                "HR"
+            ],
+            "original_language": "hr",
+            "original_name": "Sjene pro\u0161losti",
+            "overview": "",
+            "popularity": 545.968,
+            "poster_path": "/ycZgG9FG8dP4MwUSBvDXCagpoTa.jpg",
+            "first_air_date": "2024-09-02",
+            "name": "Sjene pro\u0161losti",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cAmpVRgQL2s55CU6K8SaFcUJPNW.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10751
+            ],
+            "id": 262252,
+            "origin_country": [
+                "CO"
+            ],
+            "original_language": "es",
+            "original_name": "Klass 95: El poder de la belleza",
+            "overview": "Shaio Dom\u00ednguez, in the 1990s in Colombia, founded the first international modeling agency, through which she discovered the power of beauty. Edgar Trejos, a frontman for mobsters, sees in Shaio and her agency the opportunity to clean up his image and will do everything possible to infiltrate them. An impossible love, beautiful women, many dreams to fulfill, and a situation that spirals out of control.",
+            "popularity": 495.757,
+            "poster_path": "/1yxVcLAZbFJpwqz0kDjm5Tch8FC.jpg",
+            "first_air_date": "2024-08-20",
+            "name": "Klass 95: The Power of Beauty",
+            "vote_average": 8.0,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m8Tyy7M3lAmh9vG0Z0Z2hAnU2mu.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 16322,
+            "origin_country": [
+                "IT"
+            ],
+            "original_language": "it",
+            "original_name": "X Factor",
+            "overview": "X Factor is a successful TV show airing on prime time in Italy. The singing competition is the Italian version of The X Factor franchise. It was hosted until the Season 4 by Francesco Facchinetti, its judges in the first two series were the musical producer Mara Maionchi, TV host Simona Ventura and the singer-songwriter Morgan.",
+            "popularity": 495.167,
+            "poster_path": "/uzzwJ0R0h5MA9C3rt6NhsTjF8PO.jpg",
+            "first_air_date": "2008-03-10",
+            "name": "X Factor",
+            "vote_average": 7.4,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3ZzSaTwUC7wNd9CNTDQ76eP6guG.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 10222,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Real Housewives of Orange County",
+            "overview": "A view into the lives of several women and their families who live in one of the wealthiest communities in the country with the viewer taken \"inside the gates\" to show their lives aren't always perfect.",
+            "popularity": 493.661,
+            "poster_path": "/mEg3ohdBkLOs0L1GmYGtiwyJXlE.jpg",
+            "first_air_date": "2006-03-21",
+            "name": "The Real Housewives of Orange County",
+            "vote_average": 5.5,
+            "vote_count": 62
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ysmhemRA708WjtzCrXAdanVajWR.jpg",
+            "genre_ids": [],
+            "id": 221681,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "ROH On HonorClub",
+            "overview": "The New Era Of Honor Begins!",
+            "popularity": 487.848,
+            "poster_path": "/gOB56XzE6PqoaXixFGeM6pN7dWD.jpg",
+            "first_air_date": "2023-03-02",
+            "name": "ROH On HonorClub",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2bhOm46HfWEu7xpZ4bfwNa1K60w.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 911,
+            "origin_country": [
+                "IN"
+            ],
+            "original_language": "hi",
+            "original_name": "\u0915\u094c\u0928 \u092c\u0928\u0947\u0917\u093e \u0915\u0930\u094b\u0921\u093c\u092a\u0924\u093f",
+            "overview": "Hosted by India's biggest superstar, Amitabh Bachchan, one of the biggest shows is here to entertain millions, change lives and make dreams come true.",
+            "popularity": 481.18,
+            "poster_path": "/8srHjzgZq9V9sgsTkIwGARDyADj.jpg",
+            "first_air_date": "2000-07-03",
+            "name": "Kaun Banega Crorepati",
+            "vote_average": 7.0,
+            "vote_count": 25
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Le3im7ogQ7AMjKjiZl4qq1DHWL.jpg",
+            "genre_ids": [
+                99,
+                10751
+            ],
+            "id": 3956,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Who Do You Think You Are?",
+            "overview": "A British genealogy documentary series in which celebrities trace their ancestry, discovering secrets and surprises from their past.",
+            "popularity": 446.342,
+            "poster_path": "/v7vzsmEDVDzUgEuiMAMRdyh0abW.jpg",
+            "first_air_date": "2004-10-12",
+            "name": "Who Do You Think You Are?",
+            "vote_average": 6.5,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5YVFfLI5iLK9SZeOBwJuksJHSXI.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 121876,
+            "origin_country": [
+                "CN"
+            ],
+            "original_language": "zh",
+            "original_name": "\u82b1\u513f\u4e0e\u5c11\u5e74",
+            "overview": "",
+            "popularity": 300.511,
+            "poster_path": "/xj8EEPB0ipfja5ZbcJLGucZtoUA.jpg",
+            "first_air_date": "2014-04-25",
+            "name": "Divas Hit the Road",
+            "vote_average": 7.3,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k3hODpzSAmFe86e5Y2DzQd286sL.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 75430,
+            "origin_country": [
+                "HU"
+            ],
+            "original_language": "hu",
+            "original_name": "\u00c1zsia Expressz",
+            "overview": "",
+            "popularity": 417.656,
+            "poster_path": "/xkjb2otTNmsZHjEJ55TFXgdrY0r.jpg",
+            "first_air_date": "2017-11-07",
+            "name": "\u00c1zsia Expressz",
+            "vote_average": 7.3,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10764,
+                10766
+            ],
+            "id": 260223,
+            "origin_country": [
+                "PL"
+            ],
+            "original_language": "pl",
+            "original_name": "B&B Love",
+            "overview": "",
+            "popularity": 411.894,
+            "poster_path": "/wQ9oN8RWP4qMFYfzrSEhCQ4LANe.jpg",
+            "first_air_date": "2024-08-26",
+            "name": "B&B Love",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6dX25PTvZbe4vH1ksVBQi9YhNBx.jpg",
+            "genre_ids": [
+                10764,
+                99
+            ],
+            "id": 120554,
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "\uc138\uacc4\ud14c\ub9c8\uae30\ud589",
+            "overview": "The World Theme Journey is a program designed to deliver living experiences that only free backpackers can feel, away from simple travel information programs. From Spain to Chile, South Africa to Alaska, the world-themed trips are made by running on their own feet, vividly showing the splendid cultural sites and natural heritage, as well as the hidden aspects of people around the world",
+            "popularity": 409.886,
+            "poster_path": "/pHC70ke34d0pEOdhcx8lnWhRtqk.jpg",
+            "first_air_date": "2008-02-25",
+            "name": "World Theme Tour",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ljS3auI8tPDYyLw6CnNpLcr2kjT.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 987,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "General Hospital",
+            "overview": "Families, friends, enemies and lovers experience life-changing events in the large upstate New York city of Port Charles, which has a busy hospital, upscale hotel, cozy diner and dangerous waterfront frequented by the criminal underworld.",
+            "popularity": 288.064,
+            "poster_path": "/gS5iORCJHwP5moEXSF9b6ZcsZ1w.jpg",
+            "first_air_date": "1963-04-01",
+            "name": "General Hospital",
+            "vote_average": 5.7,
+            "vote_count": 204
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eTckClLfQbEcmCnS4gOhwEjozfK.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 25778,
+            "origin_country": [
+                "BE"
+            ],
+            "original_language": "nl",
+            "original_name": "Familie",
+            "overview": "'Familie' is the longest running Belgian soap opera. The Van den Bossches originally had an electronics company, later a holding company that included a clothing chain and a sandwich shop. In the meantime, we closely follow the personal lives of the Van den Bossches and their entourage. Grandma Anna and all her children and grandchildren have been through a lot over time and it doesn't look like their lives will become calmer any time soon.",
+            "popularity": 286.61,
+            "poster_path": "/bPBeBzhhfbF0aYZaHd7ESe0TVwK.jpg",
+            "first_air_date": "1991-12-30",
+            "name": "Familie",
+            "vote_average": 6.2,
+            "vote_count": 13
+        }
+    ],
+    "type": "tvseries",
+    "page": 5
+}

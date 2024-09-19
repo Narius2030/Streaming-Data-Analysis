@@ -12,26 +12,34 @@ from functions.ElasticHandler import ElasticHandlers
 
 settings = get_settings()
 
-def request_movies(page):
-    # TODO: recieve data from API sources - transformation is optional
-    url = f"https://api.themoviedb.org/3/movie/now_playing?language=en-US&page={page}"
-    headers = {
-        "accept": "application/json",
-        "Authorization": f"Bearer {settings.TMDB_BEARER_TOKEN}"
-    }
-    response = requests.get(url, headers=headers)
-    return response.json().get('results')
+def request_movies():
+    stop_event = False
+    for page in range(1,6):
+        # TODO: recieve data from API sources - transformation is optional
+        url = f"https://api.themoviedb.org/3/movie/now_playing?language=en-US&page={page}"
+        headers = {
+            "accept": "application/json",
+            "Authorization": f"Bearer {settings.TMDB_BEARER_TOKEN}"
+        }
+        response = requests.get(url, headers=headers)
+        if page == 5:
+            stop_event = True
+        yield (response.json().get('results'), response.json().get('page'), stop_event)
     
 
-def request_tvseries(page):
-    # TODO: recieve data from API sources - transformation is optional
-    url = f"https://api.themoviedb.org/3/tv/airing_today?language=en-US&page={page}"
-    headers = {
-        "accept": "application/json",
-        "Authorization": f"Bearer {settings.TMDB_BEARER_TOKEN}"
-    }
-    response = requests.get(url, headers=headers)
-    return response.json().get('results')
+def request_tvseries():
+    stop_event = False
+    for page in range(1,6):
+        # TODO: recieve data from API sources - transformation is optional
+        url = f"https://api.themoviedb.org/3/tv/airing_today?language=en-US&page={page}"
+        headers = {
+            "accept": "application/json",
+            "Authorization": f"Bearer {settings.TMDB_BEARER_TOKEN}"
+        }
+        response = requests.get(url, headers=headers)
+        if page == 5:
+            stop_event = True
+        yield (response.json().get('results'), response.json().get('page'), stop_event)
 
 
 def write_logs(message, path):
@@ -41,6 +49,7 @@ def write_logs(message, path):
             # write data into json
             value = data.value.decode('utf-8')
             value = json.loads(value)
+            print(value)
             with open(f"{path}/{value['type']}_{date.today()}_{value['page']}.json", "w", encoding="utf-8") as file:
                 json.dump(value, file, indent=4)
 
@@ -59,7 +68,7 @@ def transport(topic):
         # Start threads and Stop threads
         for t in prod_tasks:
             t.start()
-        time.sleep(5)
+        time.sleep(2)
         for task in prod_tasks:
             task.stop()
         
@@ -84,9 +93,9 @@ if __name__=='__main__':
     transport(topic_name)
     
     ## TODO: data processing functions
-    handler = ElasticHandlers(
-        host=settings.ELASTIC_HOST,
-        api_key=settings.FILMS_INDEX_KEY,
-    )
-    documents = handler.create_documents(index=topic_name, path="./logs/*.json")
+    # handler = ElasticHandlers(
+    #     host=settings.ELASTIC_HOST,
+    #     api_key=settings.FILMS_INDEX_KEY,
+    # )
+    # documents = handler.create_documents(index=topic_name, path="./logs/*.json")
     # handler.ingest_data(es, "films", documents)

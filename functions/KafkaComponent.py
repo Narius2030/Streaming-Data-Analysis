@@ -21,11 +21,10 @@ class Producer(threading.Thread):
                                  value_serializer=lambda x: dumps(x).encode('utf-8'))
         # send data to topic
         while not self.stop_event.is_set():
-            for page in range(1,6):
-                data = self.function(page)
-                producer.send(self.topic, value={'data':data, 'type':str(self.key), 'page':page}, key=f"{str(self.key)}")
-            self.stop()
-                
+            for data in self.function():
+                producer.send(self.topic, value={'data':data[0], 'type':str(self.key), 'page': data[1]}, key=f"{str(self.key)}")
+                # if data[2] == True:
+                #     self.stop()
         producer.close()
     
 

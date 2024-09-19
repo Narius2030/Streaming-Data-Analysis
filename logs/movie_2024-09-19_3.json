@@ -1,0 +1,392 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/k9dOgIzSnU4yl6Peqgn6Yi74Hi8.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 1250786,
+            "original_language": "es",
+            "original_title": "Technoboys",
+            "overview": "They're fierce, they're iconic, they're back \u2014 and they're totally lost. A boyband seeking a renaissance must navigate a world they barely understand.",
+            "popularity": 261.366,
+            "poster_path": "/yBDxtZ16HyOYPGCx1nnHFqwAA6a.jpg",
+            "release_date": "2024-09-05",
+            "title": "Technoboys",
+            "video": false,
+            "vote_average": 5.875,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4yrOyO3N55XazHQXXYoqiiPQd40.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 938614,
+            "original_language": "en",
+            "original_title": "Late Night with the Devil",
+            "overview": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
+            "popularity": 156.079,
+            "poster_path": "/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+            "release_date": "2024-03-19",
+            "title": "Late Night with the Devil",
+            "video": false,
+            "vote_average": 7.326,
+            "vote_count": 821
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/62zw627mH74rng9zc4tFfaR54KW.jpg",
+            "genre_ids": [
+                16,
+                878,
+                10751
+            ],
+            "id": 1184918,
+            "original_language": "en",
+            "original_title": "The Wild Robot",
+            "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+            "popularity": 185.64,
+            "poster_path": "/6GT9lvyyKx7hiwtKMC4BisMTA7N.jpg",
+            "release_date": "2024-09-12",
+            "title": "The Wild Robot",
+            "video": false,
+            "vote_average": 8.909,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9oYdz5gDoIl8h67e3ccv3OHtmm2.jpg",
+            "genre_ids": [
+                18,
+                27,
+                878
+            ],
+            "id": 933260,
+            "original_language": "en",
+            "original_title": "The Substance",
+            "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+            "popularity": 185.455,
+            "poster_path": "/zQc1PITqFxZDbEmHlQgO5Mxc4Od.jpg",
+            "release_date": "2024-09-07",
+            "title": "The Substance",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 120,
+            "original_language": "en",
+            "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+            "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+            "popularity": 207.941,
+            "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+            "release_date": "2001-12-18",
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "video": false,
+            "vote_average": 8.415,
+            "vote_count": 24854
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ahYDVW0ReOTKI6sbI6du9SoXdX9.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 666035,
+            "original_language": "en",
+            "original_title": "Wanted Man",
+            "overview": "Follows a police officer who must retrieve an eyewitness and escort her after a cartel shooting leaves several DEA agents dead, but then he must decide who to trust when they discover that the attack was executed by American forces.",
+            "popularity": 237.184,
+            "poster_path": "/pmdgdb8biQLLzTjySZLPdK13KwM.jpg",
+            "release_date": "2024-08-29",
+            "title": "Wanted Man",
+            "video": false,
+            "vote_average": 9.2,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/NqqLef2ITlK8olXT4iFuUXFwSh.jpg",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "id": 840705,
+            "original_language": "en",
+            "original_title": "Blink Twice",
+            "overview": "When tech billionaire Slater King meets cocktail waitress Frida at his fundraising gala, he invites her to join him and his friends on a dream vacation on his private island. But despite the epic setting, beautiful people, ever-flowing champagne, and late-night dance parties, Frida can sense that there\u2019s something sinister hiding beneath the island\u2019s lush fa\u00e7ade.",
+            "popularity": 164.403,
+            "poster_path": "/lZGOK0I2DJSRlEPNOAFTSNxSjDD.jpg",
+            "release_date": "2024-08-21",
+            "title": "Blink Twice",
+            "video": false,
+            "vote_average": 6.847,
+            "vote_count": 235
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/716FGefV5R7drdoCOjJtzbPyyY8.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 1207898,
+            "original_language": "en",
+            "original_title": "The Jack in the Box: Rises",
+            "overview": "When a creepy Jack-in-the-Box is discovered and opened on the grounds of an exclusive girls' school, six brave students soon enter a fight to the finish against the unleashed demon.",
+            "popularity": 125.808,
+            "poster_path": "/oDVjlCTSyF6Fh8Fpm683MyGGnSG.jpg",
+            "release_date": "2024-01-18",
+            "title": "The Jack in the Box: Rises",
+            "video": false,
+            "vote_average": 6.869,
+            "vote_count": 103
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hP3HWRujFCM2qLUYhSAJEm23ElP.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "id": 1096342,
+            "original_language": "en",
+            "original_title": "Beautiful Wedding",
+            "overview": "Abby and Travis wake after a crazy night in Vegas as accidental newlyweds! With the mob on their heels, they flee to Mexico for a wild, weird honeymoon\u2014but are they in for another disaster?",
+            "popularity": 129.48,
+            "poster_path": "/6214Uk9CZZcIibI84o5DEtbhfyk.jpg",
+            "release_date": "2024-01-24",
+            "title": "Beautiful Wedding",
+            "video": false,
+            "vote_average": 5.509,
+            "vote_count": 165
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wkPPRIducGfsbaUPsWfw0MCQdX7.jpg",
+            "genre_ids": [
+                28,
+                35,
+                12
+            ],
+            "id": 1051891,
+            "original_language": "en",
+            "original_title": "Thelma",
+            "overview": "When 93-year-old Thelma Post gets duped by a phone scammer pretending to be her grandson, she sets out on a treacherous quest across the city to reclaim what was taken from her.",
+            "popularity": 148.57,
+            "poster_path": "/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
+            "release_date": "2024-06-21",
+            "title": "Thelma",
+            "video": false,
+            "vote_average": 7.103,
+            "vote_count": 102
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+            "genre_ids": [
+                878,
+                27,
+                28
+            ],
+            "id": 940721,
+            "original_language": "ja",
+            "original_title": "\u30b4\u30b8\u30e9-1.0",
+            "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+            "popularity": 127.552,
+            "poster_path": "/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg",
+            "release_date": "2023-11-03",
+            "title": "Godzilla Minus One",
+            "video": false,
+            "vote_average": 7.575,
+            "vote_count": 2129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vvIKttfL7SoE9rZyLkg6TaAVsDH.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1010600,
+            "original_language": "en",
+            "original_title": "The Strangers: Chapter 1",
+            "overview": "After their car breaks down in an eerie small town, a young couple are forced to spend the night in a remote cabin. Panic ensues as they are terrorized by three masked strangers who strike with no mercy and seemingly no motives.",
+            "popularity": 141.655,
+            "poster_path": "/oYsCNpW4k7Pd7ac3uQfBhr2ihtW.jpg",
+            "release_date": "2024-05-15",
+            "title": "The Strangers: Chapter 1",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 316
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/83NiekHNOZkLbPdjd5KTIOE92Tn.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1280440,
+            "original_language": "pl",
+            "original_title": "Bokser",
+            "overview": "With only his wife by his side, a promising young boxer flees communist Poland to chase his dream of becoming the greatest fighter in history.",
+            "popularity": 125.15,
+            "poster_path": "/2LtIFOtp9yjVd2pOtVRc091TpxP.jpg",
+            "release_date": "2024-09-10",
+            "title": "Boxer",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 746036,
+            "original_language": "en",
+            "original_title": "The Fall Guy",
+            "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+            "popularity": 140.354,
+            "poster_path": "/tSz1qsmSJon0rqjHBxXZmrotuse.jpg",
+            "release_date": "2024-04-24",
+            "title": "The Fall Guy",
+            "video": false,
+            "vote_average": 7.178,
+            "vote_count": 2017
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vblTCXOWUQGSc837vgbhDRi4HSc.jpg",
+            "genre_ids": [
+                28,
+                80,
+                35,
+                53
+            ],
+            "id": 955555,
+            "original_language": "ko",
+            "original_title": "\ubc94\uc8c4\ub3c4\uc2dc 3",
+            "overview": "Detective Ma Seok-do changes his affiliation from the Geumcheon Police Station to the Metropolitan Investigation Team, in order to eradicate Japanese gangsters who enter Korea to commit heinous crimes.",
+            "popularity": 136.174,
+            "poster_path": "/lW6IHrtaATxDKYVYoQGU5sh0OVm.jpg",
+            "release_date": "2023-05-31",
+            "title": "The Roundup: No Way Out",
+            "video": false,
+            "vote_average": 7.236,
+            "vote_count": 401
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/buawWBeKYjYfeiPoS2jIcjOrghZ.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1214509,
+            "original_language": "en",
+            "original_title": "In a Violent Nature",
+            "overview": "The enigmatic resurrection, rampage, and retribution of an undead monster in a remote wilderness unleashes an iconic new killer after a locket is removed from a collapsed fire tower that entombed its rotting corpse.",
+            "popularity": 104.969,
+            "poster_path": "/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg",
+            "release_date": "2024-05-31",
+            "title": "In a Violent Nature",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 174
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v2oPRCnWADeQhEAAUKD7DfMdScP.jpg",
+            "genre_ids": [
+                28,
+                878,
+                9648,
+                53
+            ],
+            "id": 720321,
+            "original_language": "en",
+            "original_title": "Breathe",
+            "overview": "Air-supply is scarce in the near future, forcing a mother and daughter to fight for survival when two strangers arrive desperate for an oxygenated haven.",
+            "popularity": 110.334,
+            "poster_path": "/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg",
+            "release_date": "2024-04-04",
+            "title": "Breathe",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 102
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uFMIiNYUDHzo7YGSg5UUR7VLNma.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 1278099,
+            "original_language": "es",
+            "original_title": "El candidato honesto",
+            "overview": "A former idealistic leader turned corrupt politician is cursed by his grandmother on the eve of the presidential election, forcing him to be honest. Can he win without lies and what will be the conditions?",
+            "popularity": 82.238,
+            "poster_path": "/hmV5HPkbQuzgPo11Xm70CMQV3iZ.jpg",
+            "release_date": "2024-08-08",
+            "title": "El Candidato Honesto",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ySgY4jBvZ6qchrxKnBg4M8tZp8V.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1111873,
+            "original_language": "en",
+            "original_title": "Abigail",
+            "overview": "A group of criminals kidnap a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with no normal little girl.",
+            "popularity": 109.193,
+            "poster_path": "/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+            "release_date": "2024-04-16",
+            "title": "Abigail",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 1038
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7QBtfV7e24sNFQ47g8xh9iU5D4J.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                14
+            ],
+            "id": 1159477,
+            "original_language": "en",
+            "original_title": "The King Tide",
+            "overview": "After the mayor of an idyllic island village discovers a child with mysterious powers awash on their shores, the once peaceful community devolves into civil war, torn over the belief that the child is the next saviour.",
+            "popularity": 99.739,
+            "poster_path": "/nLVFvWHI3449klfOhR4nMxfHXzM.jpg",
+            "release_date": "2024-04-26",
+            "title": "The King Tide",
+            "video": false,
+            "vote_average": 7.067,
+            "vote_count": 52
+        }
+    ],
+    "type": "movie",
+    "page": 3
+}

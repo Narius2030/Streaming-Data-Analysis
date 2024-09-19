@@ -1,0 +1,403 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/orTQxcx2aoNpx1DIKTjBzpzvzd0.jpg",
+            "genre_ids": [
+                27,
+                14
+            ],
+            "id": 1130053,
+            "original_language": "en",
+            "original_title": "Cinderella's Curse",
+            "overview": "Desperate Cinderella summons her fairy godmother from an ancient flesh-bound book, seeking revenge on her evil stepmother and stepsisters who abuse and torment her daily.",
+            "popularity": 292.738,
+            "poster_path": "/xegGyjYdCcF9X1FWpfw1O1LcFnZ.jpg",
+            "release_date": "2024-05-31",
+            "title": "Cinderella's Curse",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bM4gNeDemQnY3TujjMe1usjt4iZ.jpg",
+            "genre_ids": [
+                878,
+                12
+            ],
+            "id": 748167,
+            "original_language": "en",
+            "original_title": "Uglies",
+            "overview": "In a futuristic dystopia with enforced beauty standards, a teen awaiting mandatory cosmetic surgery embarks on a journey to find her missing friend.",
+            "popularity": 529.326,
+            "poster_path": "/jaUu9zHtbcFwrB5Y1DNYE09HMex.jpg",
+            "release_date": "2024-09-12",
+            "title": "Uglies",
+            "video": false,
+            "vote_average": 6.076,
+            "vote_count": 244
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3EIYw4aJImgsvJsb0ybhOzLk6J3.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 1066262,
+            "original_language": "en",
+            "original_title": "The Convert",
+            "overview": "Munro, a soldier turned lay preacher, comes to New Zealand to minister to the first British colonists, but he is converted by the powerful chief Maianui to serve a different purpose.",
+            "popularity": 354.073,
+            "poster_path": "/e5ZqqPlhKstzB4geibpZh38w7Pq.jpg",
+            "release_date": "2024-03-14",
+            "title": "The Convert",
+            "video": false,
+            "vote_average": 6.151,
+            "vote_count": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vJk9DOLgP23jO5mBnPHE93MFgYu.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                14,
+                35
+            ],
+            "id": 826510,
+            "original_language": "en",
+            "original_title": "Harold and the Purple Crayon",
+            "overview": "Inside of his book, adventurous Harold can make anything come to life simply by drawing it. After he grows up and draws himself off the book's pages and into the physical world, Harold finds he has a lot to learn about real life.",
+            "popularity": 321.698,
+            "poster_path": "/dEsuQOZwdaFAVL26RjgjwGl9j7m.jpg",
+            "release_date": "2024-07-31",
+            "title": "Harold and the Purple Crayon",
+            "video": false,
+            "vote_average": 7.025,
+            "vote_count": 119
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h9YlRHAZWOWtGonllmj6JJg1FrE.jpg",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                10751,
+                14
+            ],
+            "id": 588648,
+            "original_language": "zh",
+            "original_title": "Dragonkeeper",
+            "overview": "Set in Han Imperial China, the plot follows the adventures of enslaved girl Ping with ancient dragon Long Danzi. Dragons had been banished from the kingdom. Ping, an orphan, finds one of the last remaining dragon eggs. Palace guards force Ping to run away in order to return the dragon egg to the ocean and save all dragons from extinction. Ping discovers that she is a true Dragonkeeper.",
+            "popularity": 319.177,
+            "poster_path": "/ggZGnJLzO3BTu7ysuuIzou3Oex5.jpg",
+            "release_date": "2024-04-11",
+            "title": "Dragonkeeper",
+            "video": false,
+            "vote_average": 7.253,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jnrLpUtOKelKhmGieEBcAvrsrFB.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1114513,
+            "original_language": "en",
+            "original_title": "Speak No Evil",
+            "overview": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+            "popularity": 363.649,
+            "poster_path": "/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg",
+            "release_date": "2024-09-11",
+            "title": "Speak No Evil",
+            "video": false,
+            "vote_average": 7.059,
+            "vote_count": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dJRwzUzAslW267cyA61s6oAAmpn.jpg",
+            "genre_ids": [
+                35,
+                80,
+                53
+            ],
+            "id": 1227624,
+            "original_language": "es",
+            "original_title": "Mejor viuda que mal acompa\u00f1ada",
+            "overview": "Three girlfriends, neglected and mistreated by their husbands, plan to take revenge on them with the help of an experienced man in this type of job.",
+            "popularity": 280.831,
+            "poster_path": "/qEMBuWTySJFpBgT5Psz6ppEirEY.jpg",
+            "release_date": "2024-09-06",
+            "title": "Killer Babes",
+            "video": false,
+            "vote_average": 8.636,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q4aztOGdlXX2LTnTN3f4EegG9aB.jpg",
+            "genre_ids": [
+                27,
+                878,
+                28
+            ],
+            "id": 1091298,
+            "original_language": "en",
+            "original_title": "Attack of the Meth Gator",
+            "overview": "On a small island in the Florida Everglades, a DEA agent and a local sheriff gather a team of locals to take down a giant meth-fueled alligator.",
+            "popularity": 192.049,
+            "poster_path": "/e8W2ybPj3lQiDTAoWfofxAXVkoL.jpg",
+            "release_date": "2024-09-05",
+            "title": "Attack of the Meth Gator",
+            "video": false,
+            "vote_average": 3.6,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pysPTtYmTcQBlShcxXZwfs3Zp8H.jpg",
+            "genre_ids": [
+                878,
+                53,
+                27
+            ],
+            "id": 1064028,
+            "original_language": "en",
+            "original_title": "Subservience",
+            "overview": "With his wife out sick, a struggling father brings home a lifelike AI, only to have his self-aware new help want everything her new family has to offer... Like the affection of her owner and she'll kill to get it.",
+            "popularity": 351.35,
+            "poster_path": "/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
+            "release_date": "2024-08-15",
+            "title": "Subservience",
+            "video": false,
+            "vote_average": 6.012,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8fNBsXpgMvqk75SPsZzTmIqSRxY.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 646683,
+            "original_language": "en",
+            "original_title": "The Exorcism",
+            "overview": "A troubled actor begins to unravel while shooting a supernatural horror film, leading his estranged daughter to wonder if he's slipping back into his past addictions or if there's something more sinister at play.",
+            "popularity": 243.583,
+            "poster_path": "/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg",
+            "release_date": "2024-05-30",
+            "title": "The Exorcism",
+            "video": false,
+            "vote_average": 4.833,
+            "vote_count": 156
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aswBReNN2adqTiOBnvh96RCDeJP.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 959092,
+            "original_language": "fr",
+            "original_title": "Farang",
+            "overview": "Sam is a professional boxer about to get released from prison. While on parole, his past catches up with him and he has no choice but to flee. Five years later, he has rebuilt a simple life on an exotic island in Thailand with his wife and her daughter, but when he gets blackmailed by a dangerous local godfather, he must embark on a dangerous drug smuggling mission which results in a tragedy. Now he has only one purpose: to seek merciless vengeance.",
+            "popularity": 229.605,
+            "poster_path": "/u9035lysUz3ccloQt0SeIp1Mu8a.jpg",
+            "release_date": "2023-06-28",
+            "title": "Mayhem!",
+            "video": false,
+            "vote_average": 6.67,
+            "vote_count": 150
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9LsZh2O1sidMvxKuMCI9RDzdZj4.jpg",
+            "genre_ids": [
+                53,
+                27,
+                80,
+                9648
+            ],
+            "id": 1245708,
+            "original_language": "en",
+            "original_title": "Crescent City",
+            "overview": "When a ruthless serial killer terrorizes a small Southern town, everyone becomes a suspect -- including local authorities. As the body count rises and the dark mystery deepens, the chief detective becomes haunted by the horrors of his past.",
+            "popularity": 224.78,
+            "poster_path": "/kWwIkWextuqVUvAEM9DwJfEfkKe.jpg",
+            "release_date": "2024-08-16",
+            "title": "Crescent City",
+            "video": false,
+            "vote_average": 6.054,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/61yrVrkOH75fUtExDZ4Hi0KqOmc.jpg",
+            "genre_ids": [
+                27,
+                53,
+                35
+            ],
+            "id": 1225377,
+            "original_language": "en",
+            "original_title": "The Mouse Trap",
+            "overview": "It's Alex's 21st Birthday, but she's stuck at the amusement arcade on a late shift so her friends decide to surprise her, but a masked killer dressed as Mickey Mouse decides to play a game of his own with them which she must survive.",
+            "popularity": 201.324,
+            "poster_path": "/3ovFaFeojLFIl5ClqhtgYMDS8sE.jpg",
+            "release_date": "2024-08-23",
+            "title": "The Mouse Trap",
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wSZbtiFIK1fkKZdSRtn2kz2Ttfd.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 1139817,
+            "original_language": "ko",
+            "original_title": "\ubb34\ub3c4\uc2e4\ubb34\uad00",
+            "overview": "A talented martial artist who can't walk past a person in need unites with a probation officer to fight and prevent crime as a martial arts officer.",
+            "popularity": 329.602,
+            "poster_path": "/rEaJSXAlNfdhRpDHiNcJsoUa9qE.jpg",
+            "release_date": "2024-09-10",
+            "title": "Officer Black Belt",
+            "video": false,
+            "vote_average": 7.741,
+            "vote_count": 58
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/NqqLef2ITlK8olXT4iFuUXFwSh.jpg",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "id": 840705,
+            "original_language": "en",
+            "original_title": "Blink Twice",
+            "overview": "When tech billionaire Slater King meets cocktail waitress Frida at his fundraising gala, he invites her to join him and his friends on a dream vacation on his private island. But despite the epic setting, beautiful people, ever-flowing champagne, and late-night dance parties, Frida can sense that there\u2019s something sinister hiding beneath the island\u2019s lush fa\u00e7ade.",
+            "popularity": 230.164,
+            "poster_path": "/lZGOK0I2DJSRlEPNOAFTSNxSjDD.jpg",
+            "release_date": "2024-08-21",
+            "title": "Blink Twice",
+            "video": false,
+            "vote_average": 6.834,
+            "vote_count": 244
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 122,
+            "original_language": "en",
+            "original_title": "The Lord of the Rings: The Return of the King",
+            "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.\u200b",
+            "popularity": 287.247,
+            "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+            "release_date": "2003-12-17",
+            "title": "The Lord of the Rings: The Return of the King",
+            "video": false,
+            "vote_average": 8.48,
+            "vote_count": 23926
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2XCmJWRZIQtHzikNsW29l9oy5Fb.jpg",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "id": 804616,
+            "original_language": "en",
+            "original_title": "Something in the Water",
+            "overview": "After lesbian couple Meg and Kayla split following a traumatic homophobic incident, their three friends are intent on mending the rift during the wedding of Lizzie at a paradise resort. But a pre-wedding boat excursion turns to disaster and the wedding breakfast is likely to be the five girls!",
+            "popularity": 178.144,
+            "poster_path": "/1iWGGxHEwswZGvPSoMZlLFf0PNq.jpg",
+            "release_date": "2024-03-22",
+            "title": "Something in the Water",
+            "video": false,
+            "vote_average": 6.068,
+            "vote_count": 147
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "id": 14836,
+            "original_language": "en",
+            "original_title": "Coraline",
+            "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+            "popularity": 193.502,
+            "poster_path": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+            "release_date": "2009-02-05",
+            "title": "Coraline",
+            "video": false,
+            "vote_average": 7.886,
+            "vote_count": 7854
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7ks7A3mAO7twDOvBVE4cR8LaIM8.jpg",
+            "genre_ids": [
+                16,
+                28,
+                18
+            ],
+            "id": 1104844,
+            "original_language": "ja",
+            "original_title": "\u5287\u5834\u7248\u30d6\u30eb\u30fc\u30ed\u30c3\u30af -EPISODE \u51ea-",
+            "overview": "One day, Nagi Seishiro receives an invitation to the mysterious BLUE LOCK Project. What awaits him there is an encounter with the finest strikers assembled from across the country. Nagi's dream of becoming the best, alongside Mikage Reo, will take this prodigy to a world he's never known.",
+            "popularity": 194.536,
+            "poster_path": "/ae434jM5NG2kKX1rRkG5giMhpPI.jpg",
+            "release_date": "2024-04-19",
+            "title": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "video": false,
+            "vote_average": 7.244,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/viKEEaaCaZ0hZ2nGuvIEozlLooL.jpg",
+            "genre_ids": [
+                27,
+                80,
+                9648
+            ],
+            "id": 1023922,
+            "original_language": "en",
+            "original_title": "MaXXXine",
+            "overview": "In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally gets her big break. But as a mysterious killer stalks the starlets of Hollywood, a trail of blood threatens to reveal her sinister past.",
+            "popularity": 171.886,
+            "poster_path": "/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
+            "release_date": "2024-07-04",
+            "title": "MaXXXine",
+            "video": false,
+            "vote_average": 6.487,
+            "vote_count": 528
+        }
+    ],
+    "type": "movie",
+    "page": 2
+}
