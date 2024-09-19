@@ -1,28 +1,34 @@
-from elasticsearch import Elasticsearch
+import json
+from core.config import get_settings
+import pandas as pd
+import glob
 
-client = Elasticsearch(
-  hosts="https://1bb948ea706f49129cedb435f9951d06.asia-southeast1.gcp.elastic-cloud.com:443",
-  api_key="YUUyMC1KRUJDQlJXa2FMWlVZNDk6UHMtZmRUQ3NUQmkyZzBZT2twUmV4dw==",
-  # ca_certs="./http_ca.crt",
-  # verify_certs=True
-)
 
-# API key should have cluster monitor rights
-client.info()
+settings = get_settings()    
 
-documents = [
-  { "index": { "_index": "supermarket-sales", "_id": "9780553351927"}},
-  {"name": "Snow Crash", "author": "Neal Stephenson", "release_date": "1992-06-01", "page_count": 470, "_extract_binary_content": True, "_reduce_whitespace": True, "_run_ml_inference": True},
-  { "index": { "_index": "supermarket-sales", "_id": "9780441017225"}},
-  {"name": "Revelation Space", "author": "Alastair Reynolds", "release_date": "2000-03-15", "page_count": 585, "_extract_binary_content": True, "_reduce_whitespace": True, "_run_ml_inference": True},
-  { "index": { "_index": "supermarket-sales", "_id": "9780451524935"}},
-  {"name": "1984", "author": "George Orwell", "release_date": "1985-06-01", "page_count": 328, "_extract_binary_content": True, "_reduce_whitespace": True, "_run_ml_inference": True},
-  { "index": { "_index": "supermarket-sales", "_id": "9781451673319"}},
-  {"name": "Fahrenheit 451", "author": "Ray Bradbury", "release_date": "1953-10-15", "page_count": 227, "_extract_binary_content": True, "_reduce_whitespace": True, "_run_ml_inference": True},
-  { "index": { "_index": "supermarket-sales", "_id": "9780060850524"}},
-  {"name": "Brave New World", "author": "Aldous Huxley", "release_date": "1932-06-01", "page_count": 268, "_extract_binary_content": True, "_reduce_whitespace": True, "_run_ml_inference": True},
-  { "index": { "_index": "supermarket-sales", "_id": "9780385490818"}},
-  {"name": "The Handmaid's Tale", "author": "Margaret Atwood", "release_date": "1985-06-01", "page_count": 311, "_extract_binary_content": True, "_reduce_whitespace": True, "_run_ml_inference": True},
-]
+def create_documents():
+    documents = []
+    for path in glob.glob('./logs/*.json'):
+        with open(path, "r", encoding="utf-8") as file:
+            resp = json.load(file)
+            rows = resp['data']
+            _type = resp['type']
+            _page = resp['page']
+            for row in rows:
+                for key, val in row.items():
+                    if (key in ['first_air_date', 'release_date']) and (val == ""):
+                        row[key] = "2024-01-01"
+                    elif (val == ""):
+                        row[key] = "N/A"
+                row['type'] = _type
+                row['page'] = _page
+                documents.append(row)
+    return documents
 
-client.bulk(operations=documents, pipeline="ent-search-generic-ingestion")
+
+if __name__ == "__main__":
+    documents = create_documents()
+    # print(documents[:5])
+    
+    df = pd.DataFrame(documents)
+    print(df.loc[0])
