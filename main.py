@@ -6,10 +6,16 @@ import requests
 
 settings = get_settings()    
 
-url = f"https://api.themoviedb.org/3/movie/now_playing?language=en-US&page=1"
+
+url = "https://api-football-v1.p.rapidapi.com/v3/players/topscorers"
+
+querystring = {"league":"39","season":"2020"}
+
 headers = {
-    "accept": "application/json",
-    "Authorization": f"Bearer {settings.TMDB_BEARER_TOKEN}"
+	"x-rapidapi-key": "de5bd5b5b7msha460bb7d261f1b1p1fe289jsncc96fb44fa60",
+	"x-rapidapi-host": "api-football-v1.p.rapidapi.com"
 }
-response = requests.get(url, headers=headers)
+
+response = requests.get(url, headers=headers, params=querystring)
+
 print(response.json().get('results'))
