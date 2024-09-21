@@ -9,16 +9,6 @@ services:
   #     - "8081:8080"
   #   command: airflow standalone
 
-  # mongo:
-  #   image: mongo
-  #   container_name: mongodb
-  #   ports:
-  #     - 27017:27017
-  #   environment:
-  #     MONGO_INITDB_ROOT_USERNAME: admin
-  #     MONGO_INITDB_ROOT_PASSWORD: nhanbui
-  #   volumes:
-  #     - ./data/mongodb/:/data/mongodb/
 
   zookeeper:
     image: wurstmeister/zookeeper:latest
@@ -30,12 +20,13 @@ services:
     mem_limit: '4g'
     ports:
       - "9092:9092"
-    expose:
-      - "9093"
     environment:
-      KAFKA_BROKER_ID: 1
-      KAFKA_ADVERTISED_LISTENERS: INSIDE://:9093,OUTSIDE://localhost:9092
-      KAFKA_LISTENERS: INSIDE://:9093,OUTSIDE://localhost:9092
-      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: INSIDE:PLAINTEXT,OUTSIDE:PLAINTEXT
-      KAFKA_INTER_BROKER_LISTENER_NAME: INSIDE
+      KAFKA_BROKER_ID: 0
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://localhost:9092
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_LISTENERS: PLAINTEXT://:9092
+      # KAFKA_ADVERTISED_LISTENERS: INSIDE://:9093,OUTSIDE://localhost:9092
+      # KAFKA_LISTENERS: INSIDE://:9093,OUTSIDE://localhost:9092
+      # KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: INSIDE:PLAINTEXT,OUTSIDE:PLAINTEXT
+      # KAFKA_INTER_BROKER_LISTENER_NAME: INSIDE
+      # KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181

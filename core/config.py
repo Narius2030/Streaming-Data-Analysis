@@ -15,6 +15,7 @@ class Settings():
     FILMS_INDEX_KEY: str = os.getenv('FILMS_INDEX_KEY')
     TV_INDEX_KEY: str = os.getenv('TV_INDEX_KEY')
     TMDB_INDEX_KEY: str = os.getenv('TMDB_INDEX_KEY')
+    SPORT_RK_INDEX_KEY: str = os.getenv('SPORT_RK_INDEX_KEY')
     
 def get_settings() -> Settings:
     return Settings()

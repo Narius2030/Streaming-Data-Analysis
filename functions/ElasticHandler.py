@@ -17,6 +17,24 @@ class ElasticHandlers(Elasticsearch):
         for path in glob.glob(path):
             with open(path, 'r') as file:
                 resp = json.load(file)
+                if isinstance(resp, dict) and ('rankings' in resp['data']):
+                    for ranking_item in resp['data']['rankings']:
+                        team = ranking_item['team']
+                        message = {
+                            'page': resp['page'],
+                            'name': team['name'],
+                            'nameCode': team['nameCode'],
+                            'current_ranking': ranking_item['ranking'],
+                            'current_points': ranking_item.get('points', None),
+                            'previous_ranking': ranking_item.get('previousRanking', None),
+                            'previous_points': ranking_item.get('previousPoints', None),
+                            'growth_point': (ranking_item.get('points', None) - ranking_item.get('previousPoints', None))
+                        }
+                        # Thêm thông điệp vào danh sách
+                        documents.append(message)
+
+
+                '''
                 rows = resp['data']
                 _type = resp['type']
                 for row in rows:
@@ -30,12 +48,13 @@ class ElasticHandlers(Elasticsearch):
                     # _id = { "index": { "_index": index}}
                     # documents += [_id, row]
                     documents.append(row)
+                '''
         return documents
 
     def ingest_data(self, documents:list, index:str=None, pipeline:str="ent-search-generic-ingestion"):
         try:
             for row in documents:
-                _id = row['id']
+                _id = row['nameCode']
                 self.es.index(index=index, id=_id, document=row)
             # self.es.bulk(operations=documents, pipeline=pipeline)
             print("Data was ingested successfully to Elasticsearch ✔")

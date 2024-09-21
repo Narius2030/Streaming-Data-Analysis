@@ -2,24 +2,34 @@ import sys
 sys.path.append('./')
 
 from functions.KafkaComponent import Consumer, Producer
+from functions.ElasticHandler import ElasticHandlers
+from core.config import get_settings
 import time
 import json
-from datetime import date, datetime
+from datetime import date
 import http.client
 
+
+settings = get_settings()
+
 def request_sport_ranking():
-    # TODO: recieve data from API sources - transformation is optional    
-    conn = http.client.HTTPSConnection("footapi7.p.rapidapi.com")
-    headers = {
-        'x-rapidapi-key': "a7f9745956msh7d364da5b308313p198455jsn24af2af221ef",
-        'x-rapidapi-host': "footapi7.p.rapidapi.com"
-    }
-    conn.request("GET", "/api/rankings/fifa", headers=headers)
-    res = conn.getresponse()
-    data = res.read()
-    # Chuyển đổi dữ liệu từ byte sang chuỗi và sau đó thành đối tượng JSON
-    data_json = json.loads(data.decode("utf-8"))
-    return json.dumps(get_ranking(data_json), indent=4, ensure_ascii=False)
+    for page in range(1, 2):
+        try:
+            # TODO: recieve data from API sources - transformation is optional    
+            conn = http.client.HTTPSConnection("footapi7.p.rapidapi.com")
+            headers = {
+                'x-rapidapi-key': "a7f9745956msh7d364da5b308313p198455jsn24af2af221ef",
+                'x-rapidapi-host': "footapi7.p.rapidapi.com"
+            }
+            conn.request("GET", "/api/rankings/fifa", headers=headers)
+            res = conn.getresponse()
+            data = res.read()
+            # Chuyển đổi dữ liệu từ byte sang chuỗi và sau đó thành đối tượng JSON
+            data_json = json.loads(data.decode("utf-8"))
+            # data_json['page'] = page
+        except Exception as exc:
+            raise Exception(str(exc))
+        yield (data_json, page) #json.dumps(get_ranking(data_json), indent=4, ensure_ascii=False)
 
 
 def get_ranking(data_json):
@@ -31,6 +41,7 @@ def get_ranking(data_json):
         for ranking_item in data_json['rankings']:
             team = ranking_item['team']
             message = {
+                'page': data_json['page'],
                 'name': team['name'],
                 'nameCode': team['nameCode'],
                 'current_ranking': ranking_item['ranking'],
@@ -60,25 +71,27 @@ def example(topic):
     ]
     
     cons_tasks = [
-        Consumer(topic=topic, group_id='sport' , path='./logs', function=write_logs),
-        Consumer(topic=topic, group_id='sport' , path='./logs', function=write_logs),
+        Consumer(topic=topic, group_id='sports' , path='./logs', function=write_logs),
+        # Consumer(topic=topic, group_id='sports' , path='./logs', function=write_logs),
     ]
 
     # Start threads and Stop threads
     for t in prod_tasks:
         t.start()
     time.sleep(2)
-    for task in prod_tasks:
-        task.stop()
     
     for t in cons_tasks:
         t.start()
     time.sleep(5)
+   
+
+    for task in prod_tasks:
+        task.stop()
     for task in cons_tasks:
         task.stop()
 
-    # for task in prod_tasks:
-    #     task.join()
+    for task in prod_tasks:
+        task.join()
     for task in cons_tasks:
         task.join()
     
@@ -87,8 +100,17 @@ def example(topic):
     
 if __name__=='__main__':
     # topic and producer
-    topic_name='sport'
+    topic_name='sports'
     
     # run main
-    example(topic_name)
+    # example(topic_name)
+
+    # insert data to Elastic    
+    handler = ElasticHandlers(
+        host=settings.ELASTIC_HOST,
+        api_key=settings.SPORT_RK_INDEX_KEY,
+    )
+    documents = handler.create_documents(index="sport-ranking", path="./logs/sport_ranking_*.json")
+    print(documents[0])
+    handler.ingest_data(index="sport-ranking", documents=documents)
     

@@ -4,6 +4,7 @@ from datetime import date
 from kafka import KafkaProducer, KafkaConsumer
 
 
+
 class Producer(threading.Thread):
     def __init__(self, topic:str, key:str=None, function=None):
         threading.Thread.__init__(self)
