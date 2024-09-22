@@ -5,12 +5,12 @@ from kafka import KafkaProducer, KafkaConsumer
 
 
 class Producer(threading.Thread):
-    def __init__(self, topic:str, key:str=None, function=None):
+    def __init__(self, topic:str, key:str=None, generator=None):
         threading.Thread.__init__(self)
         self.stop_event = threading.Event()
         self.topic = topic
         self.key = key
-        self.function = function
+        self.generator = generator
 
     def stop(self):
         self.stop_event.set()
@@ -21,7 +21,7 @@ class Producer(threading.Thread):
                                  value_serializer=lambda x: dumps(x).encode('utf-8'))
         # send data to topic
         while not self.stop_event.is_set():
-            for data in self.function():
+            for data in self.generator():
                 producer.send(self.topic, value={'data':data[0], 'type':str(self.key), 'page': data[1]}, key=f"{str(self.key)}")
                 # if data[2] == True:
                 #     self.stop()
