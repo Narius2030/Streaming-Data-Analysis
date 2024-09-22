@@ -111,4 +111,4 @@ if __name__=='__main__':
         api_key=settings.FILMS_INDEX_KEY,
     )
     documents = handler.create_documents(index=topic_name, path="./logs/*.json")
-    # handler.ingest_data(es, "films", documents)
+    # handler.ingest_data("films", documents)

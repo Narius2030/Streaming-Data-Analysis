@@ -12,7 +12,7 @@ class ElasticHandlers(Elasticsearch):
     def __init__(self, api_key:str, host:str) -> None:
         self.es = Elasticsearch(api_key=api_key, hosts=host)
     
-    def create_documents(self, index:str, path:str):
+    def create_documents(self, path:str, index:str):
         documents = []
         for path in glob.glob(path):
             with open(path, 'r') as file:
