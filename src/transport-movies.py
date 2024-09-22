@@ -68,8 +68,8 @@ def write_logs(message, path):
 
 def transport(topic):
     prod_tasks = [
-        Producer(topic=topic, function=request_movies, key='movie'),
-        Producer(topic=topic, function=request_tvseries, key='tvseries'),
+        Producer(topic=topic, generator=request_movies, key='movie'),
+        Producer(topic=topic, generator=request_tvseries, key='tvseries'),
     ]
     
     cons_tasks = [
