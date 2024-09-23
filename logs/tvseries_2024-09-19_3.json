@@ -1,0 +1,410 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/6sI85zW1DWcOVVdMfAxlRS8YEpY.jpg",
+            "genre_ids": [],
+            "id": 260196,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "es",
+            "original_name": "La Isla: Desaf\u00edo Extremo",
+            "overview": "A tour across Turkey where 24 contestants face survival challenges.",
+            "popularity": 992.375,
+            "poster_path": "/1mOLASAf5AkdYcRwe8L3uVa6yvb.jpg",
+            "first_air_date": "2024-07-30",
+            "name": "La Isla: Desaf\u00edo Extremo",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Gj33rlZRbBkuPUTrjPJbmtlEBa.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 108466,
+            "origin_country": [
+                "NO"
+            ],
+            "original_language": "no",
+            "original_name": "Alle mot alle",
+            "overview": "",
+            "popularity": 1387.985,
+            "poster_path": "/qmOYqF2ezHT1leCE91Mdm6tu3Vl.jpg",
+            "first_air_date": "2020-08-31",
+            "name": "Alle mot alle",
+            "vote_average": 8.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4zR7CfhkQ2oJgBO934u3pCnDfJY.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 257943,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "El diario de Jorge",
+            "overview": "",
+            "popularity": 1003.353,
+            "poster_path": "/cWXwHwiZXiQoykoiTGjL1COS9pV.jpg",
+            "first_air_date": "2024-07-29",
+            "name": "El diario de Jorge",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1rGfdcrJOzqyBGo0HUa740L2GhX.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 247174,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "El Conde: Amor y Honor",
+            "overview": "A wrongful conviction changes the life of Alejandro Gait\u00e1n and separates him from the woman he loves, Mariana Zambrano. After 17 years in jail, he becomes a count with the help of another prisoner and seeks revenge on those who turned on him.",
+            "popularity": 1365.346,
+            "poster_path": "/lwcTD8hRx5Ch4sAmjNHmWigkaND.jpg",
+            "first_air_date": "2024-07-01",
+            "name": "El Conde: Amor y Honor",
+            "vote_average": 7.636,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i8iqYtAy9qcO5RSrA1f6fY1n6SN.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 235484,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Suidooster",
+            "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+            "popularity": 1015.883,
+            "poster_path": "/naCgSiacvV685kait6fBvhVhdce.jpg",
+            "first_air_date": "2015-11-16",
+            "name": "Suidooster",
+            "vote_average": 7.5,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o74zr3P3eYKKs7jUlWgkmADnpAg.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 231962,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Diepe Waters",
+            "overview": "A South African, Afrikaans-language telenovela which takes place in and around a competitive swimming club, Die Swartmarlyne.",
+            "popularity": 1078.48,
+            "poster_path": "/9YpV8H6E0gxp946jPox0Oa53jp6.jpg",
+            "first_air_date": "2022-10-03",
+            "name": "Diepe Waters",
+            "vote_average": 9.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yWVqYVOUcS6vu22v4BPXKJW10m5.jpg",
+            "genre_ids": [
+                10764,
+                10751
+            ],
+            "id": 206679,
+            "origin_country": [
+                "CZ"
+            ],
+            "original_language": "cs",
+            "original_name": "Na lovu",
+            "overview": "Na Lovu is a Czech game-show, based on the license of the popular global format The Chase. A heart-racing quiz show where four competitors must pit their wits and face off against Lovec (the Chaser), a ruthless quiz genius determined to stop them from winning cash prizes.",
+            "popularity": 1012.515,
+            "poster_path": "/udJ1wVuOwFg1q6UBcQGwcpcdIYF.jpg",
+            "first_air_date": "2021-08-16",
+            "name": "Na lovu",
+            "vote_average": 5.9,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n9u72dPMB1e3IpgN3LHRaons6gw.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 79855,
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Questions pour un champion",
+            "overview": "Samuel Etienne hosts this emblematic game, which sees four candidates compete each evening around questions of general culture.",
+            "popularity": 958.747,
+            "poster_path": "/tKb3dm32wUDQmWNfygbvTkYKobb.jpg",
+            "first_air_date": "",
+            "name": "Questions pour un champion",
+            "vote_average": 4.3,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ohJTnu93hJ0Uonl86Wn3mOSlWXN.jpg",
+            "genre_ids": [
+                10751,
+                35,
+                18
+            ],
+            "id": 91759,
+            "origin_country": [
+                "HK"
+            ],
+            "original_language": "cn",
+            "original_name": "\u611b\u00b7\u56de\u5bb6\u4e4b\u958b\u5fc3\u901f\u905e",
+            "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
+            "popularity": 1097.13,
+            "poster_path": "/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+            "first_air_date": "2017-02-06",
+            "name": "Come Home Love: Lo and Behold",
+            "vote_average": 5.1,
+            "vote_count": 38
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iF1W066gp2pkPMAqNDCLpqcCXIW.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 248155,
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "\uc6a9\uac10\ubb34\uc30d \uc6a9\uc218\uc815",
+            "overview": "An ingenuous home-shopping host Yong Sujeong dreams of becoming a successful businesswoman who wins people before money. After losing her parents as a kid, she travels around the country with tinker Yong Jangwon and grows up as a strong woman full of courage. She may look fierce on the outside, but in fact, she is a softhearted, clumsy crybaby and a dork who cannot even make eye contact with her crush, Ju Ujin. Meanwhile, there is Yeo Uiju, a man who gets on her nerves by loafing around her. As a soldier, he is more logical rather than empathetic, but he passes out whenever he gets drunk. He loses his face after meeting Sujeong, who drinks like a fish, but he starts to fall for her. By a twist of fate, he realizes he is the second grandson of Masung Group, and his older brother is Sujeong's crush, Ujin.",
+            "popularity": 1242.093,
+            "poster_path": "/v0Ld4z1pn61Ojb6ujfsyTZoFNPV.jpg",
+            "first_air_date": "2024-05-06",
+            "name": "The Brave Yong Sujeong",
+            "vote_average": 6.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ookJ1LS8Uc0ji7cSDuJfV7Qh6Lb.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 18770,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Gran hermano",
+            "overview": "Gran Hermano is a reality television series broadcast in Spain on Telecinco and La Siete produced by Endemol. It is part of the Big Brother franchise first developed in the Netherlands. As of February 2012, 19 editions of the show have aired.",
+            "popularity": 1091.855,
+            "poster_path": "/gQ0Emh2LT047Fip2HWye3NkrkQB.jpg",
+            "first_air_date": "2000-04-23",
+            "name": "Gran hermano",
+            "vote_average": 4.3,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Bkqjc9tNWo3KLr1aRYyJ7vMQtM.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 235493,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "De Bondgenoten",
+            "overview": "",
+            "popularity": 918.126,
+            "poster_path": "/wsipinibYxrZhpkQ6MKxIMgL0hv.jpg",
+            "first_air_date": "2023-10-22",
+            "name": "De Bondgenoten",
+            "vote_average": 6.778,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1iAc3ML51uNe16jlxTQV84mLHG2.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 40879,
+            "origin_country": [
+                "DE"
+            ],
+            "original_language": "de",
+            "original_name": "Dahoam is Dahoam",
+            "overview": "The lives of the residents of the fictitious village of Lansing in Upper Bavaria.",
+            "popularity": 1143.593,
+            "poster_path": "/tGXZEUgSbgufoOpXMImSKPDd5A3.jpg",
+            "first_air_date": "2007-10-08",
+            "name": "Dahoam is Dahoam",
+            "vote_average": 5.6,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kgoNA7lmLsz1c3bF7F8TNwhX8zB.jpg",
+            "genre_ids": [
+                35,
+                10767
+            ],
+            "id": 6809,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "El hormiguero",
+            "overview": "El Hormiguero is a Spanish television program with a live audience focusing on comedy, science, and politics running since September 2006. It is hosted and produced by screenwriter Pablo Motos. The show aired on Spain's Cuatro channel from launch until June 2011 and is now broadcast on Antena 3. Recurring guests on the show include Luis Piedrahita, Raquel Martos, Marron & \"The Man in Black\", and puppet ants Trancas and Barrancas. It has proved a ratings success, and has expanded from a weekly 120-minute show to a daily 40-minute show in its third season, which began on September 17, 2007. The show won the Entertainment prize at the 2009 Rose d'Or ceremony.",
+            "popularity": 1136.526,
+            "poster_path": "/sc7Uy9ynFn3FLbVldF64Izi9RSD.jpg",
+            "first_air_date": "2006-09-24",
+            "name": "El hormiguero",
+            "vote_average": 5.0,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6RGenKnUe7UoEJLRKVAMMq2TWG.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 154828,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "Vandaag Inside",
+            "overview": "",
+            "popularity": 896.669,
+            "poster_path": "/xEFfIcHzlxiYw8e6hXRCqskSKsG.jpg",
+            "first_air_date": "2022-01-10",
+            "name": "Vandaag Inside",
+            "vote_average": 5.1,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mo0RKG7lhbxPME8qksfb9ewOVUy.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 68479,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Married at First Sight UK",
+            "overview": "Working with leading relationship experts, eight British singles are carefully match-made into four married couples, who each meet each other - for the very first time - at their wedding. We'll follow them as they marry, honeymoon, meet the in-laws and set up home, all the while getting to know one another more and more deeply, to see if the matchmakers have got it right and they will have a future together.",
+            "popularity": 1114.2,
+            "poster_path": "/7VjUVCzaXr9edsow4Dlev6LFyAc.jpg",
+            "first_air_date": "2015-07-09",
+            "name": "Married at First Sight UK",
+            "vote_average": 5.0,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r8JTkMnOZqCNdQ7gw12Ld8aj8eM.jpg",
+            "genre_ids": [
+                10766,
+                10768
+            ],
+            "id": 156239,
+            "origin_country": [
+                "PL"
+            ],
+            "original_language": "pl",
+            "original_name": "Korona kr\u00f3l\u00f3w. Jagiellonowie",
+            "overview": "The story of the Jagiellonian Dynasty rulling XV-century Kingdom of Poland and Grand Duchy of Lithuania.",
+            "popularity": 1107.751,
+            "poster_path": "/3MXMc02vPhAOq16fppeLJSwoMYQ.jpg",
+            "first_air_date": "2023-01-02",
+            "name": "The Crown of the Kings. The Jagiellons",
+            "vote_average": 7.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qJnjJXBLgG4tummCm792nvNz7u1.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 23915,
+            "origin_country": [
+                "DE"
+            ],
+            "original_language": "de",
+            "original_name": "Markus Lanz",
+            "overview": "TV presenter Markus Lanz invites prominent guests and experts from all areas of public life to his colourful talk show. As a rule, there are four guests, introduced individually to contribute their personal experiences to the topics.",
+            "popularity": 1080.673,
+            "poster_path": "/tr4cLn4ecRASV0SPM9FRv0AJOQF.jpg",
+            "first_air_date": "2008-06-03",
+            "name": "Markus Lanz",
+            "vote_average": 5.2,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bnGFjtkk4EXXd7R7yNvJX5UOX3E.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 63613,
+            "origin_country": [
+                "DE"
+            ],
+            "original_language": "de",
+            "original_name": "In aller Freundschaft - Die jungen \u00c4rzte",
+            "overview": "The spin-off to the original series 'In aller Freundschaft' focuses on the young doctors in a fictional clinic in Erfurt. In this emotional drama series, hospital staffers and patients navigate life's challenges.",
+            "popularity": 1028.936,
+            "poster_path": "/mNGHuwsxs6KlwymfgOdPKisfBBe.jpg",
+            "first_air_date": "2015-01-22",
+            "name": "In aller Freundschaft - Die jungen \u00c4rzte",
+            "vote_average": 7.143,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mlX6SG7lJ0BiLui5x5Nu4agetBA.jpg",
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "id": 82708,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "Brugklas",
+            "overview": "The First Years is a Dutch series for young people in which real-life situations are recreated. The series sheds light on subjects that pupils in the first year of secondary school may be confronted with.",
+            "popularity": 1018.475,
+            "poster_path": "/klPqN1oITjVub0Yss0Kqnx8NfY3.jpg",
+            "first_air_date": "2014-05-26",
+            "name": "The First Years",
+            "vote_average": 5.5,
+            "vote_count": 6
+        }
+    ],
+    "type": "tvseries",
+    "page": 3
+}

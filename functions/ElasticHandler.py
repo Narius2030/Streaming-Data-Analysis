@@ -12,29 +12,26 @@ class ElasticHandlers(Elasticsearch):
     def __init__(self, api_key:str, host:str) -> None:
         self.es = Elasticsearch(api_key=api_key, hosts=host)
     
-    def create_documents(self, index:str, path:str):
+    def create_documents(self, path:str, index:str):
         documents = []
         for path in glob.glob(path):
             with open(path, 'r') as file:
                 resp = json.load(file)
-                if isinstance(resp, dict) and ('rankings' in resp['data']):
-                    for ranking_item in resp['data']['rankings']:
-                        team = ranking_item['team']
-                        message = {
-                            'page': resp['page'],
-                            'name': team['name'],
-                            'nameCode': team['nameCode'],
-                            'current_ranking': ranking_item['ranking'],
-                            'current_points': ranking_item.get('points', None),
-                            'previous_ranking': ranking_item.get('previousRanking', None),
-                            'previous_points': ranking_item.get('previousPoints', None),
-                            'growth_point': (ranking_item.get('points', None) - ranking_item.get('previousPoints', None))
-                        }
-                        # Thêm thông điệp vào danh sách
-                        documents.append(message)
-
-
-                '''
+                # if isinstance(resp, dict) and ('rankings' in resp['data']):
+                #     for ranking_item in resp['data']['rankings']:
+                #         team = ranking_item['team']
+                #         message = {
+                #             'page': resp['page'],
+                #             'name': team['name'],
+                #             'nameCode': team['nameCode'],
+                #             'current_ranking': ranking_item['ranking'],
+                #             'current_points': ranking_item.get('points', None),
+                #             'previous_ranking': ranking_item.get('previousRanking', None),
+                #             'previous_points': ranking_item.get('previousPoints', None),
+                #             'growth_point': (ranking_item.get('points', None) - ranking_item.get('previousPoints', None))
+                #         }
+                #         # Thêm thông điệp vào danh sách
+                #         documents.append(message)
                 rows = resp['data']
                 _type = resp['type']
                 for row in rows:
@@ -44,17 +41,15 @@ class ElasticHandlers(Elasticsearch):
                         elif (val == ""):
                             row[key] = "N/A"
                     row['type'] = _type
-                    # _id = { "index": { "_index": "films", "_id": row['id']}}
-                    # _id = { "index": { "_index": index}}
-                    # documents += [_id, row]
                     documents.append(row)
-                '''
+                    # _id = { "index": { "_index": "films", "_id": row['id']}}
+                    # documents += [_id, row]
         return documents
 
-    def ingest_data(self, documents:list, index:str=None, pipeline:str="ent-search-generic-ingestion"):
+    def ingest_data(self, documents:list, string_id:str, index:str=None, pipeline:str="ent-search-generic-ingestion"):
         try:
             for row in documents:
-                _id = row['nameCode']
+                _id = row[string_id]
                 self.es.index(index=index, id=_id, document=row)
             # self.es.bulk(operations=documents, pipeline=pipeline)
             print("Data was ingested successfully to Elasticsearch ✔")

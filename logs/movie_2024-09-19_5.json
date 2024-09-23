@@ -1,0 +1,398 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/jNjT5y95BToczcxgVPl1NBB7goY.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 11,
+            "original_language": "en",
+            "original_title": "Star Wars",
+            "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+            "popularity": 90.23,
+            "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+            "release_date": "1977-05-25",
+            "title": "Star Wars",
+            "video": false,
+            "vote_average": 8.204,
+            "vote_count": 20405
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l0YKBu3LaehIFzBNjseLjx7MbaN.jpg",
+            "genre_ids": [
+                14,
+                27
+            ],
+            "id": 538858,
+            "original_language": "hi",
+            "original_title": "\u0924\u0941\u092e\u094d\u092c\u093e\u0921",
+            "overview": "India, 1918. On the outskirts of Tumbbad, a cursed village where it always rains, Vinayak, along with his mother and his brother, care of a mysterious old woman who keeps the secret of an ancestral treasure that Vinayak gets obsessed with.",
+            "popularity": 77.172,
+            "poster_path": "/z1xOCxw780WFJC5uCTMfCkQ4Agi.jpg",
+            "release_date": "2018-10-12",
+            "title": "Tumbbad",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 239
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iN6phTKypAWbJReDtmkUPRe6AtV.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1106052,
+            "original_language": "es",
+            "original_title": "Las hermanas fant\u00e1sticas",
+            "overview": "When their dad unexpectedly dies, two estranged sisters are brought together when they find his stash of millions behind a wall. But should they keep it?",
+            "popularity": 78.91,
+            "poster_path": "/bXcu53TWgU3rOGgzWpTIWLdNsDT.jpg",
+            "release_date": "2024-08-30",
+            "title": "(Un)lucky Sisters",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s6Fc6Dq55XYPL16GMoipJh8MVG4.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 1329912,
+            "original_language": "en",
+            "original_title": "Kung Fu Games",
+            "overview": "Notorious fighters are trapped in lethal martial arts games by a sadistic magnate. Armed only with their combat skills, they face brutal battles for survival in a deadly kill-or-be-killed showdown.",
+            "popularity": 115.583,
+            "poster_path": "/yjDdBBUEBMvyUiVohZ8T7W2IFl6.jpg",
+            "release_date": "2024-08-23",
+            "title": "Kung Fu Games",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zJEl8gjYkJrlMNetrMwtb2r8KJ2.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 1084514,
+            "original_language": "en",
+            "original_title": "Rob Peace",
+            "overview": "An underprivileged, gifted young black man from Newark reaches Yale University, only for shadows and injustices from his past to threaten his future.",
+            "popularity": 75.518,
+            "poster_path": "/1BwKbTidW5QaEKb1pVY3p4u9cVg.jpg",
+            "release_date": "2024-08-02",
+            "title": "Rob Peace",
+            "video": false,
+            "vote_average": 5.778,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kZbTOcTrEGyroQMWQSGIRlNSkwP.jpg",
+            "genre_ids": [
+                878,
+                28,
+                14,
+                12
+            ],
+            "id": 626412,
+            "original_language": "ko",
+            "original_title": "\uc678\uacc4+\uc778 2\ubd80",
+            "overview": "Ean has a critical mission to return to the future to save everyone. However, she becomes trapped in the distant past while trying to prevent the escape of alien prisoners who are locked up in the bodies of humans. Meanwhile, Muruk, who helps Ean escape various predicaments, is unnerved when he begins sensing the presence of a strange being in his body. Traveling through the centuries, they are trying to prevent the explosion of the haava.",
+            "popularity": 78.681,
+            "poster_path": "/4RClncz0GTKPZzSAcAalHCw0h3g.jpg",
+            "release_date": "2024-01-10",
+            "title": "Alienoid: The Return to the Future",
+            "video": false,
+            "vote_average": 6.552,
+            "vote_count": 592
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aINel9503ompOlGKn4sIVMg09Un.jpg",
+            "genre_ids": [
+                9648,
+                27,
+                53
+            ],
+            "id": 838209,
+            "original_language": "ko",
+            "original_title": "\ud30c\ubb18",
+            "overview": "After tracing the origin of a disturbing supernatural affliction to a wealthy family's ancestral gravesite, a team of paranormal experts relocates the remains\u2014and soon discovers what happens to those who dare to mess with the wrong grave.",
+            "popularity": 77.305,
+            "poster_path": "/pQYHouPsDw32FhDLr7E3jmw0WTk.jpg",
+            "release_date": "2024-02-22",
+            "title": "Exhuma",
+            "video": false,
+            "vote_average": 7.648,
+            "vote_count": 328
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p7bhXY7uxMWfs8N5RfUTecY0wgy.jpg",
+            "genre_ids": [
+                27,
+                28,
+                12
+            ],
+            "id": 1087822,
+            "original_language": "en",
+            "original_title": "Hellboy: The Crooked Man",
+            "overview": "Hellboy and a rookie BPRD agent get stranded in 1950s rural Appalachia. There, they discover a small community haunted by witches, led by a local devil with a troubling connection to Hellboy's past: the Crooked Man.",
+            "popularity": 82.094,
+            "poster_path": "/iz2GabtToVB05gLTVSH7ZvFtsMM.jpg",
+            "release_date": "2024-08-30",
+            "title": "Hellboy: The Crooked Man",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1LSMstNHwJnJD7tpnb8gZcgGNQR.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1164355,
+            "original_language": "id",
+            "original_title": "Lembayung",
+            "overview": "Arum and Pica, who wanted to complete their internship at Lembayung hospital, had to face mysterious terror from a woman satan who was suspected of hanged herself in the bathroom. The situation became even more tense after they asked others for help to the point where they threatened their own lives and those closest to them.",
+            "popularity": 103.173,
+            "poster_path": "/5x9LrW0yvtt6S3XovIQHgXfYvLL.jpg",
+            "release_date": "2024-09-19",
+            "title": "Lembayung",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kwPaQ05Mix2KHwleqW6MFRvGM7U.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 507241,
+            "original_language": "en",
+            "original_title": "The Killer's Game",
+            "overview": "When a top hitman is diagnosed with a terminal illness, he decides to take matters into his own hands \u2013 by taking a hit out on himself. But when the very hitmen he hired also target his pregnant ex-girlfriend, he must fend off an army of assassin colleagues and win back the love of his life before it\u2019s too late.",
+            "popularity": 58.229,
+            "poster_path": "/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg",
+            "release_date": "2024-09-12",
+            "title": "The Killer's Game",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cxxy3UL9B6KBO6scPX0zHVoLmou.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 765421,
+            "original_language": "ka",
+            "original_title": "\u10d2\u10d0\u10d3\u10d0\u10e1\u10d5\u10da\u10d0",
+            "overview": "Lia, a retired teacher from Georgia, learns from her young neighbor, Achi, that her long-lost transgender niece, Tekla, has crossed the border into Turkey. In search of Tekla, Lia travels to Istanbul with the unpredictable Achi, where they explore the hidden depths of the city.",
+            "popularity": 60.208,
+            "poster_path": "/iJa6e7BjWBlBQyWsUYLTeogeemd.jpg",
+            "release_date": "2024-03-22",
+            "title": "Crossing",
+            "video": false,
+            "vote_average": 7.833,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 603,
+            "original_language": "en",
+            "original_title": "The Matrix",
+            "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+            "popularity": 74.156,
+            "poster_path": "/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+            "release_date": "1999-03-31",
+            "title": "The Matrix",
+            "video": false,
+            "vote_average": 8.217,
+            "vote_count": 25421
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uNTciMXpCQDg7gvgMsPCdnxo6Re.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1114738,
+            "original_language": "en",
+            "original_title": "Boneyard",
+            "overview": "After Police Chief Carter discovers the remains of eleven women, FBI Special Agent Petrovick is recruited to profile the serial killer responsible for the infamous \"boneyard\" killings. As the police force, narcotics agency, and FBI lock horns, a tangled web of intrigue turns everyone into a suspect.",
+            "popularity": 77.176,
+            "poster_path": "/xkNK36hQv8SWiwiQoE7naRfP0zL.jpg",
+            "release_date": "2024-07-05",
+            "title": "Boneyard",
+            "video": false,
+            "vote_average": 5.426,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mwdt9HsCddye6xzNvccPenaenjW.jpg",
+            "genre_ids": [
+                16,
+                18,
+                35,
+                878
+            ],
+            "id": 838240,
+            "original_language": "es",
+            "original_title": "Robot Dreams",
+            "overview": "Dog lives in Manhattan and he's tired of being alone. One day he decides to build himself a robot, a companion. Their friendship blossoms, until they become inseparable, to the rhythm of '80s NYC. One summer night, Dog, with great sadness, is forced to abandon Robot at the beach. Will they ever meet again?",
+            "popularity": 61.51,
+            "poster_path": "/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg",
+            "release_date": "2023-12-06",
+            "title": "Robot Dreams",
+            "video": false,
+            "vote_average": 8.092,
+            "vote_count": 475
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8vqmXMXsDVSkw6w3asP4Ie8JlSl.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 1091267,
+            "original_language": "en",
+            "original_title": "The Well",
+            "overview": "A young restorer travels to a small village to restore a medieval painting to its former glory. She will put her life in danger due to a curse attached to the painting.",
+            "popularity": 96.746,
+            "poster_path": "/zK1X5T7gAdXxLFhj0hYyCTVrvpU.jpg",
+            "release_date": "2024-08-01",
+            "title": "The Well",
+            "video": false,
+            "vote_average": 5.958,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bPbPrWWJGaLXQ5ESjcaIbMzVDg8.jpg",
+            "genre_ids": [
+                16,
+                80,
+                9648,
+                28
+            ],
+            "id": 1209217,
+            "original_language": "ja",
+            "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 100\u4e07\u30c9\u30eb\u306e\u4e94\u7a1c\u661f\uff08\u307f\u3061\u3057\u308b\u3079\uff09",
+            "overview": "A message has arrived from Kid the Phantom Thief, that he will steal a Japanese sword belonging to wealthy Onoe Family in Hakodate, Hokkaido. Conan and Heiji Hattori, who happened to be in Hakodate, are on the case to capture Kid. Coincidentally the family lawyer of Onoe is found murdered in the warehouse district, apparently slaughtered by a Japanese sword. The suspect is an investor/arms dealer who is said to be after Onoe family\u2019s hidden treasure. In the North among cherry blossoms, the exciting hunt for treasure begins!",
+            "popularity": 69.238,
+            "poster_path": "/gjEYLp8hCcNajuAmfJPzR6bpCKv.jpg",
+            "release_date": "2024-04-12",
+            "title": "Case Closed: The Million-Dollar Pentagram",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ly1jzyYU93NHF968i9M1tKkVAf9.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648,
+                878
+            ],
+            "id": 1148027,
+            "original_language": "en",
+            "original_title": "New Life",
+            "overview": "A mysterious woman on the run, and the resourceful fixer assigned to bring her in. Their two unique stories inextricably link, as the stakes of the pursuit rise to apocalyptic proportions.",
+            "popularity": 59.421,
+            "poster_path": "/nk15OpDdPgRFgA3I536FCAbSG74.jpg",
+            "release_date": "2024-05-03",
+            "title": "New Life",
+            "video": false,
+            "vote_average": 6.167,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vW7lwVHkRePHzayZfoKOyYBeZqO.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                10751
+            ],
+            "id": 1221404,
+            "original_language": "ja",
+            "original_title": "\u6620\u753b\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093 \u30aa\u30e9\u305f\u3061\u306e\u6050\u7adc\u65e5\u8a18",
+            "overview": "Follow the friendship between the Nobara family's pet dog Shiro and a \"small dinosaur\". Their connection helps the growth of Shinnosuke and the Kusakabe Defense Squad.",
+            "popularity": 58.285,
+            "poster_path": "/nVUZBgpWxGDiKHMI6ymm4neoBsE.jpg",
+            "release_date": "2024-08-09",
+            "title": "Crayon Shin-chan: Ora's Dinosaur Diary",
+            "video": false,
+            "vote_average": 9.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qnjzH3r7jzxNfiMu2lpmeqOBpYe.jpg",
+            "genre_ids": [
+                35,
+                80,
+                28
+            ],
+            "id": 1180702,
+            "original_language": "fr",
+            "original_title": "Nice Girls",
+            "overview": "A maverick cop and a meticulous detective join forces with a charming ex-hacker to solve an officer's disappearance and save Nice from disaster.",
+            "popularity": 60.15,
+            "poster_path": "/2BjyLLlw1DfQufQTViPVFgcOQ0g.jpg",
+            "release_date": "2024-08-20",
+            "title": "Nice Girls",
+            "video": false,
+            "vote_average": 5.284,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fw7NiOxIHq1FWGQCpSW5ZJcbGZR.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1026819,
+            "original_language": "en",
+            "original_title": "The Hunted",
+            "overview": "After their boat capsizes in the Mediterranean Sea, a group of refugees are rescued by rich Europeans who offer them shelter on an idyllic island. But the miracle soon becomes a nightmare when the saviors turn into ruthless manhunters.",
+            "popularity": 52.479,
+            "poster_path": "/zgx7I0JfmHbGcbveNk4EK3jFuMk.jpg",
+            "release_date": "2024-01-18",
+            "title": "The Hunted",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 66
+        }
+    ],
+    "type": "movie",
+    "page": 5
+}

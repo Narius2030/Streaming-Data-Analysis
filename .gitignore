@@ -1,4 +1,4 @@
 .venv/**
 data/mongodb/**
-streaming_env/
 .env
+

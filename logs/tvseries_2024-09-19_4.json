@@ -1,0 +1,421 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/mlX6SG7lJ0BiLui5x5Nu4agetBA.jpg",
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "id": 82708,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "Brugklas",
+            "overview": "The First Years is a Dutch series for young people in which real-life situations are recreated. The series sheds light on subjects that pupils in the first year of secondary school may be confronted with.",
+            "popularity": 1018.475,
+            "poster_path": "/klPqN1oITjVub0Yss0Kqnx8NfY3.jpg",
+            "first_air_date": "2014-05-26",
+            "name": "The First Years",
+            "vote_average": 5.5,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cnwU1tXiUmvYilHLsZJgLd5Qq9D.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 78075,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "The Repair Shop",
+            "overview": "The Repair Shop is a workshop of dreams, where broken or damaged cherished family heirlooms are brought back to life. Furniture restorers, horologists, metal workers, ceramicists, upholsterers and all manner of skilled craftsmen and women have been brought together to work in one extraordinary space, restoring much-loved possessions to their former glory.",
+            "popularity": 419.729,
+            "poster_path": "/4YjXfhJmwCWWqoHWiPSNkoMPZHd.jpg",
+            "first_air_date": "2017-03-27",
+            "name": "The Repair Shop",
+            "vote_average": 6.654,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oKZAOHip2dPqRZ8EercN1966zKL.jpg",
+            "genre_ids": [
+                10766,
+                18,
+                9648
+            ],
+            "id": 237478,
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Mania de Voc\u00ea",
+            "overview": "",
+            "popularity": 675.153,
+            "poster_path": "/cRMofv8YC4F1WnpF7cIqMpwSnwh.jpg",
+            "first_air_date": "2024-09-09",
+            "name": "Mania de Voc\u00ea",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uVnOphmgvN6fUVr0QPvZrt5M4uG.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 30810,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Pointless",
+            "overview": "Quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else can think of.",
+            "popularity": 941.732,
+            "poster_path": "/vhKxgbh4QvnBFU1jRYSBiizWpDg.jpg",
+            "first_air_date": "2009-08-24",
+            "name": "Pointless",
+            "vote_average": 6.6,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sCTlziZeyf4eWXh09pt63zMtJRw.jpg",
+            "genre_ids": [
+                10759,
+                18
+            ],
+            "id": 261033,
+            "origin_country": [
+                "SY"
+            ],
+            "original_language": "ar",
+            "original_name": "\u0627\u0644\u0639\u0645\u064a\u0644",
+            "overview": "A police captain infiltrates a notorious gang, only to find himself going deeper down the rabbit hole.",
+            "popularity": 868.879,
+            "poster_path": "/qUtgaa43jTELs0Tdw55aIukt9yn.jpg",
+            "first_air_date": "2024-08-18",
+            "name": "The Agent",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xqRh22Lugqpstvh76o4MGMR02NJ.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 97083,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Circle",
+            "overview": "Status and strategy collide in this social experiment and competition show where online players flirt, befriend and catfish their way toward $100,000.",
+            "popularity": 443.519,
+            "poster_path": "/bQRxhfXXsH4ccScOBHs51bgwNe4.jpg",
+            "first_air_date": "2020-01-01",
+            "name": "The Circle",
+            "vote_average": 6.9,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/prpUCDAO8blJCReEICbpGBUNwA3.jpg",
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "id": 6647,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Bold and the Beautiful",
+            "overview": "Continuing drama combining romance and intrigue set against the glittering backdrop of Beverly Hills and the American fashion industry.",
+            "popularity": 632.173,
+            "poster_path": "/8EzeAbyorB9vE0dnzMg0cyqSm8E.jpg",
+            "first_air_date": "1987-03-23",
+            "name": "The Bold and the Beautiful",
+            "vote_average": 5.626,
+            "vote_count": 131
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xqrNccLfZypZvaAOEuIHPWgfDCw.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 24400,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Deadly 60",
+            "overview": "Wildlife presenter Steve Backshall tracks down 60 of the world's deadliest animals.",
+            "popularity": 871.503,
+            "poster_path": "/9OhUIi351RejCO4ddjsIbtDu6Ke.jpg",
+            "first_air_date": "2009-05-28",
+            "name": "Deadly 60",
+            "vote_average": 7.4,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qhXdYysiamRu6moMGMZPQ4oVLvd.jpg",
+            "genre_ids": [
+                80,
+                18,
+                35
+            ],
+            "id": 95480,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Slow Horses",
+            "overview": "Follow a dysfunctional team of MI5 agents\u2014and their obnoxious boss, the notorious Jackson Lamb\u2014as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+            "popularity": 494.05,
+            "poster_path": "/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg",
+            "first_air_date": "2022-04-01",
+            "name": "Slow Horses",
+            "vote_average": 7.861,
+            "vote_count": 395
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eoDqUHy9zAroHi3BOhf9C5WD6B1.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 261081,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "The Answer Run",
+            "overview": "Comedian Jason Manford hosts an exciting brand new fast-paced quiz show, where three couples face a series of 50/50 questions which hurtle The Answer Run down towards them.",
+            "popularity": 866.3,
+            "poster_path": "/fUP27r4tl38namqrWn8adFuEF3M.jpg",
+            "first_air_date": "2024-08-19",
+            "name": "The Answer Run",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jISkUqMQ2J2IQVH1longli1mzAz.jpg",
+            "genre_ids": [
+                18,
+                10765
+            ],
+            "id": 263106,
+            "origin_country": [
+                "CN"
+            ],
+            "original_language": "zh",
+            "original_name": "\u4ed6\u4eec\u7684\u5947\u5999\u65f6\u5149",
+            "overview": "When female game designer Song Lingling was accidentally possessed by the NPC she designed, she was forced to embark on a hilarious cohabitation life with \"the client,\" Xiao Ran. As they worked together to fix the game's bugs, they also strove to fix their own \"personal bugs.\" From being quarrelsome partners to genuinely appreciating each other, along with friends like Zhang Yunfei, they embarked on various adventures between the virtual and real worlds, developing a cross-dimensional romance! In the end, they all harvested valuable friendships and love.",
+            "popularity": 807.423,
+            "poster_path": "/rnz5QYSfNcDV3HtELwlRUBOg0Ec.jpg",
+            "first_air_date": "2024-09-03",
+            "name": "Their Wonderful Time",
+            "vote_average": 6.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zJUfw8mJBjyGtxS6ciS5E7efIbL.jpg",
+            "genre_ids": [
+                16,
+                10765,
+                10759,
+                35
+            ],
+            "id": 263059,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Superthings Rivals of Kaboom, Kazoom Power",
+            "overview": "",
+            "popularity": 779.66,
+            "poster_path": "/xI71zifQmqHv3dUMMQhomGY3AUn.jpg",
+            "first_air_date": "2024-09-09",
+            "name": "Superthings Rivals of Kaboom, Kazoom Power",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aRxd1y7mKeQCVg5vhfSswVumMAW.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 62595,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Guy's Grocery Games",
+            "overview": "Guy Fieri sends four talented chefs running through the aisles in a high stakes, high skills, grocery store cooking competition. The chefs are hit by real-world challenges like finding workarounds when all the essential ingredients are suddenly \"out-of-stock\" or having to create a masterpiece when you can only cook with \"5 items or less\" or on a $10 budget. In the end, the food does the talking, as the last chef standing has the chance to make some serious dough!",
+            "popularity": 332.117,
+            "poster_path": "/dNg2v7SQLOOYn23rc5dJLgSDgYh.jpg",
+            "first_air_date": "2013-10-20",
+            "name": "Guy's Grocery Games",
+            "vote_average": 5.7,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yw1IOITFXtOvWweaKvR9uRZ3lgz.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 246492,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Skemergrond",
+            "overview": "It centres round the Louw family who own a beautiful flower farm in Gemoedsdrif. Their peaceful existence is turned upside down when unexpected guests arrive who threaten to reveal shocking family secrets. Old wounds are opened and new bonds are forged to save and protect the Louws and their legacy.",
+            "popularity": 753.675,
+            "poster_path": "/da9PU2tsOVUTFcnEZ8q2gfbCqRx.jpg",
+            "first_air_date": "2024-07-01",
+            "name": "Skemergrond",
+            "vote_average": 5.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bCWmUUbj2zjrYnLyhhK0ClDDnth.jpg",
+            "genre_ids": [
+                80,
+                99
+            ],
+            "id": 65824,
+            "origin_country": [
+                "CA",
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "See No Evil",
+            "overview": "Every second of every day, millions of Americans are caught on CCTV. Living in a surveillance society means everyday actions are caught on camera, mostly of honest citizens going about their daily lives.  But a few are guilty of unspeakable crimes. Video doesn't discriminate; criminals also end up on film. See no Evil is a groundbreaking series that presents dramatic stories about how real crimes are solved with the aid of surveillance cameras. Police reveal how CCTV footage has unlocked the answer to cases that otherwise might have remained unsolved- leaving dangerous killers at large. The series features real footage and dramatic reconstruction, combined with first-hand testimony from police, witnesses, and families.",
+            "popularity": 321.577,
+            "poster_path": "/dwYzpyRwf2rytD3PSLProDMLJ1c.jpg",
+            "first_air_date": "2015-02-17",
+            "name": "See No Evil",
+            "vote_average": 8.0,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 248009,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Lilet Matias: Attorney-at-Law",
+            "overview": "A little person lawyer fights for the rights of the oppressed and marginalized in a world full of injustices, while also dealing with her own family issues and personal wounds.",
+            "popularity": 394.171,
+            "poster_path": "/rtHFwVw7qnltdnIHpBq3Z6VCa6w.jpg",
+            "first_air_date": "2024-03-04",
+            "name": "Lilet Matias: Attorney-at-Law",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/HmKMi8XfmMx3K7nlYL11W526FB.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 10160,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Big Brother",
+            "overview": "American version of the reality game show which follows a group of HouseGuests living together 24 hours a day in the \"Big Brother\" house, isolated from the outside world but under constant surveillance with no privacy for three months.",
+            "popularity": 706.712,
+            "poster_path": "/vFYZvhzq5wbsmxm5K4a0csujxFu.jpg",
+            "first_air_date": "2000-07-05",
+            "name": "Big Brother",
+            "vote_average": 4.982,
+            "vote_count": 226
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iJH2e7cx2LaHUhftCjjJ6R0MGPU.jpg",
+            "genre_ids": [
+                10767,
+                35
+            ],
+            "id": 68564,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "De Ideale Wereld",
+            "overview": "",
+            "popularity": 699.089,
+            "poster_path": "/lqVN5WSn7yDNKm1ZZ7aUQ15WKl.jpg",
+            "first_air_date": "2013-08-31",
+            "name": "De Ideale Wereld",
+            "vote_average": 8.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o7EGgxToADyIhHJd7V0SCpK9E4Z.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 33101,
+            "origin_country": [
+                "PL"
+            ],
+            "original_language": "pl",
+            "original_name": "Top Model",
+            "overview": "Top Model. Zosta\u0144 modelk\u0105 is an ongoing reality documentary based on Tyra Banks' America's Next Top Model that pits contestants from Poland against each other in a variety of competitions to determine who will win the title of the next Polish Top Model and a lucrative modeling contract with NEXT agency as well as an appearance on the cover of the Polish issue of Glamour and a nationwide Max Factor campaign in hopes of a successful future in the modeling business.",
+            "popularity": 436.444,
+            "poster_path": "/4YT9R7GWghQMlZ74e2yxAjXJ35X.jpg",
+            "first_air_date": "2010-09-08",
+            "name": "Poland's Next Top Model",
+            "vote_average": 6.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4YwcKSjW9j5PPKtkns9m5buAoem.jpg",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 235758,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "\u6642\u3005\u30dc\u30bd\u30c3\u3068\u30ed\u30b7\u30a2\u8a9e\u3067\u30c7\u30ec\u308b\u96a3\u306e\u30a2\u30fc\u30ea\u30e3\u3055\u3093",
+            "overview": "Alya is a transfer student enjoying popularity at her new high school, often sporting a cold shoulder while earning high marks in class. She ignores her nerdy classmate, Kuze Masachika, except for when she blurts out a flirtatious line to him in Russian. Little does she know, Kuze understands Russian, though he pretends not to. Let\u2019s see where this wacky love story takes them!",
+            "popularity": 484.671,
+            "poster_path": "/hfnzByZIRj6rx8xaxzS2zDilei1.jpg",
+            "first_air_date": "2024-07-03",
+            "name": "Alya Sometimes Hides Her Feelings in Russian",
+            "vote_average": 7.283,
+            "vote_count": 23
+        }
+    ],
+    "type": "tvseries",
+    "page": 4
+}

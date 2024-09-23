@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/7QBtfV7e24sNFQ47g8xh9iU5D4J.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                14
+            ],
+            "id": 1159477,
+            "original_language": "en",
+            "original_title": "The King Tide",
+            "overview": "After the mayor of an idyllic island village discovers a child with mysterious powers awash on their shores, the once peaceful community devolves into civil war, torn over the belief that the child is the next saviour.",
+            "popularity": 99.739,
+            "poster_path": "/nLVFvWHI3449klfOhR4nMxfHXzM.jpg",
+            "release_date": "2024-04-26",
+            "title": "The King Tide",
+            "video": false,
+            "vote_average": 7.067,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8xMR5w9qfpwhTJzjjvfj2ywvIF3.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 956842,
+            "original_language": "en",
+            "original_title": "Fly Me to the Moon",
+            "overview": "Sparks fly in all directions as marketing maven Kelly Jones, brought in to fix NASA's public image, wreaks havoc on Apollo 11 launch director Cole Davis' already difficult task of putting a man on the moon. When the White House deems the mission too important to fail, Jones is directed to stage a fake moon landing as backup, and the countdown truly begins.",
+            "popularity": 114.26,
+            "poster_path": "/gjk8YdXpItoC1in53FCrZMFIuBx.jpg",
+            "release_date": "2024-07-10",
+            "title": "Fly Me to the Moon",
+            "video": false,
+            "vote_average": 6.957,
+            "vote_count": 452
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gZWl93sf8AxavYpVT1Un6EF3oCj.jpg",
+            "genre_ids": [
+                80,
+                53,
+                18
+            ],
+            "id": 475557,
+            "original_language": "en",
+            "original_title": "Joker",
+            "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+            "popularity": 134.005,
+            "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+            "release_date": "2019-10-01",
+            "title": "Joker",
+            "video": false,
+            "vote_average": 8.156,
+            "vote_count": 25168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4gOB72zD9udHk3jAR0reHwgURZp.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 1029955,
+            "original_language": "en",
+            "original_title": "Kinds of Kindness",
+            "overview": "A triptych fable following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+            "popularity": 112.354,
+            "poster_path": "/8mmpltkcG9areafsQHXaURedno3.jpg",
+            "release_date": "2024-05-30",
+            "title": "Kinds of Kindness",
+            "video": false,
+            "vote_average": 6.642,
+            "vote_count": 594
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/azDmSHPzQP61OKHzpDJ7nXrG4QP.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 1008953,
+            "original_language": "en",
+            "original_title": "Incoming",
+            "overview": "Their first week of high school. The biggest party of the year. Mistakes will be made as four teenage boys navigate a night of mayhem and debauchery.",
+            "popularity": 116.707,
+            "poster_path": "/k2ySukuAiAarLns0yttKS3jg85Y.jpg",
+            "release_date": "2024-08-22",
+            "title": "Incoming",
+            "video": false,
+            "vote_average": 6.111,
+            "vote_count": 175
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9XDgbD365BU4cFyyhLZIgyUYSId.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1186532,
+            "original_language": "en",
+            "original_title": "The Forge",
+            "overview": "19 year old Isaiah Wright lives for basketball and video games. A year out of high school, he has no job, no plans, and no idea how to be a man. At odds with his single mother Cynthia, Isaiah is given an ultimatum \u2013 to step up or move out. Feeling the pull from his friends and the push from his mom, Isaiah is hired by Moore Fitness, unaware of how the owner will personally impact his life. With the prayers of his mother and unexpected guidance from his new mentor, Isaiah is forced to deal with his past, sacrifice his selfishness and discover how God might have a greater purpose for his life.",
+            "popularity": 104.472,
+            "poster_path": "/3mlyu5R8EnKst5UHPEx46meduNP.jpg",
+            "release_date": "2024-08-22",
+            "title": "The Forge",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jtSCugyOC4gtKqVXK3WaaxRNzqZ.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1103621,
+            "original_language": "th",
+            "original_title": "\u0e2b\u0e25\u0e32\u0e19\u0e21\u0e48\u0e32",
+            "overview": "A man quits work to care for dying grandmother, motivated by her fortune. He schemes to win her favor before she passes.",
+            "popularity": 101.328,
+            "poster_path": "/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg",
+            "release_date": "2024-04-04",
+            "title": "How to Make Millions Before Grandma Dies",
+            "video": false,
+            "vote_average": 7.889,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wXfAvsPZqBDJ8U78F2IAzsUxtNh.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                18
+            ],
+            "id": 8587,
+            "original_language": "en",
+            "original_title": "The Lion King",
+            "overview": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be?",
+            "popularity": 111.827,
+            "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+            "release_date": "1994-06-24",
+            "title": "The Lion King",
+            "video": false,
+            "vote_average": 8.257,
+            "vote_count": 18071
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b6DU3kBmicMbpNvvkqf1cHaceMF.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 814889,
+            "original_language": "en",
+            "original_title": "Never Let Go",
+            "overview": "As an evil takes over the world beyond their front doorstep, the only protection for a mother and her twin sons is their house and their family\u2019s protective bond.",
+            "popularity": 92.252,
+            "poster_path": "/am1FjwwViUoXRvCOdE7gKzvts1t.jpg",
+            "release_date": "2024-09-18",
+            "title": "Never Let Go",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 568124,
+            "original_language": "en",
+            "original_title": "Encanto",
+            "overview": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family\u2014every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
+            "popularity": 109.242,
+            "poster_path": "/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+            "release_date": "2021-10-13",
+            "title": "Encanto",
+            "video": false,
+            "vote_average": 7.601,
+            "vote_count": 9347
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8UOAYjhwSF3aPZhm6wgLuyHRyrR.jpg",
+            "genre_ids": [
+                37,
+                18
+            ],
+            "id": 932086,
+            "original_language": "en",
+            "original_title": "Horizon: An American Saga - Chapter 1",
+            "overview": "Follow the story of how the Old West was won\u2014and lost\u2014through the blood, sweat and tears of many. Spanning 15 years before, during and following the Civil War from 1859 to 1874, embark on an emotional journey across a country at war with itself, experienced through the lens of families, friends and foes all attempting to discover what it truly means to be the United States of America.",
+            "popularity": 96.844,
+            "poster_path": "/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg",
+            "release_date": "2024-06-26",
+            "title": "Horizon: An American Saga - Chapter 1",
+            "video": false,
+            "vote_average": 7.006,
+            "vote_count": 257
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iaNoLnnpQb5SNxGc4bkQmdCvEdG.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                14,
+                12,
+                10749
+            ],
+            "id": 809,
+            "original_language": "en",
+            "original_title": "Shrek 2",
+            "overview": "Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after. Shrek and the King find it difficult to get along, and there's tension in the marriage. The Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming and plots to destroy their marriage.",
+            "popularity": 93.326,
+            "poster_path": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+            "release_date": "2004-05-19",
+            "title": "Shrek 2",
+            "video": false,
+            "vote_average": 7.278,
+            "vote_count": 12124
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+            "genre_ids": [
+                80,
+                35,
+                10749
+            ],
+            "id": 974635,
+            "original_language": "en",
+            "original_title": "Hit Man",
+            "overview": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+            "popularity": 99.968,
+            "poster_path": "/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+            "release_date": "2024-05-16",
+            "title": "Hit Man",
+            "video": false,
+            "vote_average": 6.941,
+            "vote_count": 801
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9bqTFbiGCUBz7sDCJcbyb4cz4sD.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 560016,
+            "original_language": "en",
+            "original_title": "Monkey Man",
+            "overview": "Kid is an anonymous young man who ekes out a meager living in an underground fight club where, night after night, wearing a gorilla mask, he is beaten bloody by more popular fighters for cash. After years of suppressed rage, Kid discovers a way to infiltrate the enclave of the city\u2019s sinister elite. As his childhood trauma boils over, his mysteriously scarred hands unleash an explosive campaign of retribution to settle the score with the men who took everything from him.",
+            "popularity": 104.428,
+            "poster_path": "/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg",
+            "release_date": "2024-04-03",
+            "title": "Monkey Man",
+            "video": false,
+            "vote_average": 6.988,
+            "vote_count": 818
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jD1oLRnLSKiLhutjiZ6OzgCgBsr.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1158915,
+            "original_language": "en",
+            "original_title": "D\u00ecdi (\u5f1f\u5f1f)",
+            "overview": "In 2008, during the last month of summer before high school begins, an impressionable 13-year-old Taiwanese American boy learns what his family can't teach him: how to skate, how to flirt, and how to love your mom.",
+            "popularity": 94.966,
+            "poster_path": "/wLP5sJOCUiHTkkdmuoYJwSrkVMb.jpg",
+            "release_date": "2024-07-26",
+            "title": "D\u00ecdi (\u5f1f\u5f1f)",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k37Ccgu05Am1xxgN5GaW0HX9Kkl.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 1087388,
+            "original_language": "en",
+            "original_title": "Sting",
+            "overview": "After raising an unnervingly talented spider in secret, 12-year-old Charlotte must face the truth about her pet and fight for her family's survival.",
+            "popularity": 73.779,
+            "poster_path": "/zuSAZIG1PSrxFwPeAlGtg9LTwxo.jpg",
+            "release_date": "2024-04-12",
+            "title": "Sting",
+            "video": false,
+            "vote_average": 6.314,
+            "vote_count": 202
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 559,
+            "original_language": "en",
+            "original_title": "Spider-Man 3",
+            "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains\u2014including the shape-shifting Sandman. While Spider-Man\u2019s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+            "popularity": 108.624,
+            "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+            "release_date": "2007-05-01",
+            "title": "Spider-Man 3",
+            "video": false,
+            "vote_average": 6.43,
+            "vote_count": 13930
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nEvqsqcZ7NZIFtkxKXJvD2cLwaT.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 995746,
+            "original_language": "fr",
+            "original_title": "Rosalie",
+            "overview": "France, 1870s. Rosalie is a young woman unlike any other. She hides a secret: she was born with a face and body covered in hair. She\u2019s concealed her peculiarity all her life to stay safe, shaving to fit in. Until Abel, an indebted bar owner unaware of her secret, marries Rosalie for her dowry. Will Abel be able to love Rosalie and see her as the woman she is, once he finds out the truth?",
+            "popularity": 93.691,
+            "poster_path": "/uYr6fYt02IRqoT9MyjlhXKeULuf.jpg",
+            "release_date": "2024-04-10",
+            "title": "Rosalie",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oMiKHO3H5RixfLsiU5Vumhlp5sj.jpg",
+            "genre_ids": [
+                80,
+                10749,
+                53
+            ],
+            "id": 948549,
+            "original_language": "en",
+            "original_title": "Love Lies Bleeding",
+            "overview": "Reclusive gym manager Lou falls hard for Jackie, an ambitious bodybuilder headed through town to Las Vegas in pursuit of her dream. But their love ignites violence, pulling them deep into the web of Lou\u2019s criminal family.",
+            "popularity": 76.632,
+            "poster_path": "/p7jyFWiLyHPttqYBFAlLJwtYTYH.jpg",
+            "release_date": "2024-03-08",
+            "title": "Love Lies Bleeding",
+            "video": false,
+            "vote_average": 6.548,
+            "vote_count": 503
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kwGvFyRtGSSm8AFfnRNXoZTQmJj.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 1008409,
+            "original_language": "en",
+            "original_title": "The Bikeriders",
+            "overview": "After a chance encounter, headstrong Kathy is drawn to Benny, member of Midwestern motorcycle club the Vandals. As the club transforms into a dangerous underworld of violence, Benny must choose between Kathy and his loyalty to the club.",
+            "popularity": 89.457,
+            "poster_path": "/qTb6sSRt8Pw96JTan8ezU2xO0FU.jpg",
+            "release_date": "2024-06-19",
+            "title": "The Bikeriders",
+            "video": false,
+            "vote_average": 6.888,
+            "vote_count": 531
+        }
+    ],
+    "type": "movie",
+    "page": 4
+}

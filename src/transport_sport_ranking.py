@@ -12,6 +12,28 @@ import http.client
 
 settings = get_settings()
 
+def get_ranking(data_json):
+    # Danh sách để lưu trữ tất cả các thông điệp
+    all_messages = []
+    
+    # Kiểm tra nếu dữ liệu hợp lệ
+    if isinstance(data_json, dict) and 'rankings' in data_json:
+        for ranking_item in data_json['rankings']:
+            team = ranking_item['team']
+            message = {
+                'name': team['name'],
+                'nameCode': team['nameCode'],
+                'current_ranking': ranking_item['ranking'],
+                'current_points': ranking_item.get('points', None),
+                'previous_ranking': ranking_item.get('previousRanking', None),
+                'previous_points': ranking_item.get('previousPoints', None),
+                'growth_point': (ranking_item.get('points', None) - ranking_item.get('previousPoints', None))
+            }
+            # Thêm thông điệp vào danh sách
+            all_messages.append(message)
+    return all_messages
+
+
 def request_sport_ranking():
     for page in range(1, 2):
         try:
@@ -26,34 +48,11 @@ def request_sport_ranking():
             data = res.read()
             # Chuyển đổi dữ liệu từ byte sang chuỗi và sau đó thành đối tượng JSON
             data_json = json.loads(data.decode("utf-8"))
-            # data_json['page'] = page
+            data = get_ranking(data_json)
         except Exception as exc:
             raise Exception(str(exc))
-        yield (data_json, page) #json.dumps(get_ranking(data_json), indent=4, ensure_ascii=False)
+        yield (data, page)
 
-
-def get_ranking(data_json):
-    # Danh sách để lưu trữ tất cả các thông điệp
-    all_messages = []
-    
-    # Kiểm tra nếu dữ liệu hợp lệ
-    if isinstance(data_json, dict) and 'rankings' in data_json:
-        for ranking_item in data_json['rankings']:
-            team = ranking_item['team']
-            message = {
-                'page': data_json['page'],
-                'name': team['name'],
-                'nameCode': team['nameCode'],
-                'current_ranking': ranking_item['ranking'],
-                'current_points': ranking_item.get('points', None),
-                'previous_ranking': ranking_item.get('previousRanking', None),
-                'previous_points': ranking_item.get('previousPoints', None),
-                'growth_point': (ranking_item.get('points', None) - ranking_item.get('previousPoints', None))
-            }
-            # Thêm thông điệp vào danh sách
-            all_messages.append(message)
-    
-    return all_messages
 
 def write_logs(message, path):
     # Filter value
@@ -65,7 +64,8 @@ def write_logs(message, path):
             with open(f"{path}/{value['type']}_{date.today()}_{value['page']}.json", "w", encoding="utf-8") as file:
                 json.dump(value, file, indent=4)
 
-def example(topic):
+
+def transport(topic):
     prod_tasks = [
         Producer(topic=topic, function=request_sport_ranking, key='sport_ranking'),
     ]
@@ -103,7 +103,7 @@ if __name__=='__main__':
     topic_name='sports'
     
     # run main
-    # example(topic_name)
+    transport(topic_name)
 
     # insert data to Elastic    
     handler = ElasticHandlers(
@@ -112,5 +112,5 @@ if __name__=='__main__':
     )
     documents = handler.create_documents(index="sport-ranking", path="./logs/sport_ranking_*.json")
     print(documents[0])
-    handler.ingest_data(index="sport-ranking", documents=documents)
+    handler.ingest_data(index="sport-ranking", documents=documents, string_id='nameCode')
     
