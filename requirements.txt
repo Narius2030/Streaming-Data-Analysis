@@ -4,3 +4,4 @@ polars
 pyspark
 requests
 kafka-python
+python-dotenv
