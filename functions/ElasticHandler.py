@@ -12,9 +12,9 @@ class ElasticHandlers(Elasticsearch):
     def __init__(self, api_key:str, host:str) -> None:
         self.es = Elasticsearch(api_key=api_key, hosts=host)
     
-    def create_documents(self, path:str, index:str):
+    def create_documents(self, filepathes:str, index:str):
         documents = []
-        for path in glob.glob(path):
+        for path in filepathes:
             with open(path, 'r') as file:
                 resp = json.load(file)
                 # if isinstance(resp, dict) and ('rankings' in resp['data']):
@@ -50,7 +50,15 @@ class ElasticHandlers(Elasticsearch):
         try:
             for row in documents:
                 _id = row[string_id]
-                self.es.index(index=index, id=_id, document=row)
+                self.es.update(index=index, 
+                               id=_id, 
+                               doc={
+                                   'popularity': row['popularity'],
+                                   'vote_average': row['vote_average'],
+                                   'vote_count': row['vote_count']
+                                }, 
+                               upsert=row,
+                               doc_as_upsert=True)
             # self.es.bulk(operations=documents, pipeline=pipeline)
             print("Data was ingested successfully to Elasticsearch ✔")
         except Exception as exc:

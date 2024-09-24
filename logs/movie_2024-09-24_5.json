@@ -1,0 +1,398 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/azDmSHPzQP61OKHzpDJ7nXrG4QP.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 1008953,
+            "original_language": "en",
+            "original_title": "Incoming",
+            "overview": "Their first week of high school. The biggest party of the year. Mistakes will be made as four teenage boys navigate a night of mayhem and debauchery.",
+            "popularity": 113.228,
+            "poster_path": "/k2ySukuAiAarLns0yttKS3jg85Y.jpg",
+            "release_date": "2024-08-22",
+            "title": "Incoming",
+            "video": false,
+            "vote_average": 6.133,
+            "vote_count": 184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4gOB72zD9udHk3jAR0reHwgURZp.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 1029955,
+            "original_language": "en",
+            "original_title": "Kinds of Kindness",
+            "overview": "A triptych fable following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+            "popularity": 119.028,
+            "poster_path": "/8mmpltkcG9areafsQHXaURedno3.jpg",
+            "release_date": "2024-05-30",
+            "title": "Kinds of Kindness",
+            "video": false,
+            "vote_average": 6.627,
+            "vote_count": 621
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6MuKvMcnNdgbfhc7HRGDbDSJuR7.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1154762,
+            "original_language": "en",
+            "original_title": "His Three Daughters",
+            "overview": "Emotions run high when three estranged sisters reunite in a cramped New York City apartment to watch over their ailing father during his final days.",
+            "popularity": 121.891,
+            "poster_path": "/yTIHBPLQyzhgz1c2spak3btJxsg.jpg",
+            "release_date": "2024-09-05",
+            "title": "His Three Daughters",
+            "video": false,
+            "vote_average": 7.041,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8UOAYjhwSF3aPZhm6wgLuyHRyrR.jpg",
+            "genre_ids": [
+                37,
+                18
+            ],
+            "id": 932086,
+            "original_language": "en",
+            "original_title": "Horizon: An American Saga - Chapter 1",
+            "overview": "Follow the story of how the Old West was won\u2014and lost\u2014through the blood, sweat and tears of many. Spanning 15 years before, during and following the Civil War from 1859 to 1874, embark on an emotional journey across a country at war with itself, experienced through the lens of families, friends and foes all attempting to discover what it truly means to be the United States of America.",
+            "popularity": 90.68,
+            "poster_path": "/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg",
+            "release_date": "2024-06-26",
+            "title": "Horizon: An American Saga - Chapter 1",
+            "video": false,
+            "vote_average": 6.994,
+            "vote_count": 266
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ybn3jCia5XBD0ZgEM07gcUPuRNh.jpg",
+            "genre_ids": [
+                16,
+                12,
+                14,
+                10751,
+                18
+            ],
+            "id": 508883,
+            "original_language": "ja",
+            "original_title": "\u541b\u305f\u3061\u306f\u3069\u3046\u751f\u304d\u308b\u304b",
+            "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
+            "popularity": 112.445,
+            "poster_path": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+            "release_date": "2023-07-14",
+            "title": "The Boy and the Heron",
+            "video": false,
+            "vote_average": 7.501,
+            "vote_count": 1638
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iaNoLnnpQb5SNxGc4bkQmdCvEdG.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                14,
+                12,
+                10749
+            ],
+            "id": 809,
+            "original_language": "en",
+            "original_title": "Shrek 2",
+            "overview": "Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after. Shrek and the King find it difficult to get along, and there's tension in the marriage. The Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming and plots to destroy their marriage.",
+            "popularity": 102.647,
+            "poster_path": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+            "release_date": "2004-05-19",
+            "title": "Shrek 2",
+            "video": false,
+            "vote_average": 7.279,
+            "vote_count": 12139
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 568124,
+            "original_language": "en",
+            "original_title": "Encanto",
+            "overview": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family\u2014every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
+            "popularity": 107.25,
+            "poster_path": "/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+            "release_date": "2021-10-13",
+            "title": "Encanto",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 9350
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3nB9fYQycK4iWchvfbXhacD42XC.jpg",
+            "genre_ids": [
+                53,
+                18,
+                9648
+            ],
+            "id": 1084066,
+            "original_language": "en",
+            "original_title": "Tatami",
+            "overview": "Iranian female judokas Leila and her coach Maryam, travel to the Judo World Championship, intent on bringing home Iran\u2019s first gold medal. Midway through the Judo World Championships, they receive an ultimatum from the Islamic Republic ordering Leila to fake an injury and lose, or she will be branded a traitor of the state. With her own and her family\u2019s freedom at stake, Leila is faced with an impossible choice: comply with the Iranian regime as her coach Maryam implores her to do, or fight on, for the gold.",
+            "popularity": 74.889,
+            "poster_path": "/7LuCNa4sqHyZCT4QLvGl73tjhpL.jpg",
+            "release_date": "2024-03-08",
+            "title": "Tatami",
+            "video": false,
+            "vote_average": 8.118,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iN6phTKypAWbJReDtmkUPRe6AtV.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1106052,
+            "original_language": "es",
+            "original_title": "Las hermanas fant\u00e1sticas",
+            "overview": "When their dad unexpectedly dies, two estranged sisters are brought together when they find his stash of millions behind a wall. But should they keep it?",
+            "popularity": 74.384,
+            "poster_path": "/bXcu53TWgU3rOGgzWpTIWLdNsDT.jpg",
+            "release_date": "2024-08-30",
+            "title": "(Un)lucky Sisters",
+            "video": false,
+            "vote_average": 5.65,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jD1oLRnLSKiLhutjiZ6OzgCgBsr.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1158915,
+            "original_language": "en",
+            "original_title": "D\u00ecdi (\u5f1f\u5f1f)",
+            "overview": "In 2008, during the last month of summer before high school begins, an impressionable 13-year-old Taiwanese American boy learns what his family can't teach him: how to skate, how to flirt, and how to love your mom.",
+            "popularity": 103.097,
+            "poster_path": "/2EakDxV1m1TvTuhthGeROII4nQL.jpg",
+            "release_date": "2024-07-26",
+            "title": "D\u00ecdi (\u5f1f\u5f1f)",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 41
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mwdt9HsCddye6xzNvccPenaenjW.jpg",
+            "genre_ids": [
+                16,
+                18,
+                35,
+                878
+            ],
+            "id": 838240,
+            "original_language": "es",
+            "original_title": "Robot Dreams",
+            "overview": "A lonely dog's friendship with his robot companion takes a sad turn when an unexpected malfunction forces him to abandon Robot at the beach. Will Dog ever meet Robot again?",
+            "popularity": 76.922,
+            "poster_path": "/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg",
+            "release_date": "2023-12-06",
+            "title": "Robot Dreams",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 478
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mR8TEWw1lT2QZKb7cpxJFqlFIrd.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "id": 592831,
+            "original_language": "en",
+            "original_title": "Megalopolis",
+            "overview": "Genius artist Cesar Catilina seeks to leap the City of New Rome into a utopian, idealistic future, while his opposition, Mayor Franklyn Cicero, remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare. Torn between them is socialite Julia Cicero, the mayor\u2019s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.",
+            "popularity": 101.045,
+            "poster_path": "/6OlTIwt6fSeQLRABU7JF5fwEioo.jpg",
+            "release_date": "2024-09-25",
+            "title": "Megalopolis",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/83NiekHNOZkLbPdjd5KTIOE92Tn.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1280440,
+            "original_language": "pl",
+            "original_title": "Bokser",
+            "overview": "With only his wife by his side, a promising young boxer flees communist Poland to chase his dream of becoming the greatest fighter in history.",
+            "popularity": 67.275,
+            "poster_path": "/2LtIFOtp9yjVd2pOtVRc091TpxP.jpg",
+            "release_date": "2024-09-10",
+            "title": "Boxer",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uNTciMXpCQDg7gvgMsPCdnxo6Re.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1114738,
+            "original_language": "en",
+            "original_title": "Boneyard",
+            "overview": "After Police Chief Carter discovers the remains of eleven women, FBI Special Agent Petrovick is recruited to profile the serial killer responsible for the infamous \"boneyard\" killings. As the police force, narcotics agency, and FBI lock horns, a tangled web of intrigue turns everyone into a suspect.",
+            "popularity": 89.11,
+            "poster_path": "/xkNK36hQv8SWiwiQoE7naRfP0zL.jpg",
+            "release_date": "2024-07-05",
+            "title": "Boneyard",
+            "video": false,
+            "vote_average": 5.426,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kZbTOcTrEGyroQMWQSGIRlNSkwP.jpg",
+            "genre_ids": [
+                878,
+                28,
+                14,
+                12
+            ],
+            "id": 626412,
+            "original_language": "ko",
+            "original_title": "\uc678\uacc4+\uc778 2\ubd80",
+            "overview": "Ean has a critical mission to return to the future to save everyone. However, she becomes trapped in the distant past while trying to prevent the escape of alien prisoners who are locked up in the bodies of humans. Meanwhile, Muruk, who helps Ean escape various predicaments, is unnerved when he begins sensing the presence of a strange being in his body. Traveling through the centuries, they are trying to prevent the explosion of the haava.",
+            "popularity": 82.538,
+            "poster_path": "/4RClncz0GTKPZzSAcAalHCw0h3g.jpg",
+            "release_date": "2024-01-10",
+            "title": "Alienoid: The Return to the Future",
+            "video": false,
+            "vote_average": 6.546,
+            "vote_count": 596
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sqYiz8VNYTU6dZhEkvf4ydxZ45X.jpg",
+            "genre_ids": [
+                27,
+                28,
+                12
+            ],
+            "id": 1087822,
+            "original_language": "en",
+            "original_title": "Hellboy: The Crooked Man",
+            "overview": "Hellboy and a rookie BPRD agent get stranded in 1950s rural Appalachia. There, they discover a small community haunted by witches, led by a local devil with a troubling connection to Hellboy's past: the Crooked Man.",
+            "popularity": 98.65,
+            "poster_path": "/iz2GabtToVB05gLTVSH7ZvFtsMM.jpg",
+            "release_date": "2024-08-30",
+            "title": "Hellboy: The Crooked Man",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qnjzH3r7jzxNfiMu2lpmeqOBpYe.jpg",
+            "genre_ids": [
+                35,
+                80,
+                28
+            ],
+            "id": 1180702,
+            "original_language": "fr",
+            "original_title": "Nice Girls",
+            "overview": "A maverick cop and a meticulous detective join forces with a charming ex-hacker to solve an officer's disappearance and save Nice from disaster.",
+            "popularity": 73.422,
+            "poster_path": "/2BjyLLlw1DfQufQTViPVFgcOQ0g.jpg",
+            "release_date": "2024-08-20",
+            "title": "Nice Girls",
+            "video": false,
+            "vote_average": 5.24,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b6DU3kBmicMbpNvvkqf1cHaceMF.jpg",
+            "genre_ids": [
+                27,
+                18
+            ],
+            "id": 814889,
+            "original_language": "en",
+            "original_title": "Never Let Go",
+            "overview": "As an evil takes over the world beyond their front doorstep, the only protection for a mother and her twin sons is their house and their family\u2019s protective bond.",
+            "popularity": 124.121,
+            "poster_path": "/am1FjwwViUoXRvCOdE7gKzvts1t.jpg",
+            "release_date": "2024-09-18",
+            "title": "Never Let Go",
+            "video": false,
+            "vote_average": 4.0,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/t6Pnd8lzSeelNOOXraRfg5HizZD.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 979250,
+            "original_language": "ta",
+            "original_title": "\u0b9f\u0bbf\u0bae\u0bbe\u0ba9\u0bcd\u0b9f\u0bbf \u0b95\u0bbe\u0bb2\u0ba9\u0bbf 2",
+            "overview": "A group of friends who return to a cursed location, driven by curiosity and the quest to uncover the truth behind the malevolent spirits that reside there.",
+            "popularity": 56.707,
+            "poster_path": "/lZmH9hea8fstTK49fplSQS0NWUd.jpg",
+            "release_date": "2024-08-15",
+            "title": "Demonte Colony 2",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k37Ccgu05Am1xxgN5GaW0HX9Kkl.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 1087388,
+            "original_language": "en",
+            "original_title": "Sting",
+            "overview": "After raising an unnervingly talented spider in secret, 12-year-old Charlotte must face the truth about her pet and fight for her family's survival.",
+            "popularity": 74.517,
+            "poster_path": "/zuSAZIG1PSrxFwPeAlGtg9LTwxo.jpg",
+            "release_date": "2024-04-12",
+            "title": "Sting",
+            "video": false,
+            "vote_average": 6.292,
+            "vote_count": 207
+        }
+    ],
+    "type": "movie",
+    "page": 5
+}

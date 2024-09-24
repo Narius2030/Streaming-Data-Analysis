@@ -1,0 +1,398 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/n3JeGELHa9V6k9mL81ItMxWLSS6.jpg",
+            "genre_ids": [
+                28,
+                53,
+                27
+            ],
+            "id": 1129598,
+            "original_language": "en",
+            "original_title": "Prey",
+            "overview": "A young couple is compelled to leave their Christian missionary station in the Kalahari Desert after being threatened with death by an extremist militant gang. After crashing their aircraft they must battle man and beast for their lives.",
+            "popularity": 440.827,
+            "poster_path": "/aOsPclgSiOqhndI2Xp2ksz2g9n6.jpg",
+            "release_date": "2024-03-15",
+            "title": "Prey",
+            "video": false,
+            "vote_average": 6.352,
+            "vote_count": 223
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h9YlRHAZWOWtGonllmj6JJg1FrE.jpg",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                10751,
+                14
+            ],
+            "id": 588648,
+            "original_language": "zh",
+            "original_title": "Dragonkeeper",
+            "overview": "Set in Han Imperial China, the plot follows the adventures of enslaved girl Ping with ancient dragon Long Danzi. Dragons had been banished from the kingdom. Ping, an orphan, finds one of the last remaining dragon eggs. Palace guards force Ping to run away in order to return the dragon egg to the ocean and save all dragons from extinction. Ping discovers that she is a true Dragonkeeper.",
+            "popularity": 387.196,
+            "poster_path": "/ggZGnJLzO3BTu7ysuuIzou3Oex5.jpg",
+            "release_date": "2024-04-11",
+            "title": "Dragonkeeper",
+            "video": false,
+            "vote_average": 7.276,
+            "vote_count": 96
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bM4gNeDemQnY3TujjMe1usjt4iZ.jpg",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "id": 748167,
+            "original_language": "en",
+            "original_title": "Uglies",
+            "overview": "In a futuristic dystopia with enforced beauty standards, a teen awaiting mandatory cosmetic surgery embarks on a journey to find her missing friend.",
+            "popularity": 404.359,
+            "poster_path": "/jaUu9zHtbcFwrB5Y1DNYE09HMex.jpg",
+            "release_date": "2024-09-12",
+            "title": "Uglies",
+            "video": false,
+            "vote_average": 6.05,
+            "vote_count": 363
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qkEnklEGDFy4TRVhuHFn2DI2BP6.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 930600,
+            "original_language": "en",
+            "original_title": "The Deliverance",
+            "overview": "Ebony Jackson, a struggling single mother fighting her personal demons, moves her family into a new home for a fresh start. But when strange occurrences inside the home raise the suspicions of Child Protective Services and threaten to tear the family apart, Ebony soon finds herself locked in a battle for her life and the souls of her children.",
+            "popularity": 421.911,
+            "poster_path": "/og1FteMFRInoQnlZeWqEn8XpXHh.jpg",
+            "release_date": "2024-08-16",
+            "title": "The Deliverance",
+            "video": false,
+            "vote_average": 6.285,
+            "vote_count": 298
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3EIYw4aJImgsvJsb0ybhOzLk6J3.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 1066262,
+            "original_language": "en",
+            "original_title": "The Convert",
+            "overview": "Munro, a soldier turned lay preacher, comes to New Zealand to minister to the first British colonists, but he is converted by the powerful chief Maianui to serve a different purpose.",
+            "popularity": 406.92,
+            "poster_path": "/e5ZqqPlhKstzB4geibpZh38w7Pq.jpg",
+            "release_date": "2024-03-14",
+            "title": "The Convert",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4ft6TR9wA6bra0RLL6G7JFDQ5t1.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 704239,
+            "original_language": "en",
+            "original_title": "The Union",
+            "overview": "A New Jersey construction worker goes from regular guy to aspiring spy when his long-lost high school sweetheart recruits him for an espionage mission.",
+            "popularity": 427.776,
+            "poster_path": "/d9CTnTHip1RbVi2OQbA2LJJQAGI.jpg",
+            "release_date": "2024-08-15",
+            "title": "The Union",
+            "video": false,
+            "vote_average": 6.282,
+            "vote_count": 670
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bxwKC4qAbceMgHU1xCCTBK1eYdn.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 5492,
+            "original_language": "en",
+            "original_title": "Gunner",
+            "overview": "While on a camping trip in order to reconnect, war veteran Colonel Lee Gunner must save his two sons from a gang of violent bikers when they're kidnapped after accidentally stumbling upon to a massive drug operation.",
+            "popularity": 427.007,
+            "poster_path": "/eEkAY5veAnwxUOOlpF62KawkFO9.jpg",
+            "release_date": "2024-08-16",
+            "title": "Gunner",
+            "video": false,
+            "vote_average": 5.401,
+            "vote_count": 81
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vJk9DOLgP23jO5mBnPHE93MFgYu.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                14,
+                35
+            ],
+            "id": 826510,
+            "original_language": "en",
+            "original_title": "Harold and the Purple Crayon",
+            "overview": "Inside of his book, adventurous Harold can make anything come to life simply by drawing it. After he grows up and draws himself off the book's pages and into the physical world, Harold finds he has a lot to learn about real life.",
+            "popularity": 364.248,
+            "poster_path": "/dEsuQOZwdaFAVL26RjgjwGl9j7m.jpg",
+            "release_date": "2024-07-31",
+            "title": "Harold and the Purple Crayon",
+            "video": false,
+            "vote_average": 6.984,
+            "vote_count": 125
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jnrLpUtOKelKhmGieEBcAvrsrFB.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1114513,
+            "original_language": "en",
+            "original_title": "Speak No Evil",
+            "overview": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+            "popularity": 391.959,
+            "poster_path": "/t01TUL5X2oBNF0qjjgS4BXaWplJ.jpg",
+            "release_date": "2024-09-11",
+            "title": "Speak No Evil",
+            "video": false,
+            "vote_average": 6.942,
+            "vote_count": 172
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qzTypZlFlBNRBBYJgGW4KVdCReE.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                878
+            ],
+            "id": 869291,
+            "original_language": "en",
+            "original_title": "Cuckoo",
+            "overview": "Reluctantly, 17-year-old Gretchen leaves her American home to live with her father, who has just moved into a resort in the German Alps with his new family. Arriving at their future residence, they are greeted by Mr. K\u00f6nig, her father\u2019s boss, who takes an inexplicable interest in Gretchen\u2019s mute half-sister Alma. Something doesn\u2019t seem right in this tranquil vacation paradise.",
+            "popularity": 653.293,
+            "poster_path": "/mpryn3TuSPNG5ELRxyrKfblxJ9R.jpg",
+            "release_date": "2024-08-02",
+            "title": "Cuckoo",
+            "video": false,
+            "vote_average": 5.525,
+            "vote_count": 81
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p5kpFS0P3lIwzwzHBOULQovNWyj.jpg",
+            "genre_ids": [
+                53,
+                80,
+                27
+            ],
+            "id": 1032823,
+            "original_language": "en",
+            "original_title": "Trap",
+            "overview": "A father and teen daughter attend a pop concert, where they realize they're at the center of a dark and sinister event.",
+            "popularity": 376.286,
+            "poster_path": "/jwoaKYVqPgYemFpaANL941EF94R.jpg",
+            "release_date": "2024-07-31",
+            "title": "Trap",
+            "video": false,
+            "vote_average": 6.523,
+            "vote_count": 1157
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/orTQxcx2aoNpx1DIKTjBzpzvzd0.jpg",
+            "genre_ids": [
+                27,
+                14
+            ],
+            "id": 1130053,
+            "original_language": "en",
+            "original_title": "Cinderella's Curse",
+            "overview": "Desperate Cinderella summons her fairy godmother from an ancient flesh-bound book, seeking revenge on her evil stepmother and stepsisters who abuse and torment her daily.",
+            "popularity": 364.37,
+            "poster_path": "/xegGyjYdCcF9X1FWpfw1O1LcFnZ.jpg",
+            "release_date": "2024-05-31",
+            "title": "Cinderella's Curse",
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s6Fc6Dq55XYPL16GMoipJh8MVG4.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 1329912,
+            "original_language": "en",
+            "original_title": "Kung Fu Games",
+            "overview": "Notorious fighters are trapped in lethal martial arts games by a sadistic magnate. Armed only with their combat skills, they face brutal battles for survival in a deadly kill-or-be-killed showdown.",
+            "popularity": 621.632,
+            "poster_path": "/yjDdBBUEBMvyUiVohZ8T7W2IFl6.jpg",
+            "release_date": "2024-08-23",
+            "title": "Kung Fu Games",
+            "video": false,
+            "vote_average": 5.214,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7cDsJInZGnNC1IFQL5kgYsZSXr3.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 1186947,
+            "original_language": "pt",
+            "original_title": "Bandida - A N\u00famero Um",
+            "overview": "At the age of nine, Rebeca is sold by her grandmother to the bookseller who ran Rocinha. Disputed by bicheiros and drug dealers, the community is going through changes in power. Rebeca becomes the wife of the chief drug dealer and, with the death of her partner, his successor. The electrifying trajectory of crime, violence, drugs and love of a female drug kingpin in Rocinha, Rio de Janeiro in the 1980s.",
+            "popularity": 599.847,
+            "poster_path": "/rGS8SzheANVQicNba0GCE6w1XHb.jpg",
+            "release_date": "2024-06-20",
+            "title": "Outlaw",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 30
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8fNBsXpgMvqk75SPsZzTmIqSRxY.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 646683,
+            "original_language": "en",
+            "original_title": "The Exorcism",
+            "overview": "A troubled actor begins to unravel while shooting a supernatural horror film, leading his estranged daughter to wonder if he's slipping back into his past addictions or if there's something more sinister at play.",
+            "popularity": 296.697,
+            "poster_path": "/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg",
+            "release_date": "2024-05-30",
+            "title": "The Exorcism",
+            "video": false,
+            "vote_average": 4.898,
+            "vote_count": 177
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8vqmXMXsDVSkw6w3asP4Ie8JlSl.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 1091267,
+            "original_language": "en",
+            "original_title": "The Well",
+            "overview": "A young restorer travels to a small village to restore a medieval painting to its former glory. She will put her life in danger due to a curse attached to the painting.",
+            "popularity": 520.323,
+            "poster_path": "/zK1X5T7gAdXxLFhj0hYyCTVrvpU.jpg",
+            "release_date": "2024-08-01",
+            "title": "The Well",
+            "video": false,
+            "vote_average": 6.013,
+            "vote_count": 38
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/62zw627mH74rng9zc4tFfaR54KW.jpg",
+            "genre_ids": [
+                16,
+                878,
+                10751
+            ],
+            "id": 1184918,
+            "original_language": "en",
+            "original_title": "The Wild Robot",
+            "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+            "popularity": 363.055,
+            "poster_path": "/6GT9lvyyKx7hiwtKMC4BisMTA7N.jpg",
+            "release_date": "2024-09-12",
+            "title": "The Wild Robot",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k9dOgIzSnU4yl6Peqgn6Yi74Hi8.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 1250786,
+            "original_language": "es",
+            "original_title": "Technoboys",
+            "overview": "They're fierce, they're iconic, they're back \u2014 and they're totally lost. A boyband seeking a renaissance must navigate a world they barely understand.",
+            "popularity": 241.805,
+            "poster_path": "/3qYtC5vNYAhNLpuOgMNa0imJZ6w.jpg",
+            "release_date": "2024-09-05",
+            "title": "Technoboys",
+            "video": false,
+            "vote_average": 6.647,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dJRwzUzAslW267cyA61s6oAAmpn.jpg",
+            "genre_ids": [
+                35,
+                80,
+                53
+            ],
+            "id": 1227624,
+            "original_language": "es",
+            "original_title": "Mejor viuda que mal acompa\u00f1ada",
+            "overview": "Three girlfriends, neglected and mistreated by their husbands, plan to take revenge on them with the help of an experienced man in this type of job.",
+            "popularity": 253.22,
+            "poster_path": "/qEMBuWTySJFpBgT5Psz6ppEirEY.jpg",
+            "release_date": "2024-09-06",
+            "title": "Killer Babes",
+            "video": false,
+            "vote_average": 7.964,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sjC29cgm4qZAnpOJQbYKCxDCcra.jpg",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "id": 1062215,
+            "original_language": "en",
+            "original_title": "Afraid",
+            "overview": "Curtis Pike and his family are selected to test a new home device: a digital assistant called AIA. AIA observes the family's behaviors and begins to anticipate their needs. And she can \u2013 and will \u2013 make sure nothing \u2013 and no one \u2013 gets in her family's way.",
+            "popularity": 491.568,
+            "poster_path": "/w0SFLjdtQtjCB4LvwB7On2V1lgG.jpg",
+            "release_date": "2024-08-28",
+            "title": "Afraid",
+            "video": false,
+            "vote_average": 6.253,
+            "vote_count": 99
+        }
+    ],
+    "type": "movie",
+    "page": 2
+}

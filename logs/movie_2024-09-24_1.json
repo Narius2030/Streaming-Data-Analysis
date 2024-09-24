@@ -1,0 +1,410 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/Asg2UUwipAdE87MxtJy7SQo08XI.jpg",
+            "genre_ids": [
+                28,
+                14,
+                27
+            ],
+            "id": 957452,
+            "original_language": "en",
+            "original_title": "The Crow",
+            "overview": "Soulmates Eric and Shelly are brutally murdered when the demons of her dark past catch up with them. Given the chance to save his true love by sacrificing himself, Eric sets out to seek merciless revenge on their killers, traversing the worlds of the living and the dead to put the wrong things right.",
+            "popularity": 3240.182,
+            "poster_path": "/58QT4cPJ2u2TqWZkterDq9q4yxQ.jpg",
+            "release_date": "2024-08-21",
+            "title": "The Crow",
+            "video": false,
+            "vote_average": 5.378,
+            "vote_count": 300
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                28
+            ],
+            "id": 519182,
+            "original_language": "en",
+            "original_title": "Despicable Me 4",
+            "overview": "Gru and Lucy and their girls\u2014Margo, Edith and Agnes\u2014welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+            "popularity": 1298.426,
+            "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+            "release_date": "2024-06-20",
+            "title": "Despicable Me 4",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1684
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mKOBdgaEFguADkJhfFslY7TYxIh.jpg",
+            "genre_ids": [
+                28,
+                878,
+                35,
+                12,
+                53
+            ],
+            "id": 365177,
+            "original_language": "en",
+            "original_title": "Borderlands",
+            "overview": "Returning to her home planet, an infamous bounty hunter forms an unexpected alliance with a team of unlikely heroes. Together, they battle monsters and dangerous bandits to protect a young girl who holds the key to unimaginable power.",
+            "popularity": 1266.052,
+            "poster_path": "/865DntZzOdX6rLMd405R0nFkLmL.jpg",
+            "release_date": "2024-08-07",
+            "title": "Borderlands",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 577
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cgKZtNSETjXJPkAQ4rasV7dnyQH.jpg",
+            "genre_ids": [
+                27,
+                35,
+                14
+            ],
+            "id": 917496,
+            "original_language": "en",
+            "original_title": "Beetlejuice Beetlejuice",
+            "overview": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Beetlejuice, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+            "popularity": 1063.123,
+            "poster_path": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+            "release_date": "2024-09-04",
+            "title": "Beetlejuice Beetlejuice",
+            "video": false,
+            "vote_average": 7.116,
+            "vote_count": 657
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wSZbtiFIK1fkKZdSRtn2kz2Ttfd.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80
+            ],
+            "id": 1139817,
+            "original_language": "ko",
+            "original_title": "\ubb34\ub3c4\uc2e4\ubb34\uad00",
+            "overview": "A talented martial artist who can't walk past a person in need unites with a probation officer to fight and prevent crime as a martial arts officer.",
+            "popularity": 1023.072,
+            "poster_path": "/rEaJSXAlNfdhRpDHiNcJsoUa9qE.jpg",
+            "release_date": "2024-09-10",
+            "title": "Officer Black Belt",
+            "video": false,
+            "vote_average": 7.909,
+            "vote_count": 99
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cyKH7pDFlxIXluqRyNoHHEpxSDX.jpg",
+            "genre_ids": [
+                80,
+                28,
+                53,
+                18
+            ],
+            "id": 646097,
+            "original_language": "en",
+            "original_title": "Rebel Ridge",
+            "overview": "A former Marine confronts corruption in a small town when local law enforcement unjustly seizes the bag of cash he needs to post his cousin's bail.",
+            "popularity": 921.262,
+            "poster_path": "/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
+            "release_date": "2024-08-27",
+            "title": "Rebel Ridge",
+            "video": false,
+            "vote_average": 7.037,
+            "vote_count": 646
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9oYdz5gDoIl8h67e3ccv3OHtmm2.jpg",
+            "genre_ids": [
+                18,
+                27,
+                878
+            ],
+            "id": 933260,
+            "original_language": "en",
+            "original_title": "The Substance",
+            "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+            "popularity": 896.332,
+            "poster_path": "/zQc1PITqFxZDbEmHlQgO5Mxc4Od.jpg",
+            "release_date": "2024-09-07",
+            "title": "The Substance",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dTaqzXA1auKRUjHPQjR3u0W7Gfl.jpg",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "id": 840705,
+            "original_language": "en",
+            "original_title": "Blink Twice",
+            "overview": "When tech billionaire Slater King meets cocktail waitress Frida at his fundraising gala, he invites her to join him and his friends on a dream vacation on his private island. But despite the epic setting, beautiful people, ever-flowing champagne, and late-night dance parties, Frida can sense that there\u2019s something sinister hiding beneath the island\u2019s lush fa\u00e7ade.",
+            "popularity": 979.966,
+            "poster_path": "/lZGOK0I2DJSRlEPNOAFTSNxSjDD.jpg",
+            "release_date": "2024-08-21",
+            "title": "Blink Twice",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 343
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ahYDVW0ReOTKI6sbI6du9SoXdX9.jpg",
+            "genre_ids": [
+                28
+            ],
+            "id": 666035,
+            "original_language": "en",
+            "original_title": "Wanted Man",
+            "overview": "Follows a police officer who must retrieve an eyewitness and escort her after a cartel shooting leaves several DEA agents dead, but then he must decide who to trust when they discover that the attack was executed by American forces.",
+            "popularity": 612.523,
+            "poster_path": "/pmdgdb8biQLLzTjySZLPdK13KwM.jpg",
+            "release_date": "2024-04-01",
+            "title": "Wanted Man",
+            "video": false,
+            "vote_average": 7.167,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7aPrv2HFssWcOtpig5G3HEVk3uS.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "id": 718821,
+            "original_language": "en",
+            "original_title": "Twisters",
+            "overview": "As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
+            "popularity": 591.888,
+            "poster_path": "/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+            "release_date": "2024-07-10",
+            "title": "Twisters",
+            "video": false,
+            "vote_average": 6.991,
+            "vote_count": 1442
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tAwfoDyKiYa4KQdUp3DTMrEs4En.jpg",
+            "genre_ids": [
+                16,
+                878,
+                12,
+                10751
+            ],
+            "id": 698687,
+            "original_language": "en",
+            "original_title": "Transformers One",
+            "overview": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+            "popularity": 750.287,
+            "poster_path": "/qbkAqmmEIZfrCO8ZQAuIuVMlWoV.jpg",
+            "release_date": "2024-09-11",
+            "title": "Transformers One",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 38
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pysPTtYmTcQBlShcxXZwfs3Zp8H.jpg",
+            "genre_ids": [
+                878,
+                53,
+                27
+            ],
+            "id": 1064028,
+            "original_language": "en",
+            "original_title": "Subservience",
+            "overview": "With his wife out sick, a struggling father brings home a lifelike AI, only to have his self-aware new help want everything her new family has to offer... Like the affection of her owner and she'll kill to get it.",
+            "popularity": 634.679,
+            "poster_path": "/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
+            "release_date": "2024-08-15",
+            "title": "Subservience",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 81
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9juRmk8QjcsUcbrevVu5t8VZy5G.jpg",
+            "genre_ids": [
+                28,
+                12,
+                80,
+                53
+            ],
+            "id": 923667,
+            "original_language": "cn",
+            "original_title": "\u4e5d\u9f8d\u57ce\u5be8\u4e4b\u570d\u57ce",
+            "overview": "In 1980s Hong Kong, troubled youth Chan Lok-kwun accidentally enters the notorious Kowloon Walled City. Lok-kwun, a refugee from the mainland, struggles to survive by participating in underground fighting rings. He seeks to buy a fake ID to improve his life but is betrayed by Mr. Big, a local crime syndicate boss. In a desperate move, Lok-kwun steals drugs from Mr. Big and flees to the Walled City, where he encounters Cyclone, the local crime lord who rules the area with a mix of authority and compassion.",
+            "popularity": 625.745,
+            "poster_path": "/PywbVPeIhBFc33QXktnhMaysmL.jpg",
+            "release_date": "2024-04-23",
+            "title": "Twilight of the Warriors: Walled In",
+            "video": false,
+            "vote_average": 6.682,
+            "vote_count": 146
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m6GbPD59FZlwqb1vH3exXBsHB6r.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 1079091,
+            "original_language": "en",
+            "original_title": "It Ends with Us",
+            "overview": "When a woman's first love suddenly reenters her life, her relationship with a charming, but abusive neurosurgeon is upended, and she realizes she must learn to rely on her own strength to make an impossible choice for her future.",
+            "popularity": 1076.292,
+            "poster_path": "/4TzwDWpLmb9bWJjlN3iBUdvgarw.jpg",
+            "release_date": "2024-08-07",
+            "title": "It Ends with Us",
+            "video": false,
+            "vote_average": 6.834,
+            "vote_count": 356
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sIzZQdXY21sEks9lGkGuXzqdGSA.jpg",
+            "genre_ids": [
+                14,
+                35
+            ],
+            "id": 4011,
+            "original_language": "en",
+            "original_title": "Beetlejuice",
+            "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+            "popularity": 524.757,
+            "poster_path": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+            "release_date": "1988-03-30",
+            "title": "Beetlejuice",
+            "video": false,
+            "vote_average": 7.376,
+            "vote_count": 7102
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9SSEUrSqhljBMzRe4aBTh17rUaC.jpg",
+            "genre_ids": [
+                27,
+                878,
+                28
+            ],
+            "id": 945961,
+            "original_language": "en",
+            "original_title": "Alien: Romulus",
+            "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+            "popularity": 611.892,
+            "poster_path": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+            "release_date": "2024-08-13",
+            "title": "Alien: Romulus",
+            "video": false,
+            "vote_average": 7.089,
+            "vote_count": 1050
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/okVLmXL5y18dfN2R4ufMZEGaeCd.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                18
+            ],
+            "id": 1160018,
+            "original_language": "hi",
+            "original_title": "\u0915\u093f\u0932",
+            "overview": "When an army commando finds out his true love is engaged against her will, he boards a New Dehli-bound train in a daring quest to derail the arranged marriage. But when a gang of knife-wielding thieves begin to terrorize innocent passengers on his train, the commando takes them on himself in a death-defying kill-spree to save those around him \u2014 turning what should have been a typical commute into an adrenaline-fueled thrill ride.",
+            "popularity": 555.095,
+            "poster_path": "/m2zXTuNPkywdYLyWlVyJZW2QOJH.jpg",
+            "release_date": "2024-07-03",
+            "title": "Kill",
+            "video": false,
+            "vote_average": 7.038,
+            "vote_count": 172
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tCQfubckzzcuCbsGugkpLhfjS5z.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 970347,
+            "original_language": "en",
+            "original_title": "The Killer",
+            "overview": "Zee is a feared contract killer known as \"the Queen of the Dead,\" but when she refuses to murder a young blind woman, she finds herself hunted both by criminal colleagues and a determined police detective.",
+            "popularity": 472.629,
+            "poster_path": "/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
+            "release_date": "2024-08-22",
+            "title": "The Killer",
+            "video": false,
+            "vote_average": 6.646,
+            "vote_count": 219
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bizhlTVjifYQUu4Xrdt7m3TYr7d.jpg",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "id": 1226578,
+            "original_language": "en",
+            "original_title": "Longlegs",
+            "overview": "FBI Agent Lee Harker is assigned to an unsolved serial killer case that takes an unexpected turn, revealing evidence of the occult. Harker discovers a personal connection to the killer and must stop him before he strikes again.",
+            "popularity": 525.211,
+            "poster_path": "/5aj8vVGFwGVbQQs26ywhg4Zxk2L.jpg",
+            "release_date": "2024-05-31",
+            "title": "Longlegs",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 893
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1wP1phHo2CROOqzv7Azs0MT5esU.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                12,
+                28
+            ],
+            "id": 748783,
+            "original_language": "en",
+            "original_title": "The Garfield Movie",
+            "overview": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father \u2013 scruffy street cat Vic \u2013 Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+            "popularity": 586.697,
+            "poster_path": "/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg",
+            "release_date": "2024-04-30",
+            "title": "The Garfield Movie",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 945
+        }
+    ],
+    "type": "movie",
+    "page": 1
+}

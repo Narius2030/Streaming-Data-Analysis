@@ -1,0 +1,420 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/vSrR7pq1wtPw85XpiOrdNcYdtUb.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 239526,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Sue\u00f1os de libertad",
+            "overview": "",
+            "popularity": 1217.146,
+            "poster_path": "/95RVeMWMvk97PBW0msryIJC32XD.jpg",
+            "first_air_date": "2024-02-25",
+            "name": "Sue\u00f1os de libertad",
+            "vote_average": 6.3,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/93R3gd0iNqnib1JKwbWXksDcMY.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "id": 255150,
+            "origin_country": [
+                "PE"
+            ],
+            "original_language": "es",
+            "original_name": "Pituca Sin Lucas",
+            "overview": "",
+            "popularity": 1173.274,
+            "poster_path": "/cjqJqODyUbul2GZL7ti2B5SVv7I.jpg",
+            "first_air_date": "2024-05-06",
+            "name": "Pituca Sin Lucas",
+            "vote_average": 7.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pVWQHcdFuVHicmbflfMncGklvAZ.jpg",
+            "genre_ids": [
+                10767,
+                10763,
+                35
+            ],
+            "id": 138147,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "De Avondshow met Arjen Lubach",
+            "overview": "Arjen Lubach dives through the issues of the day past inspiring guests to the bottom of the news. Everyone always wants to go from the issues of the day to deepening. Arjen is really looking forward to the issues of the day.",
+            "popularity": 1148.13,
+            "poster_path": "/lXQqKsUQvgBrv9t1S3Q3CGkTUAg.jpg",
+            "first_air_date": "2022-02-21",
+            "name": "De Avondshow met Arjen Lubach",
+            "vote_average": 7.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1fdFxZJR6HOfZTbbknrX7wmuB6E.jpg",
+            "genre_ids": [
+                10763,
+                35
+            ],
+            "id": 70,
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "en",
+            "original_name": "This Hour Has 22 Minutes",
+            "overview": "This Hour Has 22 Minutes is a weekly Canadian television comedy that airs on CBC Television. Launched in 1993 during Canada's 35th general election, the show focuses on Canadian politics, combining news parody, sketch comedy and satirical editorials. Originally featuring Cathy Jones, Rick Mercer, Greg Thomey and Mary Walsh, the series featured satirical sketches of the weekly news and Canadian political events. The show's format is a mock news program, intercut with comic sketches, parody commercials and humorous interviews of public figures. The on-location segments are frequently filmed with slanted camera angles.\n\nIts full name is a parody of This Hour Has Seven Days, a CBC newsmagazine from the 1960s; the \"22 Minutes\" refers to the fact that a half-hour television program in Canada and the U.S. is typically 22 minutes long with eight minutes of commercials.\n\nJones and Walsh had previously worked together on the sketch comedy series CODCO, on which Thomey sometimes appeared as a guest. Mercer had been a notable young writer and performer on his own, touring several successful one-man shows of comedic political commentary.",
+            "popularity": 1016.991,
+            "poster_path": "/7sP1tv9e2wZzdOATVZxtZN3DUbi.jpg",
+            "first_air_date": "2009-09-28",
+            "name": "This Hour Has 22 Minutes",
+            "vote_average": 6.6,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mlX6SG7lJ0BiLui5x5Nu4agetBA.jpg",
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "id": 82708,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "Brugklas",
+            "overview": "The First Years is a Dutch series for young people in which real-life situations are recreated. The series sheds light on subjects that pupils in the first year of secondary school may be confronted with.",
+            "popularity": 1006.089,
+            "poster_path": "/klPqN1oITjVub0Yss0Kqnx8NfY3.jpg",
+            "first_air_date": "2014-05-26",
+            "name": "The First Years",
+            "vote_average": 5.5,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i8iqYtAy9qcO5RSrA1f6fY1n6SN.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 235484,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Suidooster",
+            "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+            "popularity": 1003.53,
+            "poster_path": "/naCgSiacvV685kait6fBvhVhdce.jpg",
+            "first_air_date": "2015-11-16",
+            "name": "Suidooster",
+            "vote_average": 7.5,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4zR7CfhkQ2oJgBO934u3pCnDfJY.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 257943,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "El diario de Jorge",
+            "overview": "",
+            "popularity": 991.152,
+            "poster_path": "/cWXwHwiZXiQoykoiTGjL1COS9pV.jpg",
+            "first_air_date": "2024-07-29",
+            "name": "El diario de Jorge",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zcq7nmObypNI7JMPOGPUx50Jrnk.jpg",
+            "genre_ids": [
+                10763,
+                10767
+            ],
+            "id": 207956,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Alex Wagner Tonight",
+            "overview": "Alex Wagner brings years of reporting experience and insight to covering the news of the day, politics and the cultural trends shaping the United States and American lives, giving viewers a better understanding of the rapidly changing world.",
+            "popularity": 697.732,
+            "poster_path": "/qbHPxFRxwBMQqSmpktgNgRAvlFj.jpg",
+            "first_air_date": "2022-08-16",
+            "name": "Alex Wagner Tonight",
+            "vote_average": 2.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zJUfw8mJBjyGtxS6ciS5E7efIbL.jpg",
+            "genre_ids": [
+                16,
+                10765,
+                10759,
+                35
+            ],
+            "id": 263059,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Superthings Rivals of Kaboom, Kazoom Power",
+            "overview": "",
+            "popularity": 970.715,
+            "poster_path": "/xI71zifQmqHv3dUMMQhomGY3AUn.jpg",
+            "first_air_date": "2024-09-09",
+            "name": "Superthings Rivals of Kaboom, Kazoom Power",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uVnOphmgvN6fUVr0QPvZrt5M4uG.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 30810,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Pointless",
+            "overview": "Quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else can think of.",
+            "popularity": 732.215,
+            "poster_path": "/vhKxgbh4QvnBFU1jRYSBiizWpDg.jpg",
+            "first_air_date": "2009-08-24",
+            "name": "Pointless",
+            "vote_average": 6.6,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Gj33rlZRbBkuPUTrjPJbmtlEBa.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 108466,
+            "origin_country": [
+                "NO"
+            ],
+            "original_language": "no",
+            "original_name": "Alle mot alle",
+            "overview": "",
+            "popularity": 913.587,
+            "poster_path": "/qmOYqF2ezHT1leCE91Mdm6tu3Vl.jpg",
+            "first_air_date": "2020-08-31",
+            "name": "Alle mot alle",
+            "vote_average": 8.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Bkqjc9tNWo3KLr1aRYyJ7vMQtM.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 235493,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "De Bondgenoten",
+            "overview": "",
+            "popularity": 906.962,
+            "poster_path": "/wsipinibYxrZhpkQ6MKxIMgL0hv.jpg",
+            "first_air_date": "2023-10-22",
+            "name": "De Bondgenoten",
+            "vote_average": 6.778,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xqrNccLfZypZvaAOEuIHPWgfDCw.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 24400,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Deadly 60",
+            "overview": "Wildlife presenter Steve Backshall tracks down 60 of the world's deadliest animals.",
+            "popularity": 860.905,
+            "poster_path": "/9OhUIi351RejCO4ddjsIbtDu6Ke.jpg",
+            "first_air_date": "2009-05-28",
+            "name": "Deadly 60",
+            "vote_average": 7.4,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sCTlziZeyf4eWXh09pt63zMtJRw.jpg",
+            "genre_ids": [
+                10759,
+                18
+            ],
+            "id": 261033,
+            "origin_country": [
+                "SY"
+            ],
+            "original_language": "ar",
+            "original_name": "\u0627\u0644\u0639\u0645\u064a\u0644",
+            "overview": "A police captain infiltrates a notorious gang, only to find himself going deeper down the rabbit hole.",
+            "popularity": 858.312,
+            "poster_path": "/qUtgaa43jTELs0Tdw55aIukt9yn.jpg",
+            "first_air_date": "2024-08-18",
+            "name": "The Agent",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mkxcigG5i0vKc3kWddJxYB5vMoq.jpg",
+            "genre_ids": [
+                35,
+                10767
+            ],
+            "id": 103960,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Richard Osman's House of Games",
+            "overview": "Each week a group of four famous faces go toe to toe in testing their general knowledge skills in a variety of entertaining games.",
+            "popularity": 502.581,
+            "poster_path": "/g1D2iBtf39IdPGBNB6Nsy6oJRXr.jpg",
+            "first_air_date": "2017-09-04",
+            "name": "Richard Osman's House of Games",
+            "vote_average": 5.947,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mo0RKG7lhbxPME8qksfb9ewOVUy.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 68479,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Married at First Sight UK",
+            "overview": "Working with leading relationship experts, eight British singles are carefully match-made into four married couples, who each meet each other - for the very first time - at their wedding. We'll follow them as they marry, honeymoon, meet the in-laws and set up home, all the while getting to know one another more and more deeply, to see if the matchmakers have got it right and they will have a future together.",
+            "popularity": 849.698,
+            "poster_path": "/7VjUVCzaXr9edsow4Dlev6LFyAc.jpg",
+            "first_air_date": "2015-07-09",
+            "name": "Married at First Sight UK",
+            "vote_average": 5.0,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6RGenKnUe7UoEJLRKVAMMq2TWG.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 154828,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "Vandaag Inside",
+            "overview": "",
+            "popularity": 847.5,
+            "poster_path": "/xEFfIcHzlxiYw8e6hXRCqskSKsG.jpg",
+            "first_air_date": "2022-01-10",
+            "name": "Vandaag Inside",
+            "vote_average": 5.1,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bYMkuSxg9zJY61vQrceGooqLNOQ.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 4551,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "America's Got Talent",
+            "overview": "A weekly talent competition where an array of performers \u2013 from singers and dancers, to comedians and novelty acts \u2013 vie for a $1 million cash prize.",
+            "popularity": 830.885,
+            "poster_path": "/1YLiZqge79k4M0sIbiWi1ByNags.jpg",
+            "first_air_date": "2006-06-21",
+            "name": "America's Got Talent",
+            "vote_average": 5.655,
+            "vote_count": 251
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zvNMbGzc2Z3khr7sAU2hBzydvaR.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 31342,
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "A Fazenda",
+            "overview": "A Fazenda is the current Brazilian version of the The Farm reality television show based on the Swedish television series of the same name that was originally created in 2001 by Strix and produced in association with Sony Entertainment and Endemol.\n\nThe show is based on a group of celebrities living together twenty-four hours a day in a Farm, isolated from the outside world while having all their steps followed by cameras around-the-clock, with no privacy for three months.\n\nThe contestants compete for the chance to win the grand prize by avoiding weekly eviction, until the last celebrity remains at the end of the season that can claim the grand prize. The show is presented by news reporter Britto Junior alongside actress Chris Couto and directed by Rodrigo Carelli. Record's website and a Record-owned pay-per-view channel offer round-the-clock coverage.",
+            "popularity": 820.852,
+            "poster_path": "/wc4IkCXCZyboTRY0ye8lwbqRF2f.jpg",
+            "first_air_date": "2009-05-31",
+            "name": "A Fazenda",
+            "vote_average": 3.0,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b848AC0n5SHh4fXc5aDB3VZi0G.jpg",
+            "genre_ids": [
+                35,
+                10766,
+                10759
+            ],
+            "id": 222289,
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Fam\u00edlia \u00e9 Tudo",
+            "overview": "Five half-siblings \u2013 Venus, Andromeda, Jupiter, Electra, and Plutao \u2013 share the same father, Pedro. Separated by their respective mothers after Pedro's death, the quintet have had few social and intimate interactions since. Years later, now adults, they reunite when their millionaire grandmother disappears on a cruise and is presumed dead. To earn their inheritance, they will have to live and work together for a year in an attempt to bring the family business back to its peak. If they don't succeed, the inheritance will go to their cousin, Hans, who will do anything to get the money from his aunt.",
+            "popularity": 576.732,
+            "poster_path": "/tDbJuSfVhf3ZnxiJrXlXEALyAz5.jpg",
+            "first_air_date": "2024-03-04",
+            "name": "Fam\u00edlia \u00e9 Tudo",
+            "vote_average": 6.1,
+            "vote_count": 7
+        }
+    ],
+    "type": "tvseries",
+    "page": 3
+}

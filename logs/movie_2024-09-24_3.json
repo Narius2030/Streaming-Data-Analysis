@@ -1,0 +1,400 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/61yrVrkOH75fUtExDZ4Hi0KqOmc.jpg",
+            "genre_ids": [
+                27,
+                53,
+                35
+            ],
+            "id": 1225377,
+            "original_language": "en",
+            "original_title": "The Mouse Trap",
+            "overview": "It's Alex's 21st Birthday, but she's stuck at the amusement arcade on a late shift so her friends decide to surprise her, but a masked killer dressed as Mickey Mouse decides to play a game of his own with them which she must survive.",
+            "popularity": 244.345,
+            "poster_path": "/3ovFaFeojLFIl5ClqhtgYMDS8sE.jpg",
+            "release_date": "2024-08-23",
+            "title": "The Mouse Trap",
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/62zw627mH74rng9zc4tFfaR54KW.jpg",
+            "genre_ids": [
+                16,
+                878,
+                10751
+            ],
+            "id": 1184918,
+            "original_language": "en",
+            "original_title": "The Wild Robot",
+            "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+            "popularity": 363.055,
+            "poster_path": "/6GT9lvyyKx7hiwtKMC4BisMTA7N.jpg",
+            "release_date": "2024-09-12",
+            "title": "The Wild Robot",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kXPCUNo7ALN0S03AbmTY9Ln6Fbc.jpg",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "id": 1201734,
+            "original_language": "en",
+            "original_title": "God of Pain",
+            "overview": "A man wakes up in the middle of the street with no idea where he is or how he ended up there. Soon he is forced to confront the demons he is battling within before a gateway to the underworld unlocks the secret of Algea the God of Pain.",
+            "popularity": 453.838,
+            "poster_path": "/dF0FAFCfILaor5RBqdNHq24OaIn.jpg",
+            "release_date": "2024-08-20",
+            "title": "God of Pain",
+            "video": false,
+            "vote_average": 9.833,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4yrOyO3N55XazHQXXYoqiiPQd40.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 938614,
+            "original_language": "en",
+            "original_title": "Late Night with the Devil",
+            "overview": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
+            "popularity": 257.519,
+            "poster_path": "/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+            "release_date": "2024-03-19",
+            "title": "Late Night with the Devil",
+            "video": false,
+            "vote_average": 7.317,
+            "vote_count": 856
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sqfam7wEpmyG9Fx0AdVQYrLcIfy.jpg",
+            "genre_ids": [
+                53,
+                80,
+                18
+            ],
+            "id": 1298238,
+            "original_language": "es",
+            "original_title": "Pr\u00edncipes salvajes",
+            "overview": "A group of wealthy teenagers commit crimes that escalate from petty mischief to dangerous plots, causing chaotic consequences \u2014 but not for themselves.",
+            "popularity": 219.835,
+            "poster_path": "/iEe9RODlNgobupiksZ2vE4TZwUg.jpg",
+            "release_date": "2024-08-27",
+            "title": "Untamed Royals",
+            "video": false,
+            "vote_average": 6.194,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2XCmJWRZIQtHzikNsW29l9oy5Fb.jpg",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "id": 804616,
+            "original_language": "en",
+            "original_title": "Something in the Water",
+            "overview": "After lesbian couple Meg and Kayla split following a traumatic homophobic incident, their three friends are intent on mending the rift during the wedding of Lizzie at a paradise resort. But a pre-wedding boat excursion turns to disaster and the wedding breakfast is likely to be the five girls!",
+            "popularity": 209.363,
+            "poster_path": "/1iWGGxHEwswZGvPSoMZlLFf0PNq.jpg",
+            "release_date": "2024-03-22",
+            "title": "Something in the Water",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 150
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q4aztOGdlXX2LTnTN3f4EegG9aB.jpg",
+            "genre_ids": [
+                27,
+                878,
+                28
+            ],
+            "id": 1091298,
+            "original_language": "en",
+            "original_title": "Attack of the Meth Gator",
+            "overview": "On a small island in the Florida Everglades, a DEA agent and a local sheriff gather a team of locals to take down a giant meth-fueled alligator.",
+            "popularity": 205.026,
+            "poster_path": "/e8W2ybPj3lQiDTAoWfofxAXVkoL.jpg",
+            "release_date": "2024-09-05",
+            "title": "Attack of the Meth Gator",
+            "video": false,
+            "vote_average": 3.5,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9LsZh2O1sidMvxKuMCI9RDzdZj4.jpg",
+            "genre_ids": [
+                53,
+                27,
+                80,
+                9648
+            ],
+            "id": 1245708,
+            "original_language": "en",
+            "original_title": "Crescent City",
+            "overview": "When a ruthless serial killer terrorizes a small Southern town, everyone becomes a suspect -- including local authorities. As the body count rises and the dark mystery deepens, the chief detective becomes haunted by the horrors of his past.",
+            "popularity": 216.929,
+            "poster_path": "/kWwIkWextuqVUvAEM9DwJfEfkKe.jpg",
+            "release_date": "2024-08-16",
+            "title": "Crescent City",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 38
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6GhU4BJnqLSaAuz0yQBq3RfdzsF.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 1216191,
+            "original_language": "en",
+            "original_title": "Oddity",
+            "overview": "After the brutal murder of her twin sister, Darcy goes after those responsible by using haunted items as her tools for revenge.",
+            "popularity": 195.023,
+            "poster_path": "/uln9Efc2vzDOl0Fue2BPs8l1WO7.jpg",
+            "release_date": "2024-07-19",
+            "title": "Oddity",
+            "video": false,
+            "vote_average": 6.902,
+            "vote_count": 164
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "id": 14836,
+            "original_language": "en",
+            "original_title": "Coraline",
+            "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+            "popularity": 207.387,
+            "poster_path": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+            "release_date": "2009-02-05",
+            "title": "Coraline",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 7867
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/blqiNjJefmY10Wx6y2vgJJWljJj.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 949484,
+            "original_language": "en",
+            "original_title": "Hounds of War",
+            "overview": "After a mission goes wrong, only one of a group of mercenaries is left alive to avenge his fallen brothers.",
+            "popularity": 326.459,
+            "poster_path": "/lRBT73EWsiQPuqK3YS3BnBW0Zwi.jpg",
+            "release_date": "2024-08-29",
+            "title": "Hounds of War",
+            "video": false,
+            "vote_average": 6.371,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/716FGefV5R7drdoCOjJtzbPyyY8.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 1207898,
+            "original_language": "en",
+            "original_title": "The Jack in the Box: Rises",
+            "overview": "When a creepy Jack-in-the-Box is discovered and opened on the grounds of an exclusive girls' school, six brave students soon enter a fight to the finish against the unleashed demon.",
+            "popularity": 173.023,
+            "poster_path": "/oDVjlCTSyF6Fh8Fpm683MyGGnSG.jpg",
+            "release_date": "2024-01-18",
+            "title": "The Jack in the Box: Rises",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7ks7A3mAO7twDOvBVE4cR8LaIM8.jpg",
+            "genre_ids": [
+                16,
+                28,
+                18
+            ],
+            "id": 1104844,
+            "original_language": "ja",
+            "original_title": "\u5287\u5834\u7248\u30d6\u30eb\u30fc\u30ed\u30c3\u30af -EPISODE \u51ea-",
+            "overview": "One day, Nagi Seishiro receives an invitation to the mysterious BLUE LOCK Project. What awaits him there is an encounter with the finest strikers assembled from across the country. Nagi's dream of becoming the best, alongside Mikage Reo, will take this prodigy to a world he's never known.",
+            "popularity": 174.525,
+            "poster_path": "/ae434jM5NG2kKX1rRkG5giMhpPI.jpg",
+            "release_date": "2024-04-19",
+            "title": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "video": false,
+            "vote_average": 7.244,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7QBtfV7e24sNFQ47g8xh9iU5D4J.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                14
+            ],
+            "id": 1159477,
+            "original_language": "en",
+            "original_title": "The King Tide",
+            "overview": "After the mayor of an idyllic island village discovers a child with mysterious powers awash on their shores, the once peaceful community devolves into civil war, torn over the belief that the child is the next saviour.",
+            "popularity": 140.698,
+            "poster_path": "/nLVFvWHI3449klfOhR4nMxfHXzM.jpg",
+            "release_date": "2024-04-26",
+            "title": "The King Tide",
+            "video": false,
+            "vote_average": 7.104,
+            "vote_count": 53
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vvIKttfL7SoE9rZyLkg6TaAVsDH.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1010600,
+            "original_language": "en",
+            "original_title": "The Strangers: Chapter 1",
+            "overview": "After their car breaks down in an eerie small town, a young couple are forced to spend the night in a remote cabin. Panic ensues as they are terrorized by three masked strangers who strike with no mercy and seemingly no motives.",
+            "popularity": 154.894,
+            "poster_path": "/oYsCNpW4k7Pd7ac3uQfBhr2ihtW.jpg",
+            "release_date": "2024-05-15",
+            "title": "The Strangers: Chapter 1",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 321
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1LSMstNHwJnJD7tpnb8gZcgGNQR.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1164355,
+            "original_language": "id",
+            "original_title": "Lembayung",
+            "overview": "Arum and Pica, who wanted to complete their internship at Lembayung hospital, had to face mysterious terror from a woman satan who was suspected of hanged herself in the bathroom. The situation became even more tense after they asked others for help to the point where they threatened their own lives and those closest to them.",
+            "popularity": 284.735,
+            "poster_path": "/5x9LrW0yvtt6S3XovIQHgXfYvLL.jpg",
+            "release_date": "2024-09-19",
+            "title": "Lembayung",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1pbV8uC6EUYOYnPqWfrQFPdAj1O.jpg",
+            "genre_ids": [
+                80,
+                28,
+                12,
+                53,
+                18
+            ],
+            "id": 1147710,
+            "original_language": "ko",
+            "original_title": "\ud558\uc774\uc7ac\ud0b9",
+            "overview": "Pilots Tae-in and Gyu-sik are set to fly to Gimpo. Under the guidance of flight attendant Ok-soon, passengers are busy boarding. However, shortly after takeoff, a homemade bomb explodes, turning the cabin into chaos.",
+            "popularity": 282.192,
+            "poster_path": "/1ahGkWMv8Cehlf3hwCSlwJdXaej.jpg",
+            "release_date": "2024-06-21",
+            "title": "Hijack 1971",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 122,
+            "original_language": "en",
+            "original_title": "The Lord of the Rings: The Return of the King",
+            "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.\u200b",
+            "popularity": 171.752,
+            "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+            "release_date": "2003-12-17",
+            "title": "The Lord of the Rings: The Return of the King",
+            "video": false,
+            "vote_average": 8.48,
+            "vote_count": 23948
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wkPPRIducGfsbaUPsWfw0MCQdX7.jpg",
+            "genre_ids": [
+                28,
+                35,
+                12
+            ],
+            "id": 1051891,
+            "original_language": "en",
+            "original_title": "Thelma",
+            "overview": "When 93-year-old Thelma Post gets duped by a phone scammer pretending to be her grandson, she sets out on a treacherous quest across the city to reclaim what was taken from her.",
+            "popularity": 157.256,
+            "poster_path": "/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
+            "release_date": "2024-06-21",
+            "title": "Thelma",
+            "video": false,
+            "vote_average": 7.129,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zJkXE1Y56UqNfYH2TfjEN2fwWbl.jpg",
+            "genre_ids": [
+                27,
+                80,
+                9648
+            ],
+            "id": 1023922,
+            "original_language": "en",
+            "original_title": "MaXXXine",
+            "overview": "In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally gets her big break. But as a mysterious killer stalks the starlets of Hollywood, a trail of blood threatens to reveal her sinister past.",
+            "popularity": 154.753,
+            "poster_path": "/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
+            "release_date": "2024-07-04",
+            "title": "MaXXXine",
+            "video": false,
+            "vote_average": 6.517,
+            "vote_count": 555
+        }
+    ],
+    "type": "movie",
+    "page": 3
+}

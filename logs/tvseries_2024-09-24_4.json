@@ -1,0 +1,415 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/2tMeSoqZZOvssRVd30XvVAhiNaU.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 229480,
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "\uc190\ud574 \ubcf4\uae30 \uc2eb\uc5b4\uc11c",
+            "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
+            "popularity": 564.185,
+            "poster_path": "/ygmJUf1cCmdye5eyKqLxHsxAJDS.jpg",
+            "first_air_date": "2024-08-26",
+            "name": "No Gain No Love",
+            "vote_average": 8.8,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/upD2G9Z7W07w47c7B8ZqLqbTDc5.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 1900,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "LIVE with Kelly and Mark",
+            "overview": "A morning talk show with A-list celebrity guests, top-notch performances and one-of-a-kind segments that are unrivaled on daytime television, plus spontaneous, hilarious and unpredictable talk.",
+            "popularity": 782.095,
+            "poster_path": "/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg",
+            "first_air_date": "1988-09-05",
+            "name": "LIVE with Kelly and Mark",
+            "vote_average": 5.4,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ylOQf7xyRLcv9COgPhmRCMc3xbw.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 121290,
+            "origin_country": [
+                "DE"
+            ],
+            "original_language": "de",
+            "original_name": "Guido's Deko Queen",
+            "overview": "",
+            "popularity": 477.473,
+            "poster_path": "/zsXJ1nI79eNACc4ZUZm8kKU2HHA.jpg",
+            "first_air_date": "2021-03-17",
+            "name": "Guido's Deko Queen",
+            "vote_average": 6.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n9u72dPMB1e3IpgN3LHRaons6gw.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 79855,
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Questions pour un champion",
+            "overview": "Samuel Etienne hosts this emblematic game, which sees four candidates compete each evening around questions of general culture.",
+            "popularity": 635.236,
+            "poster_path": "/tKb3dm32wUDQmWNfygbvTkYKobb.jpg",
+            "first_air_date": "",
+            "name": "Questions pour un champion",
+            "vote_average": 4.3,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kj7PtSPdlG73ANqoOHe91pgsTov.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 17404,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Chopped",
+            "overview": "A high energy, fast paced cooking competition that challenges four up-and-coming chefs to turn a selection of everyday ingredients into an extraordinary three-course meal. After each course, a contestant gets \u201cchopped\u201d by our panel of esteemed culinary luminaries until the last man or woman left standing claims victory.",
+            "popularity": 619.49,
+            "poster_path": "/x7g390tj73dtlGX3ajZrlQRcRpO.jpg",
+            "first_air_date": "2009-01-13",
+            "name": "Chopped",
+            "vote_average": 6.2,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7ZBNbpkLhC2fS90j6onLS8qqfRX.jpg",
+            "genre_ids": [],
+            "id": 4682,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Strictly Come Dancing: It Takes Two",
+            "overview": "The companion show to the popular BBC One programme Strictly Come Dancing which features interviews and training footage of the couples competing in the main Saturday night show, opinions from the judges on the previous Saturday show and the training footage for the next, and interviews with celebrities who have been watching the show.",
+            "popularity": 611.657,
+            "poster_path": "/1UOKLsJ3bopZHg6ntRfmO4C5Gcm.jpg",
+            "first_air_date": "2004-10-25",
+            "name": "Strictly Come Dancing: It Takes Two",
+            "vote_average": 4.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aXkTTQfSJVAEDK0FXXAGRMhxe4e.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 208438,
+            "origin_country": [
+                "BE"
+            ],
+            "original_language": "nl",
+            "original_name": "De Tafel van Gert",
+            "overview": "",
+            "popularity": 607.694,
+            "poster_path": "/L1jmAIQH3xTGBcc1AqJ37x1P2e.jpg",
+            "first_air_date": "2022-09-05",
+            "name": "De Tafel van Gert",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/54PAMB4ZxSS8KrraEPtXu4bIWjL.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 30745,
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "original_name": "My Kitchen Rules",
+            "overview": "My Kitchen Rules is an Australian competitive cooking game show broadcast on the Seven Network since 2010. The series is produced by the team who created the Seven reality show My Restaurant Rules, and was put into production based on the success of Network Ten's MasterChef Australia. My Kitchen Rules has just been renewed by the Seven Network for a fifth series.",
+            "popularity": 607.377,
+            "poster_path": "/puMIggVFjjziprH6Deq4jqz67PL.jpg",
+            "first_air_date": "2010-02-01",
+            "name": "My Kitchen Rules",
+            "vote_average": 5.7,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                10759
+            ],
+            "id": 256121,
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "Lavender Fields",
+            "overview": "Jasmin loved her idyllic life in her mountain town, but a brush with a criminal empire took it all away. Now she's out for revenge with a new identity.",
+            "popularity": 593.372,
+            "poster_path": "/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
+            "first_air_date": "2024-09-02",
+            "name": "Lavender Fields",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yw1IOITFXtOvWweaKvR9uRZ3lgz.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 246492,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Skemergrond",
+            "overview": "It centres round the Louw family who own a beautiful flower farm in Gemoedsdrif. Their peaceful existence is turned upside down when unexpected guests arrive who threaten to reveal shocking family secrets. Old wounds are opened and new bonds are forged to save and protect the Louws and their legacy.",
+            "popularity": 564.949,
+            "poster_path": "/da9PU2tsOVUTFcnEZ8q2gfbCqRx.jpg",
+            "first_air_date": "2024-07-01",
+            "name": "Skemergrond",
+            "vote_average": 5.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/prpUCDAO8blJCReEICbpGBUNwA3.jpg",
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "id": 6647,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Bold and the Beautiful",
+            "overview": "Continuing drama combining romance and intrigue set against the glittering backdrop of Beverly Hills and the American fashion industry.",
+            "popularity": 265.587,
+            "poster_path": "/8EzeAbyorB9vE0dnzMg0cyqSm8E.jpg",
+            "first_air_date": "1987-03-23",
+            "name": "The Bold and the Beautiful",
+            "vote_average": 5.626,
+            "vote_count": 131
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w8Um9O5rIHCbYwqVXTjLkKgivFt.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 262364,
+            "origin_country": [
+                "HR"
+            ],
+            "original_language": "hr",
+            "original_name": "Sjene pro\u0161losti",
+            "overview": "",
+            "popularity": 539.329,
+            "poster_path": "/ycZgG9FG8dP4MwUSBvDXCagpoTa.jpg",
+            "first_air_date": "2024-09-02",
+            "name": "Sjene pro\u0161losti",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aCiXh5QX6bg0BtpFEBXKaZYScB4.jpg",
+            "genre_ids": [
+                10763,
+                10764,
+                99
+            ],
+            "id": 203599,
+            "origin_country": [
+                "HK"
+            ],
+            "original_language": "cn",
+            "original_name": "\u6771\u5f35\u897f\u671b",
+            "overview": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly based on entertainment news and personal follow-up of the artists, and will also be interspersed with the latest trends of TVB dramas and artists. Some entertainment news content clips will be rebroadcast on the next day's \"Entertainment Live\".\n\nThis program will be broadcast on Jade Channel from 19:30-20:00 (Hong Kong time) from June 6, 2005, and will be broadcast every day from March 3, 2019, and will be broadcast on myTV (later myTV SUPER) to provide \"Program Review\".",
+            "popularity": 377.69,
+            "poster_path": "/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
+            "first_air_date": "2005-06-06",
+            "name": "Scoop",
+            "vote_average": 7.2,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wYGqCZuBdYeL7OLQTDxVA1AnuUl.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 49394,
+            "origin_country": [
+                "PL"
+            ],
+            "original_language": "pl",
+            "original_name": "Kuba Wojew\u00f3dzki",
+            "overview": "",
+            "popularity": 536.073,
+            "poster_path": "/rDSmFaUFy8hYdDQonE1oVnDiE3A.jpg",
+            "first_air_date": "2002-10-04",
+            "name": "Kuba Wojew\u00f3dzki",
+            "vote_average": 8.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dDKJsVnuqARAcwtpKVlfheytHAa.jpg",
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "id": 1054,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Young and the Restless",
+            "overview": "The rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Baldwin and Winters families.",
+            "popularity": 310.543,
+            "poster_path": "/4rdJWBQQV1Iqve8kYq8wdfcvUKo.jpg",
+            "first_air_date": "1973-03-26",
+            "name": "The Young and the Restless",
+            "vote_average": 6.902,
+            "vote_count": 143
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                10767,
+                35
+            ],
+            "id": 265217,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Handsome Podcast",
+            "overview": "\"Handsome\" is a podcast from comedians Tig Notaro, Fortune Feimster, and Mae Martin. Every week, the handsome hosts field a question from a friend and attempt to answer it together, covering every subject you could think of.",
+            "popularity": 502.09,
+            "poster_path": "/exxG6M9yHGQi17mkyA8rBDoTcN4.jpg",
+            "first_air_date": "2023-08-22",
+            "name": "Handsome Podcast",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cAmpVRgQL2s55CU6K8SaFcUJPNW.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10751
+            ],
+            "id": 262252,
+            "origin_country": [
+                "CO"
+            ],
+            "original_language": "es",
+            "original_name": "Klass 95: El poder de la belleza",
+            "overview": "An ambitious young woman launches a powerful modeling agency determined to change lives \u2014 but power and love are not for the faint of heart.",
+            "popularity": 489.73,
+            "poster_path": "/1yxVcLAZbFJpwqz0kDjm5Tch8FC.jpg",
+            "first_air_date": "2024-08-20",
+            "name": "KLASS 95: The Power of Beauty",
+            "vote_average": 8.0,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jfjMtTzgaN3AtkW2ipJnbeE4rYg.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 241492,
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Estrela da Casa",
+            "overview": "",
+            "popularity": 484.714,
+            "poster_path": "/i8HkMKyuZ13i8xpMW3ZmdTXYOL0.jpg",
+            "first_air_date": "2024-08-13",
+            "name": "Estrela da Casa",
+            "vote_average": 2.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/17CJzNN1gEeqTvznJFMdYdmvqIg.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 210078,
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "fr",
+            "original_name": "STAT",
+            "overview": "The daily lives of the personnel of the St-Vincent hospital in Montr\u00e9al.",
+            "popularity": 484.708,
+            "poster_path": "/i8t2DQVBv7rfJeUerVSIWGyMLqw.jpg",
+            "first_air_date": "2022-09-12",
+            "name": "STAT",
+            "vote_average": 5.8,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xgyTnSUUDT4jYL3X6F3DKYeP9HE.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "id": 119316,
+            "origin_country": [
+                "IN"
+            ],
+            "original_language": "hi",
+            "original_name": "\u0935\u093e\u0917\u0932\u0947 \u0915\u0940 \u0926\u0941\u0928\u093f\u092f\u093e",
+            "overview": "Three generations of the family live together, who share all their happiness and sorrows. Follow the story of this family as they bring laughter to each other's lives and will make your heart melt. A new generation of the old critically acclaimed show is here to take you on a roller coaster ride of emotions.",
+            "popularity": 422.46,
+            "poster_path": "/jKonm6Q3vw51Ytd4y7bJ70xJT7l.jpg",
+            "first_air_date": "2021-02-08",
+            "name": "Wagle Ki Duniya",
+            "vote_average": 7.8,
+            "vote_count": 13
+        }
+    ],
+    "type": "tvseries",
+    "page": 4
+}
