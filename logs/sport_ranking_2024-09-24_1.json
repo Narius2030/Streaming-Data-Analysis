@@ -1,0 +1,1896 @@
+{
+    "data": [
+        {
+            "name": "Argentina",
+            "nameCode": "ARG",
+            "current_ranking": 1,
+            "current_points": 1889.02,
+            "previous_ranking": 1,
+            "previous_points": 1901.48,
+            "growth_point": -12.460000000000036
+        },
+        {
+            "name": "France",
+            "nameCode": "FRA",
+            "current_ranking": 2,
+            "current_points": 1851.92,
+            "previous_ranking": 2,
+            "previous_points": 1854.91,
+            "growth_point": -2.990000000000009
+        },
+        {
+            "name": "Spain",
+            "nameCode": "ESP",
+            "current_ranking": 3,
+            "current_points": 1836.42,
+            "previous_ranking": 3,
+            "previous_points": 1835.67,
+            "growth_point": 0.75
+        },
+        {
+            "name": "England",
+            "nameCode": "ENG",
+            "current_ranking": 4,
+            "current_points": 1817.28,
+            "previous_ranking": 4,
+            "previous_points": 1812.26,
+            "growth_point": 5.019999999999982
+        },
+        {
+            "name": "Brazil",
+            "nameCode": "BRA",
+            "current_ranking": 5,
+            "current_points": 1772.02,
+            "previous_ranking": 5,
+            "previous_points": 1785.61,
+            "growth_point": -13.589999999999918
+        },
+        {
+            "name": "Belgium",
+            "nameCode": "BEL",
+            "current_ranking": 6,
+            "current_points": 1768.14,
+            "previous_ranking": 6,
+            "previous_points": 1772.44,
+            "growth_point": -4.2999999999999545
+        },
+        {
+            "name": "Netherlands",
+            "nameCode": "NED",
+            "current_ranking": 7,
+            "current_points": 1759.95,
+            "previous_ranking": 7,
+            "previous_points": 1758.51,
+            "growth_point": 1.4400000000000546
+        },
+        {
+            "name": "Portugal",
+            "nameCode": "POR",
+            "current_ranking": 8,
+            "current_points": 1752.14,
+            "previous_ranking": 8,
+            "previous_points": 1741.43,
+            "growth_point": 10.710000000000036
+        },
+        {
+            "name": "Colombia",
+            "nameCode": "COL",
+            "current_ranking": 9,
+            "current_points": 1738.72,
+            "previous_ranking": 9,
+            "previous_points": 1727.32,
+            "growth_point": 11.400000000000091
+        },
+        {
+            "name": "Italy",
+            "nameCode": "ITA",
+            "current_ranking": 10,
+            "current_points": 1726.31,
+            "previous_ranking": 10,
+            "previous_points": 1714.29,
+            "growth_point": 12.019999999999982
+        },
+        {
+            "name": "Uruguay",
+            "nameCode": "URU",
+            "current_ranking": 11,
+            "current_points": 1701.34,
+            "previous_ranking": 11,
+            "previous_points": 1713.15,
+            "growth_point": -11.810000000000173
+        },
+        {
+            "name": "Croatia",
+            "nameCode": "CRO",
+            "current_ranking": 12,
+            "current_points": 1699.6,
+            "previous_ranking": 12,
+            "previous_points": 1701.31,
+            "growth_point": -1.7100000000000364
+        },
+        {
+            "name": "Germany",
+            "nameCode": "GER",
+            "current_ranking": 13,
+            "current_points": 1692.19,
+            "previous_ranking": 13,
+            "previous_points": 1686.02,
+            "growth_point": 6.170000000000073
+        },
+        {
+            "name": "Morocco",
+            "nameCode": "MAR",
+            "current_ranking": 14,
+            "current_points": 1676.14,
+            "previous_ranking": 14,
+            "previous_points": 1669.44,
+            "growth_point": 6.7000000000000455
+        },
+        {
+            "name": "Switzerland",
+            "nameCode": "SUI",
+            "current_ranking": 15,
+            "current_points": 1641,
+            "previous_ranking": 15,
+            "previous_points": 1654.1,
+            "growth_point": -13.099999999999909
+        },
+        {
+            "name": "Japan",
+            "nameCode": "JPN",
+            "current_ranking": 16,
+            "current_points": 1639.6,
+            "previous_ranking": 18,
+            "previous_points": 1628.81,
+            "growth_point": 10.789999999999964
+        },
+        {
+            "name": "Mexico",
+            "nameCode": "MEX",
+            "current_ranking": 17,
+            "current_points": 1635.66,
+            "previous_ranking": 17,
+            "previous_points": 1635.11,
+            "growth_point": 0.5500000000001819
+        },
+        {
+            "name": "USA",
+            "nameCode": "USA",
+            "current_ranking": 18,
+            "current_points": 1632.19,
+            "previous_ranking": 16,
+            "previous_points": 1641.75,
+            "growth_point": -9.559999999999945
+        },
+        {
+            "name": "Iran",
+            "nameCode": "IRI",
+            "current_ranking": 19,
+            "current_points": 1622.92,
+            "previous_ranking": 20,
+            "previous_points": 1611.16,
+            "growth_point": 11.759999999999991
+        },
+        {
+            "name": "Denmark",
+            "nameCode": "DEN",
+            "current_ranking": 20,
+            "current_points": 1621.7,
+            "previous_ranking": 21,
+            "previous_points": 1607.52,
+            "growth_point": 14.180000000000064
+        },
+        {
+            "name": "Senegal",
+            "nameCode": "SEN",
+            "current_ranking": 21,
+            "current_points": 1620.87,
+            "previous_ranking": 19,
+            "previous_points": 1623.34,
+            "growth_point": -2.4700000000000273
+        },
+        {
+            "name": "Austria",
+            "nameCode": "AUT",
+            "current_ranking": 22,
+            "current_points": 1580.37,
+            "previous_ranking": 22,
+            "previous_points": 1591.56,
+            "growth_point": -11.190000000000055
+        },
+        {
+            "name": "South Korea",
+            "nameCode": "KOR",
+            "current_ranking": 23,
+            "current_points": 1572.61,
+            "previous_ranking": 23,
+            "previous_points": 1572.87,
+            "growth_point": -0.2599999999999909
+        },
+        {
+            "name": "Ukraine",
+            "nameCode": "UKR",
+            "current_ranking": 24,
+            "current_points": 1548.29,
+            "previous_ranking": 25,
+            "previous_points": 1567.25,
+            "growth_point": -18.960000000000036
+        },
+        {
+            "name": "Australia",
+            "nameCode": "AUS",
+            "current_ranking": 25,
+            "current_points": 1544.3,
+            "previous_ranking": 24,
+            "previous_points": 1571.29,
+            "growth_point": -26.99000000000001
+        },
+        {
+            "name": "T\u00fcrkiye",
+            "nameCode": "TUR",
+            "current_ranking": 26,
+            "current_points": 1538.52,
+            "previous_ranking": 26,
+            "previous_points": 1533.6,
+            "growth_point": 4.920000000000073
+        },
+        {
+            "name": "Ecuador",
+            "nameCode": "ECU",
+            "current_ranking": 27,
+            "current_points": 1535.43,
+            "previous_ranking": 27,
+            "previous_points": 1530.44,
+            "growth_point": 4.990000000000009
+        },
+        {
+            "name": "Sweden",
+            "nameCode": "SWE",
+            "current_ranking": 28,
+            "current_points": 1528.18,
+            "previous_ranking": 29,
+            "previous_points": 1522.19,
+            "growth_point": 5.990000000000009
+        },
+        {
+            "name": "Wales",
+            "nameCode": "WAL",
+            "current_ranking": 29,
+            "current_points": 1526.53,
+            "previous_ranking": 30,
+            "previous_points": 1521.4,
+            "growth_point": 5.129999999999882
+        },
+        {
+            "name": "Poland",
+            "nameCode": "POL",
+            "current_ranking": 30,
+            "current_points": 1525.08,
+            "previous_ranking": 28,
+            "previous_points": 1523.53,
+            "growth_point": 1.5499999999999545
+        },
+        {
+            "name": "Egypt",
+            "nameCode": "EGY",
+            "current_ranking": 31,
+            "current_points": 1515.64,
+            "previous_ranking": 36,
+            "previous_points": 1502.34,
+            "growth_point": 13.300000000000182
+        },
+        {
+            "name": "Hungary",
+            "nameCode": "HUN",
+            "current_ranking": 32,
+            "current_points": 1511.06,
+            "previous_ranking": 31,
+            "previous_points": 1518.77,
+            "growth_point": -7.710000000000036
+        },
+        {
+            "name": "C\u00f4te d'Ivoire",
+            "nameCode": "CIV",
+            "current_ranking": 33,
+            "current_points": 1509.12,
+            "previous_ranking": 38,
+            "previous_points": 1499.69,
+            "growth_point": 9.429999999999836
+        },
+        {
+            "name": "Russia",
+            "nameCode": "RUS",
+            "current_ranking": 34,
+            "current_points": 1508.73,
+            "previous_ranking": 33,
+            "previous_points": 1506.58,
+            "growth_point": 2.150000000000091
+        },
+        {
+            "name": "Serbia",
+            "nameCode": "SRB",
+            "current_ranking": 35,
+            "current_points": 1505.08,
+            "previous_ranking": 32,
+            "previous_points": 1506.9,
+            "growth_point": -1.8200000000001637
+        },
+        {
+            "name": "Tunisia",
+            "nameCode": "TUN",
+            "current_ranking": 36,
+            "current_points": 1504.86,
+            "previous_ranking": 41,
+            "previous_points": 1494.06,
+            "growth_point": 10.799999999999955
+        },
+        {
+            "name": "Panama",
+            "nameCode": "PAN",
+            "current_ranking": 37,
+            "current_points": 1502.55,
+            "previous_ranking": 35,
+            "previous_points": 1502.55,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Canada",
+            "nameCode": "CAN",
+            "current_ranking": 38,
+            "current_points": 1502.31,
+            "previous_ranking": 40,
+            "previous_points": 1494.66,
+            "growth_point": 7.649999999999864
+        },
+        {
+            "name": "Nigeria",
+            "nameCode": "NGR",
+            "current_ranking": 39,
+            "current_points": 1498.02,
+            "previous_ranking": 39,
+            "previous_points": 1498.93,
+            "growth_point": -0.9100000000000819
+        },
+        {
+            "name": "Venezuela",
+            "nameCode": "VEN",
+            "current_ranking": 40,
+            "current_points": 1488.56,
+            "previous_ranking": 37,
+            "previous_points": 1501.46,
+            "growth_point": -12.900000000000091
+        },
+        {
+            "name": "Algeria",
+            "nameCode": "DZA",
+            "current_ranking": 41,
+            "current_points": 1486.03,
+            "previous_ranking": 46,
+            "previous_points": 1474.13,
+            "growth_point": 11.899999999999864
+        },
+        {
+            "name": "Slovakia",
+            "nameCode": "SVK",
+            "current_ranking": 42,
+            "current_points": 1485.89,
+            "previous_ranking": 44,
+            "previous_points": 1479.07,
+            "growth_point": 6.820000000000164
+        },
+        {
+            "name": "Peru",
+            "nameCode": "PER",
+            "current_ranking": 43,
+            "current_points": 1483.2,
+            "previous_ranking": 42,
+            "previous_points": 1489.68,
+            "growth_point": -6.480000000000018
+        },
+        {
+            "name": "Qatar",
+            "nameCode": "QAT",
+            "current_ranking": 44,
+            "current_points": 1481.69,
+            "previous_ranking": 34,
+            "previous_points": 1504.06,
+            "growth_point": -22.36999999999989
+        },
+        {
+            "name": "Romania",
+            "nameCode": "ROU",
+            "current_ranking": 45,
+            "current_points": 1481.4,
+            "previous_ranking": 45,
+            "previous_points": 1474.7,
+            "growth_point": 6.7000000000000455
+        },
+        {
+            "name": "Czechia",
+            "nameCode": "CZE",
+            "current_ranking": 46,
+            "current_points": 1473.19,
+            "previous_ranking": 47,
+            "previous_points": 1473.46,
+            "growth_point": -0.2699999999999818
+        },
+        {
+            "name": "Norway",
+            "nameCode": "NOR",
+            "current_ranking": 47,
+            "current_points": 1472.16,
+            "previous_ranking": 50,
+            "previous_points": 1466.48,
+            "growth_point": 5.680000000000064
+        },
+        {
+            "name": "Greece",
+            "nameCode": "GRE",
+            "current_ranking": 48,
+            "current_points": 1469.18,
+            "previous_ranking": 54,
+            "previous_points": 1455.95,
+            "growth_point": 13.230000000000018
+        },
+        {
+            "name": "Chile",
+            "nameCode": "CHI",
+            "current_ranking": 49,
+            "current_points": 1467.98,
+            "previous_ranking": 43,
+            "previous_points": 1489.5,
+            "growth_point": -21.519999999999982
+        },
+        {
+            "name": "Costa Rica",
+            "nameCode": "CRC",
+            "current_ranking": 50,
+            "current_points": 1466.08,
+            "previous_ranking": 49,
+            "previous_points": 1469.69,
+            "growth_point": -3.6100000000001273
+        },
+        {
+            "name": "Slovenia",
+            "nameCode": "SLO",
+            "current_ranking": 51,
+            "current_points": 1462.98,
+            "previous_ranking": 52,
+            "previous_points": 1457.06,
+            "growth_point": 5.920000000000073
+        },
+        {
+            "name": "Scotland",
+            "nameCode": "SCO",
+            "current_ranking": 52,
+            "current_points": 1461.75,
+            "previous_ranking": 48,
+            "previous_points": 1472.3,
+            "growth_point": -10.549999999999955
+        },
+        {
+            "name": "Cameroon",
+            "nameCode": "CMR",
+            "current_ranking": 53,
+            "current_points": 1458.51,
+            "previous_ranking": 51,
+            "previous_points": 1458.47,
+            "growth_point": 0.03999999999996362
+        },
+        {
+            "name": "Mali",
+            "nameCode": "MLI",
+            "current_ranking": 54,
+            "current_points": 1455.16,
+            "previous_ranking": 53,
+            "previous_points": 1456.74,
+            "growth_point": -1.5799999999999272
+        },
+        {
+            "name": "Iraq",
+            "nameCode": "IRQ",
+            "current_ranking": 55,
+            "current_points": 1435.9,
+            "previous_ranking": 55,
+            "previous_points": 1433.07,
+            "growth_point": 2.8300000000001546
+        },
+        {
+            "name": "Saudi Arabia",
+            "nameCode": "KSA",
+            "current_ranking": 56,
+            "current_points": 1433.16,
+            "previous_ranking": 56,
+            "previous_points": 1431.3,
+            "growth_point": 1.8600000000001273
+        },
+        {
+            "name": "Paraguay",
+            "nameCode": "PAR",
+            "current_ranking": 57,
+            "current_points": 1423.98,
+            "previous_ranking": 62,
+            "previous_points": 1396.8,
+            "growth_point": 27.180000000000064
+        },
+        {
+            "name": "DR Congo",
+            "nameCode": "COD",
+            "current_ranking": 58,
+            "current_points": 1416.91,
+            "previous_ranking": 60,
+            "previous_points": 1400.93,
+            "growth_point": 15.980000000000018
+        },
+        {
+            "name": "South Africa",
+            "nameCode": "RSA",
+            "current_ranking": 59,
+            "current_points": 1415.07,
+            "previous_ranking": 57,
+            "previous_points": 1415.15,
+            "growth_point": -0.08000000000015461
+        },
+        {
+            "name": "Uzbekistan",
+            "nameCode": "UZB",
+            "current_ranking": 60,
+            "current_points": 1413.06,
+            "previous_ranking": 61,
+            "previous_points": 1397.41,
+            "growth_point": 15.649999999999864
+        },
+        {
+            "name": "Jamaica",
+            "nameCode": "JAM",
+            "current_ranking": 61,
+            "current_points": 1402.95,
+            "previous_ranking": 59,
+            "previous_points": 1401.56,
+            "growth_point": 1.3900000000001
+        },
+        {
+            "name": "Ireland",
+            "nameCode": "IRL",
+            "current_ranking": 62,
+            "current_points": 1394.63,
+            "previous_ranking": 58,
+            "previous_points": 1403.84,
+            "growth_point": -9.209999999999809
+        },
+        {
+            "name": "Burkina Faso",
+            "nameCode": "BUR",
+            "current_ranking": 63,
+            "current_points": 1387.5,
+            "previous_ranking": 67,
+            "previous_points": 1375.16,
+            "growth_point": 12.339999999999918
+        },
+        {
+            "name": "Finland",
+            "nameCode": "FIN",
+            "current_ranking": 64,
+            "current_points": 1384.36,
+            "previous_ranking": 63,
+            "previous_points": 1393.4,
+            "growth_point": -9.040000000000191
+        },
+        {
+            "name": "Cape Verde",
+            "nameCode": "CPV",
+            "current_ranking": 65,
+            "current_points": 1379.17,
+            "previous_ranking": 65,
+            "previous_points": 1380.53,
+            "growth_point": -1.3599999999999
+        },
+        {
+            "name": "Georgia",
+            "nameCode": "GEO",
+            "current_ranking": 66,
+            "current_points": 1378.22,
+            "previous_ranking": 70,
+            "previous_points": 1361.41,
+            "growth_point": 16.809999999999945
+        },
+        {
+            "name": "Albania",
+            "nameCode": "ALB",
+            "current_ranking": 67,
+            "current_points": 1377.91,
+            "previous_ranking": 66,
+            "previous_points": 1375.49,
+            "growth_point": 2.4200000000000728
+        },
+        {
+            "name": "Jordan",
+            "nameCode": "JOR",
+            "current_ranking": 68,
+            "current_points": 1377.52,
+            "previous_ranking": 68,
+            "previous_points": 1374.13,
+            "growth_point": 3.3899999999998727
+        },
+        {
+            "name": "United Arab Emirates",
+            "nameCode": "UAE",
+            "current_ranking": 69,
+            "current_points": 1377.22,
+            "previous_ranking": 69,
+            "previous_points": 1368.84,
+            "growth_point": 8.38000000000011
+        },
+        {
+            "name": "Ghana",
+            "nameCode": "GHA",
+            "current_ranking": 70,
+            "current_points": 1360.43,
+            "previous_ranking": 64,
+            "previous_points": 1381.25,
+            "growth_point": -20.819999999999936
+        },
+        {
+            "name": "Iceland",
+            "nameCode": "ISL",
+            "current_ranking": 71,
+            "current_points": 1355.75,
+            "previous_ranking": 71,
+            "previous_points": 1353.48,
+            "growth_point": 2.269999999999982
+        },
+        {
+            "name": "North Macedonia",
+            "nameCode": "MKD",
+            "current_ranking": 72,
+            "current_points": 1351.18,
+            "previous_ranking": 72,
+            "previous_points": 1348.63,
+            "growth_point": 2.5499999999999545
+        },
+        {
+            "name": "Northern Ireland",
+            "nameCode": "NIR",
+            "current_ranking": 73,
+            "current_points": 1339.64,
+            "previous_ranking": 74,
+            "previous_points": 1341.33,
+            "growth_point": -1.6899999999998272
+        },
+        {
+            "name": "Montenegro",
+            "nameCode": "MNE",
+            "current_ranking": 74,
+            "current_points": 1332.68,
+            "previous_ranking": 73,
+            "previous_points": 1345.02,
+            "growth_point": -12.339999999999918
+        },
+        {
+            "name": "Bosnia & Herzegovina",
+            "nameCode": "BIH",
+            "current_ranking": 75,
+            "current_points": 1332.39,
+            "previous_ranking": 75,
+            "previous_points": 1332.3,
+            "growth_point": 0.09000000000014552
+        },
+        {
+            "name": "Bahrain",
+            "nameCode": "BHR",
+            "current_ranking": 76,
+            "current_points": 1315.49,
+            "previous_ranking": 80,
+            "previous_points": 1302.86,
+            "growth_point": 12.63000000000011
+        },
+        {
+            "name": "Honduras",
+            "nameCode": "HON",
+            "current_ranking": 77,
+            "current_points": 1311.3,
+            "previous_ranking": 79,
+            "previous_points": 1311.48,
+            "growth_point": -0.18000000000006366
+        },
+        {
+            "name": "Oman",
+            "nameCode": "OMN",
+            "current_ranking": 78,
+            "current_points": 1309.27,
+            "previous_ranking": 76,
+            "previous_points": 1326.18,
+            "growth_point": -16.910000000000082
+        },
+        {
+            "name": "Israel",
+            "nameCode": "ISR",
+            "current_ranking": 79,
+            "current_points": 1307.8,
+            "previous_ranking": 78,
+            "previous_points": 1312.54,
+            "growth_point": -4.740000000000009
+        },
+        {
+            "name": "El Salvador",
+            "nameCode": "ESA",
+            "current_ranking": 80,
+            "current_points": 1307.04,
+            "previous_ranking": 81,
+            "previous_points": 1302.11,
+            "growth_point": 4.930000000000064
+        },
+        {
+            "name": "Bulgaria",
+            "nameCode": "BUL",
+            "current_ranking": 81,
+            "current_points": 1302.68,
+            "previous_ranking": 82,
+            "previous_points": 1295.5,
+            "growth_point": 7.180000000000064
+        },
+        {
+            "name": "Guinea",
+            "nameCode": "GUI",
+            "current_ranking": 82,
+            "current_points": 1298.3,
+            "previous_ranking": 77,
+            "previous_points": 1324.8,
+            "growth_point": -26.5
+        },
+        {
+            "name": "Bolivia",
+            "nameCode": "BOL",
+            "current_ranking": 83,
+            "current_points": 1293.76,
+            "previous_ranking": 89,
+            "previous_points": 1258.56,
+            "growth_point": 35.200000000000045
+        },
+        {
+            "name": "Gabon",
+            "nameCode": "GAB",
+            "current_ranking": 84,
+            "current_points": 1292.88,
+            "previous_ranking": 83,
+            "previous_points": 1288.45,
+            "growth_point": 4.430000000000064
+        },
+        {
+            "name": "Angola",
+            "nameCode": "ANG",
+            "current_ranking": 85,
+            "current_points": 1281.09,
+            "previous_ranking": 90,
+            "previous_points": 1255.65,
+            "growth_point": 25.439999999999827
+        },
+        {
+            "name": "Haiti",
+            "nameCode": "HAI",
+            "current_ranking": 86,
+            "current_points": 1278.56,
+            "previous_ranking": 85,
+            "previous_points": 1274.46,
+            "growth_point": 4.099999999999909
+        },
+        {
+            "name": "Luxembourg",
+            "nameCode": "LUX",
+            "current_ranking": 87,
+            "current_points": 1261.95,
+            "previous_ranking": 84,
+            "previous_points": 1276.73,
+            "growth_point": -14.779999999999973
+        },
+        {
+            "name": "Cura\u00e7ao",
+            "nameCode": "CUR",
+            "current_ranking": 88,
+            "current_points": 1261.38,
+            "previous_ranking": 86,
+            "previous_points": 1272.71,
+            "growth_point": -11.329999999999927
+        },
+        {
+            "name": "Benin",
+            "nameCode": "BEN",
+            "current_ranking": 89,
+            "current_points": 1257.69,
+            "previous_ranking": 91,
+            "previous_points": 1254.18,
+            "growth_point": 3.509999999999991
+        },
+        {
+            "name": "Uganda",
+            "nameCode": "UGA",
+            "current_ranking": 90,
+            "current_points": 1257.64,
+            "previous_ranking": 95,
+            "previous_points": 1242.96,
+            "growth_point": 14.680000000000064
+        },
+        {
+            "name": "China",
+            "nameCode": "CHN",
+            "current_ranking": 91,
+            "current_points": 1253.77,
+            "previous_ranking": 87,
+            "previous_points": 1267.51,
+            "growth_point": -13.740000000000009
+        },
+        {
+            "name": "Syria",
+            "nameCode": "SYR",
+            "current_ranking": 92,
+            "current_points": 1252.91,
+            "previous_ranking": 93,
+            "previous_points": 1246.68,
+            "growth_point": 6.230000000000018
+        },
+        {
+            "name": "Zambia",
+            "nameCode": "ZAM",
+            "current_ranking": 93,
+            "current_points": 1252.79,
+            "previous_ranking": 92,
+            "previous_points": 1249.54,
+            "growth_point": 3.25
+        },
+        {
+            "name": "Equatorial Guinea",
+            "nameCode": "GEQ",
+            "current_ranking": 94,
+            "current_points": 1250.57,
+            "previous_ranking": 88,
+            "previous_points": 1260.5,
+            "growth_point": -9.930000000000064
+        },
+        {
+            "name": "New Zealand",
+            "nameCode": "NZL",
+            "current_ranking": 95,
+            "current_points": 1247.08,
+            "previous_ranking": 94,
+            "previous_points": 1245.73,
+            "growth_point": 1.349999999999909
+        },
+        {
+            "name": "Armenia",
+            "nameCode": "ARM",
+            "current_ranking": 96,
+            "current_points": 1230.43,
+            "previous_ranking": 97,
+            "previous_points": 1230.79,
+            "growth_point": -0.35999999999989996
+        },
+        {
+            "name": "Belarus",
+            "nameCode": "BLR",
+            "current_ranking": 97,
+            "current_points": 1229.07,
+            "previous_ranking": 99,
+            "previous_points": 1219.78,
+            "growth_point": 9.289999999999964
+        },
+        {
+            "name": "Palestine",
+            "nameCode": "PSE",
+            "current_ranking": 98,
+            "current_points": 1228.99,
+            "previous_ranking": 96,
+            "previous_points": 1231.25,
+            "growth_point": -2.259999999999991
+        },
+        {
+            "name": "Mozambique",
+            "nameCode": "MOZ",
+            "current_ranking": 99,
+            "current_points": 1226.03,
+            "previous_ranking": 104,
+            "previous_points": 1208.87,
+            "growth_point": 17.160000000000082
+        },
+        {
+            "name": "Thailand",
+            "nameCode": "THA",
+            "current_ranking": 100,
+            "current_points": 1223.06,
+            "previous_ranking": 101,
+            "previous_points": 1218.56,
+            "growth_point": 4.5
+        },
+        {
+            "name": "Trinidad and Tobago",
+            "nameCode": "TTO",
+            "current_ranking": 101,
+            "current_points": 1213.25,
+            "previous_ranking": 100,
+            "previous_points": 1219.44,
+            "growth_point": -6.190000000000055
+        },
+        {
+            "name": "Kenya",
+            "nameCode": "KEN",
+            "current_ranking": 102,
+            "current_points": 1208.96,
+            "previous_ranking": 108,
+            "previous_points": 1197.73,
+            "growth_point": 11.230000000000018
+        },
+        {
+            "name": "Tajikistan",
+            "nameCode": "TJK",
+            "current_ranking": 103,
+            "current_points": 1208.01,
+            "previous_ranking": 103,
+            "previous_points": 1212.41,
+            "growth_point": -4.400000000000091
+        },
+        {
+            "name": "Kosovo",
+            "nameCode": "KOS",
+            "current_ranking": 104,
+            "current_points": 1205.96,
+            "previous_ranking": 106,
+            "previous_points": 1203.16,
+            "growth_point": 2.7999999999999545
+        },
+        {
+            "name": "Namibia",
+            "nameCode": "NAM",
+            "current_ranking": 105,
+            "current_points": 1201.3,
+            "previous_ranking": 98,
+            "previous_points": 1221.42,
+            "growth_point": -20.12000000000012
+        },
+        {
+            "name": "Kyrgyzstan",
+            "nameCode": "KGZ",
+            "current_ranking": 106,
+            "current_points": 1201.11,
+            "previous_ranking": 102,
+            "previous_points": 1213.58,
+            "growth_point": -12.470000000000027
+        },
+        {
+            "name": "Guatemala",
+            "nameCode": "GUA",
+            "current_ranking": 107,
+            "current_points": 1200.43,
+            "previous_ranking": 107,
+            "previous_points": 1198.84,
+            "growth_point": 1.5900000000001455
+        },
+        {
+            "name": "Madagascar",
+            "nameCode": "MAD",
+            "current_ranking": 108,
+            "current_points": 1196.56,
+            "previous_ranking": 105,
+            "previous_points": 1203.66,
+            "growth_point": -7.100000000000136
+        },
+        {
+            "name": "Kazakhstan",
+            "nameCode": "KAZ",
+            "current_ranking": 109,
+            "current_points": 1193.21,
+            "previous_ranking": 109,
+            "previous_points": 1193.62,
+            "growth_point": -0.4099999999998545
+        },
+        {
+            "name": "Tanzania",
+            "nameCode": "TAN",
+            "current_ranking": 110,
+            "current_points": 1188.24,
+            "previous_ranking": 113,
+            "previous_points": 1174.99,
+            "growth_point": 13.25
+        },
+        {
+            "name": "North Korea",
+            "nameCode": "DPR",
+            "current_ranking": 111,
+            "current_points": 1183.02,
+            "previous_ranking": 110,
+            "previous_points": 1183.96,
+            "growth_point": -0.9400000000000546
+        },
+        {
+            "name": "Mauritania",
+            "nameCode": "MRT",
+            "current_ranking": 112,
+            "current_points": 1179.04,
+            "previous_ranking": 112,
+            "previous_points": 1177.5,
+            "growth_point": 1.5399999999999636
+        },
+        {
+            "name": "Azerbaijan",
+            "nameCode": "AZE",
+            "current_ranking": 113,
+            "current_points": 1173.15,
+            "previous_ranking": 111,
+            "previous_points": 1179.88,
+            "growth_point": -6.730000000000018
+        },
+        {
+            "name": "Lebanon",
+            "nameCode": "LBN",
+            "current_ranking": 114,
+            "current_points": 1167.49,
+            "previous_ranking": 116,
+            "previous_points": 1167.64,
+            "growth_point": -0.15000000000009095
+        },
+        {
+            "name": "Guinea-Bissau",
+            "nameCode": "GBS",
+            "current_ranking": 115,
+            "current_points": 1166.02,
+            "previous_ranking": 114,
+            "previous_points": 1168.49,
+            "growth_point": -2.4700000000000273
+        },
+        {
+            "name": "Vietnam",
+            "nameCode": "VIE",
+            "current_ranking": 116,
+            "current_points": 1161.38,
+            "previous_ranking": 115,
+            "previous_points": 1168.02,
+            "growth_point": -6.639999999999873
+        },
+        {
+            "name": "Congo Republic",
+            "nameCode": "COG",
+            "current_ranking": 117,
+            "current_points": 1160.33,
+            "previous_ranking": 118,
+            "previous_points": 1162.73,
+            "growth_point": -2.400000000000091
+        },
+        {
+            "name": "Comoros",
+            "nameCode": "COM",
+            "current_ranking": 118,
+            "current_points": 1159.64,
+            "previous_ranking": 119,
+            "previous_points": 1159.84,
+            "growth_point": -0.1999999999998181
+        },
+        {
+            "name": "Togo",
+            "nameCode": "TOG",
+            "current_ranking": 119,
+            "current_points": 1158.81,
+            "previous_ranking": 120,
+            "previous_points": 1158.7,
+            "growth_point": 0.10999999999989996
+        },
+        {
+            "name": "Sudan",
+            "nameCode": "SDN",
+            "current_ranking": 120,
+            "current_points": 1154.5,
+            "previous_ranking": 121,
+            "previous_points": 1152.29,
+            "growth_point": 2.2100000000000364
+        },
+        {
+            "name": "Libya",
+            "nameCode": "LBA",
+            "current_ranking": 121,
+            "current_points": 1153.97,
+            "previous_ranking": 117,
+            "previous_points": 1165.73,
+            "growth_point": -11.759999999999991
+        },
+        {
+            "name": "Estonia",
+            "nameCode": "EST",
+            "current_ranking": 122,
+            "current_points": 1140.39,
+            "previous_ranking": 123,
+            "previous_points": 1146.47,
+            "growth_point": -6.079999999999927
+        },
+        {
+            "name": "Cyprus",
+            "nameCode": "CYP",
+            "current_ranking": 123,
+            "current_points": 1137.06,
+            "previous_ranking": 127,
+            "previous_points": 1136.78,
+            "growth_point": 0.2799999999999727
+        },
+        {
+            "name": "Zimbabwe",
+            "nameCode": "ZIM",
+            "current_ranking": 124,
+            "current_points": 1134.99,
+            "previous_ranking": 129,
+            "previous_points": 1126.15,
+            "growth_point": 8.839999999999918
+        },
+        {
+            "name": "Sierra Leone",
+            "nameCode": "SLE",
+            "current_ranking": 125,
+            "current_points": 1134.26,
+            "previous_ranking": 122,
+            "previous_points": 1149.4,
+            "growth_point": -15.1400000000001
+        },
+        {
+            "name": "India",
+            "nameCode": "IND",
+            "current_ranking": 126,
+            "current_points": 1133.52,
+            "previous_ranking": 124,
+            "previous_points": 1139.39,
+            "growth_point": -5.870000000000118
+        },
+        {
+            "name": "Niger",
+            "nameCode": "NIG",
+            "current_ranking": 127,
+            "current_points": 1132.39,
+            "previous_ranking": 125,
+            "previous_points": 1139.21,
+            "growth_point": -6.819999999999936
+        },
+        {
+            "name": "Central African Republic",
+            "nameCode": "CAF",
+            "current_ranking": 128,
+            "current_points": 1130.7,
+            "previous_ranking": 128,
+            "previous_points": 1129.3,
+            "growth_point": 1.400000000000091
+        },
+        {
+            "name": "Indonesia",
+            "nameCode": "INA",
+            "current_ranking": 129,
+            "current_points": 1124.17,
+            "previous_ranking": 133,
+            "previous_points": 1108.73,
+            "growth_point": 15.440000000000055
+        },
+        {
+            "name": "Rwanda",
+            "nameCode": "RWA",
+            "current_ranking": 130,
+            "current_points": 1123.32,
+            "previous_ranking": 131,
+            "previous_points": 1114.15,
+            "growth_point": 9.169999999999845
+        },
+        {
+            "name": "Nicaragua",
+            "nameCode": "NCA",
+            "current_ranking": 131,
+            "current_points": 1118.04,
+            "previous_ranking": 130,
+            "previous_points": 1119.88,
+            "growth_point": -1.8400000000001455
+        },
+        {
+            "name": "Malaysia",
+            "nameCode": "MAS",
+            "current_ranking": 132,
+            "current_points": 1117.64,
+            "previous_ranking": 134,
+            "previous_points": 1107.58,
+            "growth_point": 10.060000000000173
+        },
+        {
+            "name": "Malawi",
+            "nameCode": "MAW",
+            "current_ranking": 133,
+            "current_points": 1117.42,
+            "previous_ranking": 126,
+            "previous_points": 1137.83,
+            "growth_point": -20.409999999999854
+        },
+        {
+            "name": "Kuwait",
+            "nameCode": "KUW",
+            "current_ranking": 134,
+            "current_points": 1111.62,
+            "previous_ranking": 136,
+            "previous_points": 1098.42,
+            "growth_point": 13.199999999999818
+        },
+        {
+            "name": "Gambia",
+            "nameCode": "GAM",
+            "current_ranking": 135,
+            "current_points": 1109.05,
+            "previous_ranking": 132,
+            "previous_points": 1112.55,
+            "growth_point": -3.5
+        },
+        {
+            "name": "Burundi",
+            "nameCode": "BDI",
+            "current_ranking": 136,
+            "current_points": 1101.79,
+            "previous_ranking": 139,
+            "previous_points": 1091.24,
+            "growth_point": 10.549999999999955
+        },
+        {
+            "name": "Latvia",
+            "nameCode": "LAT",
+            "current_ranking": 137,
+            "current_points": 1097.98,
+            "previous_ranking": 137,
+            "previous_points": 1095.98,
+            "growth_point": 2.0
+        },
+        {
+            "name": "Suriname",
+            "nameCode": "SUR",
+            "current_ranking": 138,
+            "current_points": 1094.39,
+            "previous_ranking": 140,
+            "previous_points": 1087.77,
+            "growth_point": 6.620000000000118
+        },
+        {
+            "name": "Lithuania",
+            "nameCode": "LTU",
+            "current_ranking": 139,
+            "current_points": 1090.89,
+            "previous_ranking": 135,
+            "previous_points": 1100.66,
+            "growth_point": -9.769999999999982
+        },
+        {
+            "name": "Faroe Islands",
+            "nameCode": "FRO",
+            "current_ranking": 140,
+            "current_points": 1089.51,
+            "previous_ranking": 138,
+            "previous_points": 1093.7,
+            "growth_point": -4.190000000000055
+        },
+        {
+            "name": "Saint Kitts and Nevis",
+            "nameCode": "KNA",
+            "current_ranking": 141,
+            "current_points": 1068.25,
+            "previous_ranking": 146,
+            "previous_points": 1059.53,
+            "growth_point": 8.720000000000027
+        },
+        {
+            "name": "Turkmenistan",
+            "nameCode": "TKM",
+            "current_ranking": 142,
+            "current_points": 1065.42,
+            "previous_ranking": 144,
+            "previous_points": 1065.42,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Liberia",
+            "nameCode": "LBR",
+            "current_ranking": 143,
+            "current_points": 1064.97,
+            "previous_ranking": 142,
+            "previous_points": 1067.05,
+            "growth_point": -2.0799999999999272
+        },
+        {
+            "name": "Solomon Islands",
+            "nameCode": "SOL",
+            "current_ranking": 144,
+            "current_points": 1064.11,
+            "previous_ranking": 141,
+            "previous_points": 1075.06,
+            "growth_point": -10.950000000000045
+        },
+        {
+            "name": "Ethiopia",
+            "nameCode": "ETH",
+            "current_ranking": 145,
+            "current_points": 1063.44,
+            "previous_ranking": 143,
+            "previous_points": 1066.16,
+            "growth_point": -2.7200000000000273
+        },
+        {
+            "name": "Dominican Republic",
+            "nameCode": "DOM",
+            "current_ranking": 146,
+            "current_points": 1057.75,
+            "previous_ranking": 150,
+            "previous_points": 1045.64,
+            "growth_point": 12.1099999999999
+        },
+        {
+            "name": "Botswana",
+            "nameCode": "BOT",
+            "current_ranking": 147,
+            "current_points": 1050.15,
+            "previous_ranking": 145,
+            "previous_points": 1063.64,
+            "growth_point": -13.490000000000009
+        },
+        {
+            "name": "Philippines",
+            "nameCode": "PHI",
+            "current_ranking": 148,
+            "current_points": 1050.03,
+            "previous_ranking": 147,
+            "previous_points": 1053.03,
+            "growth_point": -3.0
+        },
+        {
+            "name": "Moldova",
+            "nameCode": "MDA",
+            "current_ranking": 149,
+            "current_points": 1042.81,
+            "previous_ranking": 152,
+            "previous_points": 1033.75,
+            "growth_point": 9.059999999999945
+        },
+        {
+            "name": "Fiji",
+            "nameCode": "FIJ",
+            "current_ranking": 150,
+            "current_points": 1038.29,
+            "previous_ranking": 153,
+            "previous_points": 1033.09,
+            "growth_point": 5.2000000000000455
+        },
+        {
+            "name": "Antigua and Barbuda",
+            "nameCode": "ANT",
+            "current_ranking": 151,
+            "current_points": 1034.71,
+            "previous_ranking": 148,
+            "previous_points": 1052.8,
+            "growth_point": -18.089999999999918
+        },
+        {
+            "name": "Afghanistan",
+            "nameCode": "AFG",
+            "current_ranking": 152,
+            "current_points": 1034.37,
+            "previous_ranking": 151,
+            "previous_points": 1034.37,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Lesotho",
+            "nameCode": "LES",
+            "current_ranking": 153,
+            "current_points": 1034.02,
+            "previous_ranking": 149,
+            "previous_points": 1046.54,
+            "growth_point": -12.519999999999982
+        },
+        {
+            "name": "Puerto Rico",
+            "nameCode": "PUR",
+            "current_ranking": 154,
+            "current_points": 1021.62,
+            "previous_ranking": 157,
+            "previous_points": 1020.22,
+            "growth_point": 1.3999999999999773
+        },
+        {
+            "name": "Yemen",
+            "nameCode": "YEM",
+            "current_ranking": 155,
+            "current_points": 1021.24,
+            "previous_ranking": 156,
+            "previous_points": 1021.24,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Guyana",
+            "nameCode": "GUY",
+            "current_ranking": 156,
+            "current_points": 1019.99,
+            "previous_ranking": 154,
+            "previous_points": 1026.61,
+            "growth_point": -6.619999999999891
+        },
+        {
+            "name": "Hong Kong",
+            "nameCode": "HKG",
+            "current_ranking": 157,
+            "current_points": 1017.66,
+            "previous_ranking": 159,
+            "previous_points": 1011.91,
+            "growth_point": 5.75
+        },
+        {
+            "name": "Tahiti",
+            "nameCode": "TAH",
+            "current_ranking": 158,
+            "current_points": 1016.83,
+            "previous_ranking": 158,
+            "previous_points": 1016.83,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Eswatini",
+            "nameCode": "ESW",
+            "current_ranking": 159,
+            "current_points": 1012.17,
+            "previous_ranking": 155,
+            "previous_points": 1025.28,
+            "growth_point": -13.110000000000014
+        },
+        {
+            "name": "New Caledonia",
+            "nameCode": "NCL",
+            "current_ranking": 160,
+            "current_points": 1008.92,
+            "previous_ranking": 160,
+            "previous_points": 1008.92,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Singapore",
+            "nameCode": "SIN",
+            "current_ranking": 161,
+            "current_points": 1008.26,
+            "previous_ranking": 161,
+            "previous_points": 1008.26,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Vanuatu",
+            "nameCode": "VAN",
+            "current_ranking": 162,
+            "current_points": 1005.49,
+            "previous_ranking": 162,
+            "previous_points": 1005.49,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Maldives",
+            "nameCode": "MDV",
+            "current_ranking": 163,
+            "current_points": 1003.48,
+            "previous_ranking": 163,
+            "previous_points": 1003.48,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Saint Lucia",
+            "nameCode": "LCA",
+            "current_ranking": 164,
+            "current_points": 997.86,
+            "previous_ranking": 170,
+            "previous_points": 979.57,
+            "growth_point": 18.289999999999964
+        },
+        {
+            "name": "Cuba",
+            "nameCode": "CUB",
+            "current_ranking": 165,
+            "current_points": 991.73,
+            "previous_ranking": 167,
+            "previous_points": 984.92,
+            "growth_point": 6.810000000000059
+        },
+        {
+            "name": "Chinese Taipei",
+            "nameCode": "TPE",
+            "current_ranking": 166,
+            "current_points": 991.34,
+            "previous_ranking": 165,
+            "previous_points": 991.34,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Myanmar",
+            "nameCode": "MYA",
+            "current_ranking": 167,
+            "current_points": 988.98,
+            "previous_ranking": 166,
+            "previous_points": 988.98,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Papua New Guinea",
+            "nameCode": "PNG",
+            "current_ranking": 168,
+            "current_points": 984.23,
+            "previous_ranking": 168,
+            "previous_points": 984.23,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Andorra",
+            "nameCode": "AND",
+            "current_ranking": 169,
+            "current_points": 981.7,
+            "previous_ranking": 164,
+            "previous_points": 996.05,
+            "growth_point": -14.349999999999909
+        },
+        {
+            "name": "Bermuda",
+            "nameCode": "BER",
+            "current_ranking": 170,
+            "current_points": 973.34,
+            "previous_ranking": 171,
+            "previous_points": 971.15,
+            "growth_point": 2.1900000000000546
+        },
+        {
+            "name": "Malta",
+            "nameCode": "MLT",
+            "current_ranking": 171,
+            "current_points": 971.89,
+            "previous_ranking": 172,
+            "previous_points": 970.62,
+            "growth_point": 1.2699999999999818
+        },
+        {
+            "name": "South Sudan",
+            "nameCode": "SSD",
+            "current_ranking": 172,
+            "current_points": 967.83,
+            "previous_ranking": 169,
+            "previous_points": 980.02,
+            "growth_point": -12.18999999999994
+        },
+        {
+            "name": "Grenada",
+            "nameCode": "GRN",
+            "current_ranking": 173,
+            "current_points": 946.7,
+            "previous_ranking": 173,
+            "previous_points": 953.67,
+            "growth_point": -6.969999999999914
+        },
+        {
+            "name": "Saint Vincent and the Grenadines",
+            "nameCode": "VCT",
+            "current_ranking": 174,
+            "current_points": 945.8,
+            "previous_ranking": 174,
+            "previous_points": 938.4,
+            "growth_point": 7.399999999999977
+        },
+        {
+            "name": "Barbados",
+            "nameCode": "BAR",
+            "current_ranking": 175,
+            "current_points": 944.1,
+            "previous_ranking": 177,
+            "previous_points": 932.64,
+            "growth_point": 11.460000000000036
+        },
+        {
+            "name": "Nepal",
+            "nameCode": "NEP",
+            "current_ranking": 176,
+            "current_points": 935.93,
+            "previous_ranking": 175,
+            "previous_points": 935.93,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Chad",
+            "nameCode": "CHA",
+            "current_ranking": 177,
+            "current_points": 932.44,
+            "previous_ranking": 178,
+            "previous_points": 929.97,
+            "growth_point": 2.4700000000000273
+        },
+        {
+            "name": "Mauritius",
+            "nameCode": "MRI",
+            "current_ranking": 178,
+            "current_points": 927.57,
+            "previous_ranking": 179,
+            "previous_points": 927.94,
+            "growth_point": -0.37000000000000455
+        },
+        {
+            "name": "Montserrat",
+            "nameCode": "MSR",
+            "current_ranking": 179,
+            "current_points": 924.14,
+            "previous_ranking": 176,
+            "previous_points": 934.46,
+            "growth_point": -10.32000000000005
+        },
+        {
+            "name": "Cambodia",
+            "nameCode": "CAM",
+            "current_ranking": 180,
+            "current_points": 919.7,
+            "previous_ranking": 180,
+            "previous_points": 924.52,
+            "growth_point": -4.819999999999936
+        },
+        {
+            "name": "Dominica",
+            "nameCode": "DMA",
+            "current_ranking": 181,
+            "current_points": 916.73,
+            "previous_ranking": 181,
+            "previous_points": 912.93,
+            "growth_point": 3.800000000000068
+        },
+        {
+            "name": "Belize",
+            "nameCode": "BIZ",
+            "current_ranking": 182,
+            "current_points": 913.42,
+            "previous_ranking": 183,
+            "previous_points": 901.43,
+            "growth_point": 11.990000000000009
+        },
+        {
+            "name": "Brunei Darussalam",
+            "nameCode": "BRU",
+            "current_ranking": 183,
+            "current_points": 906.83,
+            "previous_ranking": 190,
+            "previous_points": 881.73,
+            "growth_point": 25.100000000000023
+        },
+        {
+            "name": "Bhutan",
+            "nameCode": "BHU",
+            "current_ranking": 184,
+            "current_points": 904.06,
+            "previous_ranking": 182,
+            "previous_points": 904.1,
+            "growth_point": -0.04000000000007731
+        },
+        {
+            "name": "Samoa",
+            "nameCode": "SAM",
+            "current_ranking": 185,
+            "current_points": 900.79,
+            "previous_ranking": 192,
+            "previous_points": 876.45,
+            "growth_point": 24.339999999999918
+        },
+        {
+            "name": "Bangladesh",
+            "nameCode": "BAN",
+            "current_ranking": 186,
+            "current_points": 896.71,
+            "previous_ranking": 184,
+            "previous_points": 896.67,
+            "growth_point": 0.04000000000007731
+        },
+        {
+            "name": "Laos",
+            "nameCode": "LAO",
+            "current_ranking": 187,
+            "current_points": 889.62,
+            "previous_ranking": 188,
+            "previous_points": 889.62,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Mongolia",
+            "nameCode": "MGL",
+            "current_ranking": 188,
+            "current_points": 883.57,
+            "previous_ranking": 189,
+            "previous_points": 884.92,
+            "growth_point": -1.349999999999909
+        },
+        {
+            "name": "American Samoa",
+            "nameCode": "ASA",
+            "current_ranking": 189,
+            "current_points": 883.17,
+            "previous_ranking": 187,
+            "previous_points": 890.97,
+            "growth_point": -7.800000000000068
+        },
+        {
+            "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+            "nameCode": "STP",
+            "current_ranking": 190,
+            "current_points": 878.09,
+            "previous_ranking": 191,
+            "previous_points": 878.09,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Cook Islands",
+            "nameCode": "COK",
+            "current_ranking": 191,
+            "current_points": 877.53,
+            "previous_ranking": 186,
+            "previous_points": 896.59,
+            "growth_point": -19.06000000000006
+        },
+        {
+            "name": "Djibouti",
+            "nameCode": "DJI",
+            "current_ranking": 192,
+            "current_points": 875.13,
+            "previous_ranking": 193,
+            "previous_points": 875.13,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Macau",
+            "nameCode": "MAC",
+            "current_ranking": 193,
+            "current_points": 871.52,
+            "previous_ranking": 185,
+            "previous_points": 896.62,
+            "growth_point": -25.100000000000023
+        },
+        {
+            "name": "Aruba",
+            "nameCode": "ARU",
+            "current_ranking": 194,
+            "current_points": 868.4,
+            "previous_ranking": 194,
+            "previous_points": 873.9,
+            "growth_point": -5.5
+        },
+        {
+            "name": "Cayman Islands",
+            "nameCode": "CAY",
+            "current_ranking": 195,
+            "current_points": 857.37,
+            "previous_ranking": 195,
+            "previous_points": 855.43,
+            "growth_point": 1.9400000000000546
+        },
+        {
+            "name": "East Timor",
+            "nameCode": "TLS",
+            "current_ranking": 196,
+            "current_points": 844.75,
+            "previous_ranking": 196,
+            "previous_points": 843.4,
+            "growth_point": 1.3500000000000227
+        },
+        {
+            "name": "Pakistan",
+            "nameCode": "PAK",
+            "current_ranking": 197,
+            "current_points": 842.59,
+            "previous_ranking": 197,
+            "previous_points": 842.59,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Gibraltar",
+            "nameCode": "GIB",
+            "current_ranking": 198,
+            "current_points": 842.4,
+            "previous_ranking": 198,
+            "previous_points": 836.14,
+            "growth_point": 6.259999999999991
+        },
+        {
+            "name": "Tonga",
+            "nameCode": "TGA",
+            "current_ranking": 199,
+            "current_points": 835.64,
+            "previous_ranking": 200,
+            "previous_points": 833.12,
+            "growth_point": 2.519999999999982
+        },
+        {
+            "name": "Sri Lanka",
+            "nameCode": "SRI",
+            "current_ranking": 200,
+            "current_points": 831.39,
+            "previous_ranking": 205,
+            "previous_points": 820.32,
+            "growth_point": 11.069999999999936
+        },
+        {
+            "name": "Seychelles",
+            "nameCode": "SEY",
+            "current_ranking": 201,
+            "current_points": 831.19,
+            "previous_ranking": 201,
+            "previous_points": 831.19,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Somalia",
+            "nameCode": "SOM",
+            "current_ranking": 202,
+            "current_points": 829.81,
+            "previous_ranking": 202,
+            "previous_points": 829.81,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Liechtenstein",
+            "nameCode": "LIE",
+            "current_ranking": 203,
+            "current_points": 827.19,
+            "previous_ranking": 199,
+            "previous_points": 835.83,
+            "growth_point": -8.639999999999986
+        },
+        {
+            "name": "Guam",
+            "nameCode": "GUM",
+            "current_ranking": 204,
+            "current_points": 821.91,
+            "previous_ranking": 204,
+            "previous_points": 821.91,
+            "growth_point": 0.0
+        },
+        {
+            "name": "Bahamas",
+            "nameCode": "BAH",
+            "current_ranking": 205,
+            "current_points": 817.25,
+            "previous_ranking": 203,
+            "previous_points": 823.58,
+            "growth_point": -6.330000000000041
+        },
+        {
+            "name": "Turks and Caicos Islands",
+            "nameCode": "TCA",
+            "current_ranking": 206,
+            "current_points": 802.81,
+            "previous_ranking": 206,
+            "previous_points": 817.03,
+            "growth_point": -14.220000000000027
+        },
+        {
+            "name": "US Virgin Islands",
+            "nameCode": "VIR",
+            "current_ranking": 207,
+            "current_points": 792.15,
+            "previous_ranking": 208,
+            "previous_points": 797.29,
+            "growth_point": -5.139999999999986
+        },
+        {
+            "name": "British Virgin Islands",
+            "nameCode": "IVB",
+            "current_ranking": 208,
+            "current_points": 790.63,
+            "previous_ranking": 207,
+            "previous_points": 801.29,
+            "growth_point": -10.659999999999968
+        },
+        {
+            "name": "Anguilla",
+            "nameCode": "AIA",
+            "current_ranking": 209,
+            "current_points": 782.08,
+            "previous_ranking": 209,
+            "previous_points": 779.86,
+            "growth_point": 2.2200000000000273
+        },
+        {
+            "name": "San Marino",
+            "nameCode": "SMR",
+            "current_ranking": 210,
+            "current_points": 746.05,
+            "previous_ranking": 210,
+            "previous_points": 739.64,
+            "growth_point": 6.409999999999968
+        }
+    ],
+    "type": "sport_ranking",
+    "page": 1
+}

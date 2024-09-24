@@ -46,17 +46,16 @@ class ElasticHandlers(Elasticsearch):
                     # documents += [_id, row]
         return documents
 
-    def ingest_data(self, documents:list, string_id:str, index:str=None, pipeline:str="ent-search-generic-ingestion"):
+    def ingest_data(self, documents:list, string_id:str, updatable_fieds:dict, index:str=None, pipeline:str="ent-search-generic-ingestion"):
         try:
             for row in documents:
+                doc = {}
                 _id = row[string_id]
+                for field in updatable_fieds:
+                    doc[field] = row[field]
                 self.es.update(index=index, 
                                id=_id, 
-                               doc={
-                                   'popularity': row['popularity'],
-                                   'vote_average': row['vote_average'],
-                                   'vote_count': row['vote_count']
-                                }, 
+                               doc=doc, 
                                upsert=row,
                                doc_as_upsert=True)
             # self.es.bulk(operations=documents, pipeline=pipeline)

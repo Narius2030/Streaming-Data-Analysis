@@ -11,7 +11,7 @@ settings = get_settings()
 
 
 def request_movies():
-    # TODO: recieve data from API sources - transformation is optional
+    # TODO: recieve movie data from API sources (transformation is optional)
     stop_event = False
     for page in range(1,6):
         try:
@@ -31,7 +31,7 @@ def request_movies():
     
 
 def request_tvseries():
-    # TODO: recieve data from API sources - transformation is optional
+    # TODO: recieve tv-series data from API sources (transformation is optional)
     stop_event = False
     for page in range(1,6):
         try:
@@ -51,9 +51,8 @@ def request_tvseries():
         
         
 def get_ranking(data_json):
-    # Danh sách để lưu trữ tất cả các thông điệp
+    # TODO: select necessary fields in json
     all_messages = []
-    
     # Kiểm tra nếu dữ liệu hợp lệ
     if isinstance(data_json, dict) and 'rankings' in data_json:
         for ranking_item in data_json['rankings']:
@@ -73,12 +72,13 @@ def get_ranking(data_json):
 
 
 def request_sport_ranking():
+    # TODO: recieve club-rank data from API sources (transformation is optional)
     for page in range(1, 2):
         try:
             # TODO: recieve data from API sources - transformation is optional    
             conn = http.client.HTTPSConnection("footapi7.p.rapidapi.com")
             headers = {
-                'x-rapidapi-key': "a7f9745956msh7d364da5b308313p198455jsn24af2af221ef",
+                'x-rapidapi-key': settings.SPORT_RK_TOKEN,
                 'x-rapidapi-host': "footapi7.p.rapidapi.com"
             }
             conn.request("GET", "/api/rankings/fifa", headers=headers)

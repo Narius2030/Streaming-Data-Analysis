@@ -5,3 +5,4 @@ pyspark
 requests
 kafka-python
 python-dotenv
+pydantic_settings
