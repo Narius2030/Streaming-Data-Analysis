@@ -31,12 +31,12 @@ class ElasticHandlers(Elasticsearch):
                     # documents += [_id, row]
         return documents
 
-    def ingest_data(self, documents:list, string_id:str, updatable_fieds:dict, index:str=None, pipeline:str="ent-search-generic-ingestion"):
+    def ingest_data(self, documents:list, string_id:str, updatable_fields:list, index:str=None, pipeline:str="ent-search-generic-ingestion"):
         try:
             for row in documents:
                 doc = {}
                 _id = row[string_id]
-                for field in updatable_fieds:
+                for field in updatable_fields:
                     doc[field] = row[field]
                 self.es.update(index=index, 
                                id=_id, 

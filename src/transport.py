@@ -44,14 +44,13 @@ def transport():
         for task in cons_tasks:
             task.join()
         print("Films transporting threads have stopped ✔")
+        
     except Exception as exc:
         print(str(exc) + '❌')
     
 if __name__=='__main__':
-    index='films'
-    
     ## TODO: run transporting
-    transport()
+    # transport()
     
     ## TODO: insert data to tmdb-index
     handler = ElasticHandlers(
@@ -59,10 +58,10 @@ if __name__=='__main__':
         api_key=settings.TMDB_INDEX_KEY,
     )
     filepathes = glob.glob("./logs/movie*.json") + glob.glob("./logs/tvseries*.json")
-    documents = handler.create_documents(index=index, filepathes=filepathes)
+    documents = handler.create_documents(index='films', filepathes=filepathes)
     
     updatable_fields = ['popularity','vote_average','vote_count']
-    handler.ingest_data(index="tmdb-index", documents=documents, string_id='id')
+    handler.ingest_data(index="tmdb-index", updatable_fields=updatable_fields, documents=documents, string_id='id')
     
     ## TODO: insert data to sport-ranking
     handler = ElasticHandlers(
@@ -73,4 +72,4 @@ if __name__=='__main__':
     documents = handler.create_documents(index="sport-ranking", filepathes=filepathes)
     
     updatable_fields = ['current_ranking','current_points','previous_ranking', 'previous_points', 'growth_point']
-    handler.ingest_data(index="sport-ranking", updatable_fieds=updatable_fields, documents=documents, string_id='nameCode')
+    handler.ingest_data(index="sport-ranking", updatable_fields=updatable_fields, documents=documents, string_id='nameCode')

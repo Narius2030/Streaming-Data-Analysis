@@ -1,0 +1,420 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/bPnzBs4Ka1tZFCsZF3cPkzNjiLC.jpg",
+            "genre_ids": [
+                35,
+                10767
+            ],
+            "id": 122653,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Gutfeld!",
+            "overview": "Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.",
+            "popularity": 2176.6,
+            "poster_path": "/9zLuN3MfvTcABYYNJq5PkIG81S5.jpg",
+            "first_air_date": "2021-04-05",
+            "name": "Gutfeld!",
+            "vote_average": 6.0,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 36361,
+            "origin_country": [
+                "CZ"
+            ],
+            "original_language": "cs",
+            "original_name": "Ulice",
+            "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farsk\u00fd, Jord\u00e1n, Boh\u00e1\u010d, Nikl, and Li\u0161ka families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
+            "popularity": 2279.74,
+            "poster_path": "/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
+            "first_air_date": "2005-09-05",
+            "name": "Ulice",
+            "vote_average": 3.4,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/725Dh3UC4bjDTflsIxQvSx9vkLr.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 250716,
+            "origin_country": [
+                "CL"
+            ],
+            "original_language": "es",
+            "original_name": "\u00bfGanar o servir?",
+            "overview": "",
+            "popularity": 2370.638,
+            "poster_path": "/7ZhXzKBXNuFictb3XE2HZDLN9tl.jpg",
+            "first_air_date": "2024-04-21",
+            "name": "\u00bfGanar o servir?",
+            "vote_average": 9.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u4Lh4viuwHGVLFyUnY7YvwOTwl0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 252373,
+            "origin_country": [
+                "PT"
+            ],
+            "original_language": "pt",
+            "original_name": "A Promessa",
+            "overview": "",
+            "popularity": 2243.955,
+            "poster_path": "/uptgxt2apx5wwWItQzqL0HwhjZC.jpg",
+            "first_air_date": "2024-06-18",
+            "name": "A Promessa",
+            "vote_average": 8.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4qpD3fuXqL7eGclUVEwTz24eVlL.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 91221,
+            "origin_country": [
+                "DE"
+            ],
+            "original_language": "de",
+            "original_name": "Gefragt - Gejagt",
+            "overview": "",
+            "popularity": 2323.782,
+            "poster_path": "/syHMWoToYO2wuz7KrOJdN8SToG7.jpg",
+            "first_air_date": "2012-07-08",
+            "name": "Gefragt - Gejagt",
+            "vote_average": 7.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ookJ1LS8Uc0ji7cSDuJfV7Qh6Lb.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 18770,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Gran Hermano",
+            "overview": "Gran Hermano is a reality television series broadcast in Spain on Telecinco and La Siete produced by Endemol. It is part of the Big Brother franchise first developed in the Netherlands. As of February 2012, 19 editions of the show have aired.",
+            "popularity": 2004.183,
+            "poster_path": "/gQ0Emh2LT047Fip2HWye3NkrkQB.jpg",
+            "first_air_date": "2000-04-23",
+            "name": "Gran Hermano",
+            "vote_average": 4.3,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kkfqNkGQR5og5sDjJTxTVmI9PW.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 72879,
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Demain nous appartient",
+            "overview": "The story revolves around the people of S\u00e8te, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+            "popularity": 1916.488,
+            "poster_path": "/zMWldNZF0wS3L5XkDVFHxYhclcL.jpg",
+            "first_air_date": "2017-07-17",
+            "name": "Tomorrow Is Ours",
+            "vote_average": 6.2,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wCsDvlcQLwz7fzuZkfe2eS5Pgkh.jpg",
+            "genre_ids": [
+                18,
+                10759
+            ],
+            "id": 256429,
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "Pamilya Sagrado",
+            "overview": "The members of the Sagrado family live to prove they are the most powerful and influential, stopping at nothing to bury dirty secrets to keep their name faultless and sacred.",
+            "popularity": 2036.692,
+            "poster_path": "/hlRhstt3Du57qm4A30w7RkHqEXg.jpg",
+            "first_air_date": "2024-06-17",
+            "name": "Pamilya Sagrado",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1rGfdcrJOzqyBGo0HUa740L2GhX.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 247174,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "El Conde: Amor y Honor",
+            "overview": "A wrongful conviction changes the life of Alejandro Gait\u00e1n and separates him from the woman he loves, Mariana Zambrano. After 17 years in jail, he becomes a count with the help of another prisoner and seeks revenge on those who turned on him.",
+            "popularity": 2643.536,
+            "poster_path": "/lwcTD8hRx5Ch4sAmjNHmWigkaND.jpg",
+            "first_air_date": "2024-07-01",
+            "name": "El Conde: Amor y Honor",
+            "vote_average": 7.636,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6sI85zW1DWcOVVdMfAxlRS8YEpY.jpg",
+            "genre_ids": [],
+            "id": 260196,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "es",
+            "original_name": "La Isla: Desaf\u00edo Extremo",
+            "overview": "A tour across Turkey where 24 contestants face survival challenges.",
+            "popularity": 1856.771,
+            "poster_path": "/1mOLASAf5AkdYcRwe8L3uVa6yvb.jpg",
+            "first_air_date": "2024-07-30",
+            "name": "La Isla: Desaf\u00edo Extremo",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mu3lEhGovyhKHPJzb7HNYtZUCDT.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 206559,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Binnelanders",
+            "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+            "popularity": 2005.344,
+            "poster_path": "/v9nGSRx5lFz6KEgfmgHJMSgaARC.jpg",
+            "first_air_date": "2005-10-13",
+            "name": "Binnelanders",
+            "vote_average": 5.632,
+            "vote_count": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oKZAOHip2dPqRZ8EercN1966zKL.jpg",
+            "genre_ids": [
+                10766,
+                18,
+                9648
+            ],
+            "id": 237478,
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Mania de Voc\u00ea",
+            "overview": "",
+            "popularity": 1754.149,
+            "poster_path": "/cRMofv8YC4F1WnpF7cIqMpwSnwh.jpg",
+            "first_air_date": "2024-09-09",
+            "name": "Mania de Voc\u00ea",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/NNC08YmJFFlLi1prBkK8quk3dp.jpg",
+            "genre_ids": [
+                10759,
+                10765,
+                18
+            ],
+            "id": 84773,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Lord of the Rings: The Rings of Power",
+            "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+            "popularity": 2453.815,
+            "poster_path": "/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg",
+            "first_air_date": "2022-09-01",
+            "name": "The Lord of the Rings: The Rings of Power",
+            "vote_average": 7.337,
+            "vote_count": 2815
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iF1W066gp2pkPMAqNDCLpqcCXIW.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 248155,
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "\uc6a9\uac10\ubb34\uc30d \uc6a9\uc218\uc815",
+            "overview": "An ingenuous home-shopping host Yong Sujeong dreams of becoming a successful businesswoman who wins people before money. After losing her parents as a kid, she travels around the country with tinker Yong Jangwon and grows up as a strong woman full of courage. She may look fierce on the outside, but in fact, she is a softhearted, clumsy crybaby and a dork who cannot even make eye contact with her crush, Ju Ujin. Meanwhile, there is Yeo Uiju, a man who gets on her nerves by loafing around her. As a soldier, he is more logical rather than empathetic, but he passes out whenever he gets drunk. He loses his face after meeting Sujeong, who drinks like a fish, but he starts to fall for her. By a twist of fate, he realizes he is the second grandson of Masung Group, and his older brother is Sujeong's crush, Ujin.",
+            "popularity": 2404.899,
+            "poster_path": "/v0Ld4z1pn61Ojb6ujfsyTZoFNPV.jpg",
+            "first_air_date": "2024-05-06",
+            "name": "The Brave Yong Sujeong",
+            "vote_average": 7.2,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vSrR7pq1wtPw85XpiOrdNcYdtUb.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 239526,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Sue\u00f1os de libertad",
+            "overview": "",
+            "popularity": 1781.979,
+            "poster_path": "/95RVeMWMvk97PBW0msryIJC32XD.jpg",
+            "first_air_date": "2024-02-25",
+            "name": "Sue\u00f1os de libertad",
+            "vote_average": 6.3,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8hnuZvCF9M2H6tnvy6gXxM6Htd2.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 134156,
+            "origin_country": [
+                "SK",
+                "CZ"
+            ],
+            "original_language": "cs",
+            "original_name": "Love Island",
+            "overview": "",
+            "popularity": 1688.46,
+            "poster_path": "/p10tBxVHtHfSfbYOpqDZTMSvVLN.jpg",
+            "first_air_date": "2021-09-18",
+            "name": "Love Island",
+            "vote_average": 4.0,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/93R3gd0iNqnib1JKwbWXksDcMY.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "id": 255150,
+            "origin_country": [
+                "PE"
+            ],
+            "original_language": "es",
+            "original_name": "Pituca Sin Lucas",
+            "overview": "",
+            "popularity": 2039.516,
+            "poster_path": "/cjqJqODyUbul2GZL7ti2B5SVv7I.jpg",
+            "first_air_date": "2024-05-06",
+            "name": "Pituca Sin Lucas",
+            "vote_average": 8.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ohJTnu93hJ0Uonl86Wn3mOSlWXN.jpg",
+            "genre_ids": [
+                10751,
+                35,
+                18
+            ],
+            "id": 91759,
+            "origin_country": [
+                "HK"
+            ],
+            "original_language": "cn",
+            "original_name": "\u611b\u00b7\u56de\u5bb6\u4e4b\u958b\u5fc3\u901f\u905e",
+            "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
+            "popularity": 1638.898,
+            "poster_path": "/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+            "first_air_date": "2017-02-06",
+            "name": "Come Home Love: Lo and Behold",
+            "vote_average": 5.1,
+            "vote_count": 38
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pVWQHcdFuVHicmbflfMncGklvAZ.jpg",
+            "genre_ids": [
+                10767,
+                10763,
+                35
+            ],
+            "id": 138147,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "De Avondshow met Arjen Lubach",
+            "overview": "Arjen Lubach dives through the issues of the day past inspiring guests to the bottom of the news. Everyone always wants to go from the issues of the day to deepening. Arjen is really looking forward to the issues of the day.",
+            "popularity": 2250.335,
+            "poster_path": "/lXQqKsUQvgBrv9t1S3Q3CGkTUAg.jpg",
+            "first_air_date": "2022-02-21",
+            "name": "De Avondshow met Arjen Lubach",
+            "vote_average": 7.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mlX6SG7lJ0BiLui5x5Nu4agetBA.jpg",
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "id": 82708,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "Brugklas",
+            "overview": "The First Years is a Dutch series for young people in which real-life situations are recreated. The series sheds light on subjects that pupils in the first year of secondary school may be confronted with.",
+            "popularity": 1971.935,
+            "poster_path": "/klPqN1oITjVub0Yss0Kqnx8NfY3.jpg",
+            "first_air_date": "2014-05-26",
+            "name": "The First Years",
+            "vote_average": 5.5,
+            "vote_count": 6
+        }
+    ],
+    "type": "tvseries",
+    "page": 2
+}

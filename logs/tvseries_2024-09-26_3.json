@@ -1,0 +1,409 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/i8iqYtAy9qcO5RSrA1f6fY1n6SN.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 235484,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Suidooster",
+            "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+            "popularity": 1815.869,
+            "poster_path": "/naCgSiacvV685kait6fBvhVhdce.jpg",
+            "first_air_date": "2015-11-16",
+            "name": "Suidooster",
+            "vote_average": 7.5,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yWVqYVOUcS6vu22v4BPXKJW10m5.jpg",
+            "genre_ids": [
+                10764,
+                10751
+            ],
+            "id": 206679,
+            "origin_country": [
+                "CZ"
+            ],
+            "original_language": "cs",
+            "original_name": "Na lovu",
+            "overview": "Na Lovu is a Czech game-show, based on the license of the popular global format The Chase. A heart-racing quiz show where four competitors must pit their wits and face off against Lovec (the Chaser), a ruthless quiz genius determined to stop them from winning cash prizes.",
+            "popularity": 1797.742,
+            "poster_path": "/udJ1wVuOwFg1q6UBcQGwcpcdIYF.jpg",
+            "first_air_date": "2021-08-16",
+            "name": "Na lovu",
+            "vote_average": 5.9,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4zR7CfhkQ2oJgBO934u3pCnDfJY.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 257943,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "El diario de Jorge",
+            "overview": "",
+            "popularity": 1867.238,
+            "poster_path": "/cWXwHwiZXiQoykoiTGjL1COS9pV.jpg",
+            "first_air_date": "2024-07-29",
+            "name": "El diario de Jorge",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Gj33rlZRbBkuPUTrjPJbmtlEBa.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 108466,
+            "origin_country": [
+                "NO"
+            ],
+            "original_language": "no",
+            "original_name": "Alle mot alle",
+            "overview": "",
+            "popularity": 1790.631,
+            "poster_path": "/qmOYqF2ezHT1leCE91Mdm6tu3Vl.jpg",
+            "first_air_date": "2020-08-31",
+            "name": "Alle mot alle",
+            "vote_average": 8.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Bkqjc9tNWo3KLr1aRYyJ7vMQtM.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 235493,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "De Bondgenoten",
+            "overview": "",
+            "popularity": 1745.87,
+            "poster_path": "/wsipinibYxrZhpkQ6MKxIMgL0hv.jpg",
+            "first_air_date": "2023-10-22",
+            "name": "De Bondgenoten",
+            "vote_average": 6.778,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xqrNccLfZypZvaAOEuIHPWgfDCw.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 24400,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Deadly 60",
+            "overview": "Wildlife presenter Steve Backshall tracks down 60 of the world's deadliest animals.",
+            "popularity": 1618.421,
+            "poster_path": "/9OhUIi351RejCO4ddjsIbtDu6Ke.jpg",
+            "first_air_date": "2009-05-28",
+            "name": "Deadly 60",
+            "vote_average": 7.4,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sCTlziZeyf4eWXh09pt63zMtJRw.jpg",
+            "genre_ids": [
+                10759,
+                18
+            ],
+            "id": 261033,
+            "origin_country": [
+                "SY"
+            ],
+            "original_language": "ar",
+            "original_name": "\u0627\u0644\u0639\u0645\u064a\u0644",
+            "overview": "A police captain infiltrates a notorious gang, only to find himself going deeper down the rabbit hole.",
+            "popularity": 1682.292,
+            "poster_path": "/qUtgaa43jTELs0Tdw55aIukt9yn.jpg",
+            "first_air_date": "2024-08-18",
+            "name": "The Agent",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mo0RKG7lhbxPME8qksfb9ewOVUy.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 68479,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Married at First Sight UK",
+            "overview": "Working with leading relationship experts, eight British singles are carefully match-made into four married couples, who each meet each other - for the very first time - at their wedding. We'll follow them as they marry, honeymoon, meet the in-laws and set up home, all the while getting to know one another more and more deeply, to see if the matchmakers have got it right and they will have a future together.",
+            "popularity": 1665.408,
+            "poster_path": "/7VjUVCzaXr9edsow4Dlev6LFyAc.jpg",
+            "first_air_date": "2015-07-09",
+            "name": "Married at First Sight UK",
+            "vote_average": 5.0,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6RGenKnUe7UoEJLRKVAMMq2TWG.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 154828,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "Vandaag Inside",
+            "overview": "",
+            "popularity": 1241.881,
+            "poster_path": "/xEFfIcHzlxiYw8e6hXRCqskSKsG.jpg",
+            "first_air_date": "2022-01-10",
+            "name": "Vandaag Inside",
+            "vote_average": 5.1,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zvNMbGzc2Z3khr7sAU2hBzydvaR.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 31342,
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "A Fazenda",
+            "overview": "A Fazenda is the current Brazilian version of the The Farm reality television show based on the Swedish television series of the same name that was originally created in 2001 by Strix and produced in association with Sony Entertainment and Endemol.\n\nThe show is based on a group of celebrities living together twenty-four hours a day in a Farm, isolated from the outside world while having all their steps followed by cameras around-the-clock, with no privacy for three months.\n\nThe contestants compete for the chance to win the grand prize by avoiding weekly eviction, until the last celebrity remains at the end of the season that can claim the grand prize. The show is presented by news reporter Britto Junior alongside actress Chris Couto and directed by Rodrigo Carelli. Record's website and a Record-owned pay-per-view channel offer round-the-clock coverage.",
+            "popularity": 1608.87,
+            "poster_path": "/wc4IkCXCZyboTRY0ye8lwbqRF2f.jpg",
+            "first_air_date": "2009-05-31",
+            "name": "A Fazenda",
+            "vote_average": 3.0,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aRtLEHMrcbG5InnfL8l3ZdIWS5I.jpg",
+            "genre_ids": [
+                10751,
+                18
+            ],
+            "id": 246331,
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "\uc218\uc9c0\ub9de\uc740 \uc6b0\ub9ac",
+            "overview": "A healing romance begins between fallen star doctor Jin Su Ji and stubborn newbie doctor Choi U Ri.",
+            "popularity": 1565.445,
+            "poster_path": "/bGVdZ8nc99GIwCDxmXpGP0oCSzT.jpg",
+            "first_air_date": "2024-03-25",
+            "name": "Su Ji and U Ri",
+            "vote_average": 5.8,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3RC0M5ynmtrGRJBkQcYi0kjxD64.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 114439,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Let's Make a Deal",
+            "overview": "Audience members dress up in outlandish costumes to get host Wayne Brady's attention in an attempt to make deals for trips, prizes, cars or cash, while trying to avoid the dreaded Zonks.",
+            "popularity": 992.8,
+            "poster_path": "/8lQkzJCwPpB0P6GieQeojUOW6PU.jpg",
+            "first_air_date": "2009-10-05",
+            "name": "Let's Make a Deal",
+            "vote_average": 5.0,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zcq7nmObypNI7JMPOGPUx50Jrnk.jpg",
+            "genre_ids": [
+                10763,
+                10767
+            ],
+            "id": 207956,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Alex Wagner Tonight",
+            "overview": "Alex Wagner brings years of reporting experience and insight to covering the news of the day, politics and the cultural trends shaping the United States and American lives, giving viewers a better understanding of the rapidly changing world.",
+            "popularity": 1367.555,
+            "poster_path": "/4Y1CbechEKSAL0IJnPmYXH63BsW.jpg",
+            "first_air_date": "2022-08-16",
+            "name": "Alex Wagner Tonight",
+            "vote_average": 2.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jfjMtTzgaN3AtkW2ipJnbeE4rYg.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 241492,
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Estrela da Casa",
+            "overview": "",
+            "popularity": 950.04,
+            "poster_path": "/i8HkMKyuZ13i8xpMW3ZmdTXYOL0.jpg",
+            "first_air_date": "2024-08-13",
+            "name": "Estrela da Casa",
+            "vote_average": 2.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n9u72dPMB1e3IpgN3LHRaons6gw.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 79855,
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Questions pour un champion",
+            "overview": "Samuel Etienne hosts this emblematic game, which sees four candidates compete each evening around questions of general culture.",
+            "popularity": 891.385,
+            "poster_path": "/tKb3dm32wUDQmWNfygbvTkYKobb.jpg",
+            "first_air_date": "",
+            "name": "Questions pour un champion",
+            "vote_average": 4.3,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7ZBNbpkLhC2fS90j6onLS8qqfRX.jpg",
+            "genre_ids": [],
+            "id": 4682,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Strictly Come Dancing: It Takes Two",
+            "overview": "The companion show to the popular BBC One programme Strictly Come Dancing which features interviews and training footage of the couples competing in the main Saturday night show, opinions from the judges on the previous Saturday show and the training footage for the next, and interviews with celebrities who have been watching the show.",
+            "popularity": 1198.848,
+            "poster_path": "/1UOKLsJ3bopZHg6ntRfmO4C5Gcm.jpg",
+            "first_air_date": "2004-10-25",
+            "name": "Strictly Come Dancing: It Takes Two",
+            "vote_average": 4.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aXkTTQfSJVAEDK0FXXAGRMhxe4e.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 208438,
+            "origin_country": [
+                "BE"
+            ],
+            "original_language": "nl",
+            "original_name": "De Tafel van Gert",
+            "overview": "",
+            "popularity": 1191.081,
+            "poster_path": "/L1jmAIQH3xTGBcc1AqJ37x1P2e.jpg",
+            "first_air_date": "2022-09-05",
+            "name": "De Tafel van Gert",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/54PAMB4ZxSS8KrraEPtXu4bIWjL.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 30745,
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "original_name": "My Kitchen Rules",
+            "overview": "My Kitchen Rules is an Australian competitive cooking game show broadcast on the Seven Network since 2010. The series is produced by the team who created the Seven reality show My Restaurant Rules, and was put into production based on the success of Network Ten's MasterChef Australia. My Kitchen Rules has just been renewed by the Seven Network for a fifth series.",
+            "popularity": 510.197,
+            "poster_path": "/puMIggVFjjziprH6Deq4jqz67PL.jpg",
+            "first_air_date": "2010-02-01",
+            "name": "My Kitchen Rules",
+            "vote_average": 5.7,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                10759
+            ],
+            "id": 256121,
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "Lavender Fields",
+            "overview": "Jasmin loved her idyllic life in her mountain town, but a brush with a criminal empire took it all away. Now she's out for revenge with a new identity.",
+            "popularity": 1163.009,
+            "poster_path": "/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
+            "first_air_date": "2024-09-02",
+            "name": "Lavender Fields",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/upD2G9Z7W07w47c7B8ZqLqbTDc5.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 1900,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "LIVE with Kelly and Mark",
+            "overview": "A morning talk show with A-list celebrity guests, top-notch performances and one-of-a-kind segments that are unrivaled on daytime television, plus spontaneous, hilarious and unpredictable talk.",
+            "popularity": 789.211,
+            "poster_path": "/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg",
+            "first_air_date": "1988-09-05",
+            "name": "LIVE with Kelly and Mark",
+            "vote_average": 5.4,
+            "vote_count": 37
+        }
+    ],
+    "type": "tvseries",
+    "page": 3
+}

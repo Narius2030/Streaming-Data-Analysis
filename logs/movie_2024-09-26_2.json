@@ -1,0 +1,404 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/1pbV8uC6EUYOYnPqWfrQFPdAj1O.jpg",
+            "genre_ids": [
+                80,
+                28,
+                12,
+                53,
+                18
+            ],
+            "id": 1147710,
+            "original_language": "ko",
+            "original_title": "\ud558\uc774\uc7ac\ud0b9",
+            "overview": "Pilots Tae-in and Gyu-sik are set to fly to Gimpo. Under the guidance of flight attendant Ok-soon, passengers are busy boarding. However, shortly after takeoff, a homemade bomb explodes, turning the cabin into chaos.",
+            "popularity": 553.097,
+            "poster_path": "/1ahGkWMv8Cehlf3hwCSlwJdXaej.jpg",
+            "release_date": "2024-06-21",
+            "title": "Hijack 1971",
+            "video": false,
+            "vote_average": 6.611,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bizhlTVjifYQUu4Xrdt7m3TYr7d.jpg",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "id": 1226578,
+            "original_language": "en",
+            "original_title": "Longlegs",
+            "overview": "FBI Agent Lee Harker is assigned to an unsolved serial killer case that takes an unexpected turn, revealing evidence of the occult. Harker discovers a personal connection to the killer and must stop him before he strikes again.",
+            "popularity": 358.661,
+            "poster_path": "/5aj8vVGFwGVbQQs26ywhg4Zxk2L.jpg",
+            "release_date": "2024-05-31",
+            "title": "Longlegs",
+            "video": false,
+            "vote_average": 6.685,
+            "vote_count": 908
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tCQfubckzzcuCbsGugkpLhfjS5z.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 970347,
+            "original_language": "en",
+            "original_title": "The Killer",
+            "overview": "Zee is a feared contract killer known as \"the Queen of the Dead,\" but when she refuses to murder a young blind woman, she finds herself hunted both by criminal colleagues and a determined police detective.",
+            "popularity": 371.766,
+            "poster_path": "/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
+            "release_date": "2024-08-22",
+            "title": "The Killer",
+            "video": false,
+            "vote_average": 6.666,
+            "vote_count": 223
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/62zw627mH74rng9zc4tFfaR54KW.jpg",
+            "genre_ids": [
+                16,
+                878,
+                10751
+            ],
+            "id": 1184918,
+            "original_language": "en",
+            "original_title": "The Wild Robot",
+            "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+            "popularity": 516.373,
+            "poster_path": "/8RvwVVjVzx47v2waWLGPV3XYhfh.jpg",
+            "release_date": "2024-09-12",
+            "title": "The Wild Robot",
+            "video": false,
+            "vote_average": 8.283,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n3JeGELHa9V6k9mL81ItMxWLSS6.jpg",
+            "genre_ids": [
+                28,
+                53,
+                27
+            ],
+            "id": 1129598,
+            "original_language": "en",
+            "original_title": "Prey",
+            "overview": "A young couple is compelled to leave their Christian missionary station in the Kalahari Desert after being threatened with death by an extremist militant gang. After crashing their aircraft they must battle man and beast for their lives.",
+            "popularity": 327.472,
+            "poster_path": "/aOsPclgSiOqhndI2Xp2ksz2g9n6.jpg",
+            "release_date": "2024-03-15",
+            "title": "Prey",
+            "video": false,
+            "vote_average": 6.36,
+            "vote_count": 225
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jnrLpUtOKelKhmGieEBcAvrsrFB.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1114513,
+            "original_language": "en",
+            "original_title": "Speak No Evil",
+            "overview": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+            "popularity": 320.698,
+            "poster_path": "/t01TUL5X2oBNF0qjjgS4BXaWplJ.jpg",
+            "release_date": "2024-09-11",
+            "title": "Speak No Evil",
+            "video": false,
+            "vote_average": 6.914,
+            "vote_count": 192
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vJk9DOLgP23jO5mBnPHE93MFgYu.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                14,
+                35
+            ],
+            "id": 826510,
+            "original_language": "en",
+            "original_title": "Harold and the Purple Crayon",
+            "overview": "Inside of his book, adventurous Harold can make anything come to life simply by drawing it. After he grows up and draws himself off the book's pages and into the physical world, Harold finds he has a lot to learn about real life.",
+            "popularity": 340.435,
+            "poster_path": "/dEsuQOZwdaFAVL26RjgjwGl9j7m.jpg",
+            "release_date": "2024-07-31",
+            "title": "Harold and the Purple Crayon",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 127
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3EIYw4aJImgsvJsb0ybhOzLk6J3.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 1066262,
+            "original_language": "en",
+            "original_title": "The Convert",
+            "overview": "Munro, a soldier turned lay preacher, comes to New Zealand to minister to the first British colonists, but he is converted by the powerful chief Maianui to serve a different purpose.",
+            "popularity": 296.713,
+            "poster_path": "/e5ZqqPlhKstzB4geibpZh38w7Pq.jpg",
+            "release_date": "2024-03-14",
+            "title": "The Convert",
+            "video": false,
+            "vote_average": 6.066,
+            "vote_count": 76
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bM4gNeDemQnY3TujjMe1usjt4iZ.jpg",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "id": 748167,
+            "original_language": "en",
+            "original_title": "Uglies",
+            "overview": "In a futuristic dystopia with enforced beauty standards, a teen awaiting mandatory cosmetic surgery embarks on a journey to find her missing friend.",
+            "popularity": 278.263,
+            "poster_path": "/jaUu9zHtbcFwrB5Y1DNYE09HMex.jpg",
+            "release_date": "2024-09-12",
+            "title": "Uglies",
+            "video": false,
+            "vote_average": 6.028,
+            "vote_count": 390
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p5kpFS0P3lIwzwzHBOULQovNWyj.jpg",
+            "genre_ids": [
+                53,
+                80,
+                27
+            ],
+            "id": 1032823,
+            "original_language": "en",
+            "original_title": "Trap",
+            "overview": "A father and teen daughter attend a pop concert, where they realize they're at the center of a dark and sinister event.",
+            "popularity": 292.644,
+            "poster_path": "/jwoaKYVqPgYemFpaANL941EF94R.jpg",
+            "release_date": "2024-07-31",
+            "title": "Trap",
+            "video": false,
+            "vote_average": 6.505,
+            "vote_count": 1181
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h9YlRHAZWOWtGonllmj6JJg1FrE.jpg",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                10751,
+                14
+            ],
+            "id": 588648,
+            "original_language": "zh",
+            "original_title": "Dragonkeeper",
+            "overview": "Set in Han Imperial China, the plot follows the adventures of enslaved girl Ping with ancient dragon Long Danzi. Dragons had been banished from the kingdom. Ping, an orphan, finds one of the last remaining dragon eggs. Palace guards force Ping to run away in order to return the dragon egg to the ocean and save all dragons from extinction. Ping discovers that she is a true Dragonkeeper.",
+            "popularity": 314.867,
+            "poster_path": "/ggZGnJLzO3BTu7ysuuIzou3Oex5.jpg",
+            "release_date": "2024-04-11",
+            "title": "Dragonkeeper",
+            "video": false,
+            "vote_average": 7.274,
+            "vote_count": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bxwKC4qAbceMgHU1xCCTBK1eYdn.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 5492,
+            "original_language": "en",
+            "original_title": "Gunner",
+            "overview": "While on a camping trip in order to reconnect, war veteran Colonel Lee Gunner must save his two sons from a gang of violent bikers when they're kidnapped after accidentally stumbling upon to a massive drug operation.",
+            "popularity": 278.363,
+            "poster_path": "/eEkAY5veAnwxUOOlpF62KawkFO9.jpg",
+            "release_date": "2024-08-16",
+            "title": "Gunner",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 82
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/orTQxcx2aoNpx1DIKTjBzpzvzd0.jpg",
+            "genre_ids": [
+                27,
+                14
+            ],
+            "id": 1130053,
+            "original_language": "en",
+            "original_title": "Cinderella's Curse",
+            "overview": "Desperate Cinderella summons her fairy godmother from an ancient flesh-bound book, seeking revenge on her evil stepmother and stepsisters who abuse and torment her daily.",
+            "popularity": 274.216,
+            "poster_path": "/xegGyjYdCcF9X1FWpfw1O1LcFnZ.jpg",
+            "release_date": "2024-05-31",
+            "title": "Cinderella's Curse",
+            "video": false,
+            "vote_average": 5.0,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6MuKvMcnNdgbfhc7HRGDbDSJuR7.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 1154762,
+            "original_language": "en",
+            "original_title": "His Three Daughters",
+            "overview": "Emotions run high when three estranged sisters reunite in a cramped New York City apartment to watch over their ailing father during his final days.",
+            "popularity": 237.595,
+            "poster_path": "/yTIHBPLQyzhgz1c2spak3btJxsg.jpg",
+            "release_date": "2024-09-05",
+            "title": "His Three Daughters",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                14
+            ],
+            "id": 1014505,
+            "original_language": "ja",
+            "original_title": "\u5287\u5834\u7248\u300c\u30aa\u30fc\u30d0\u30fc\u30ed\u30fc\u30c9\u300d\u8056\u738b\u56fd\u7de8",
+            "overview": "After twelve years of playing his favorite MMORPG game, Momonga logs in for the last time only to find himself transported into its world playing it indefinitely. Throughout his adventures, his avatar ascends to the title of Sorcerer King Ains Ooal Gown. Once prosperous but now on the brink of ruin, The Sacred Kingdom enjoyed years of peace after construction of an enormous wall protecting them from neighboring invasions. But, one day this comes to an end when the Demon Emperor Jaldabaoth arrives with an army of villainous demi-humans. Fearing invasion of their own lands, the neighboring territory of the Slane Theocracy is forced to beg their enemies at the Sorcerer Kingdom for help. Heeding the call, Momonga, now known as the Sorcerer King Ains Ooal Gown, rallies the Sorcerer Kingdom and its undead army to join the fight alongside the Sacred Kingdom and the Slane Theocracy in hopes to defeat the Demon Emperor.",
+            "popularity": 231.163,
+            "poster_path": "/fggkIB6oeVi5Mpwl0fALLVevAFN.jpg",
+            "release_date": "2024-09-20",
+            "title": "OVERLORD: The Sacred Kingdom",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4yrOyO3N55XazHQXXYoqiiPQd40.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 938614,
+            "original_language": "en",
+            "original_title": "Late Night with the Devil",
+            "overview": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
+            "popularity": 282.875,
+            "poster_path": "/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+            "release_date": "2024-03-19",
+            "title": "Late Night with the Devil",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 859
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aswBReNN2adqTiOBnvh96RCDeJP.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 959092,
+            "original_language": "fr",
+            "original_title": "Farang",
+            "overview": "Sam is a professional boxer about to get released from prison. While on parole, his past catches up with him and he has no choice but to flee. Five years later, he has rebuilt a simple life on an exotic island in Thailand with his wife and her daughter, but when he gets blackmailed by a dangerous local godfather, he must embark on a dangerous drug smuggling mission which results in a tragedy. Now he has only one purpose: to seek merciless vengeance.",
+            "popularity": 221.384,
+            "poster_path": "/u9035lysUz3ccloQt0SeIp1Mu8a.jpg",
+            "release_date": "2023-06-28",
+            "title": "Mayhem!",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 153
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8fNBsXpgMvqk75SPsZzTmIqSRxY.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 646683,
+            "original_language": "en",
+            "original_title": "The Exorcism",
+            "overview": "A troubled actor begins to unravel while shooting a supernatural horror film, leading his estranged daughter to wonder if he's slipping back into his past addictions or if there's something more sinister at play.",
+            "popularity": 202.017,
+            "poster_path": "/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg",
+            "release_date": "2024-05-30",
+            "title": "The Exorcism",
+            "video": false,
+            "vote_average": 4.909,
+            "vote_count": 182
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dJRwzUzAslW267cyA61s6oAAmpn.jpg",
+            "genre_ids": [
+                35,
+                80,
+                53
+            ],
+            "id": 1227624,
+            "original_language": "es",
+            "original_title": "Mejor viuda que mal acompa\u00f1ada",
+            "overview": "Three girlfriends, neglected and mistreated by their husbands, plan to take revenge on them with the help of an experienced man in this type of job.",
+            "popularity": 167.596,
+            "poster_path": "/qEMBuWTySJFpBgT5Psz6ppEirEY.jpg",
+            "release_date": "2024-09-06",
+            "title": "Killer Babes",
+            "video": false,
+            "vote_average": 8.125,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1LSMstNHwJnJD7tpnb8gZcgGNQR.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1164355,
+            "original_language": "id",
+            "original_title": "Lembayung",
+            "overview": "Arum and Pica, who wanted to complete their internship at Lembayung hospital, had to face mysterious terror from a woman satan who was suspected of hanged herself in the bathroom. The situation became even more tense after they asked others for help to the point where they threatened their own lives and those closest to them.",
+            "popularity": 198.409,
+            "poster_path": "/5x9LrW0yvtt6S3XovIQHgXfYvLL.jpg",
+            "release_date": "2024-09-19",
+            "title": "Lembayung",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 1
+        }
+    ],
+    "type": "movie",
+    "page": 2
+}
