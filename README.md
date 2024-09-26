@@ -1,4 +1,5 @@
 # Streaming Movie Analysis
 
-![architecture](https://github.com/user-attachments/assets/b6e882fb-dceb-46e8-9bff-ca26d0316334)
+![image](https://github.com/user-attachments/assets/21287f5d-86fe-4ba3-ba7b-2f4cd5b195c1)
+
 
