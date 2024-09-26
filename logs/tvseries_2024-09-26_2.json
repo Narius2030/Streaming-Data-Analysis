@@ -2,6 +2,27 @@
     "data": [
         {
             "adult": false,
+            "backdrop_path": "/aYXF10EsIlgY7d24BWX0I7x2zfp.jpg",
+            "genre_ids": [
+                10763,
+                35
+            ],
+            "id": 2224,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Daily Show",
+            "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+            "popularity": 2170.517,
+            "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+            "first_air_date": "1996-07-22",
+            "name": "The Daily Show",
+            "vote_average": 6.342,
+            "vote_count": 523
+        },
+        {
+            "adult": false,
             "backdrop_path": "/bPnzBs4Ka1tZFCsZF3cPkzNjiLC.jpg",
             "genre_ids": [
                 35,
@@ -219,7 +240,7 @@
             "poster_path": "/v9nGSRx5lFz6KEgfmgHJMSgaARC.jpg",
             "first_air_date": "2005-10-13",
             "name": "Binnelanders",
-            "vote_average": 5.632,
+            "vote_average": 5.6,
             "vote_count": 73
         },
         {
@@ -246,25 +267,23 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/NNC08YmJFFlLi1prBkK8quk3dp.jpg",
+            "backdrop_path": "/2Bkqjc9tNWo3KLr1aRYyJ7vMQtM.jpg",
             "genre_ids": [
-                10759,
-                10765,
-                18
+                10764
             ],
-            "id": 84773,
+            "id": 235493,
             "origin_country": [
-                "US"
+                "NL"
             ],
-            "original_language": "en",
-            "original_name": "The Lord of the Rings: The Rings of Power",
-            "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-            "popularity": 2453.815,
-            "poster_path": "/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg",
-            "first_air_date": "2022-09-01",
-            "name": "The Lord of the Rings: The Rings of Power",
-            "vote_average": 7.337,
-            "vote_count": 2815
+            "original_language": "nl",
+            "original_name": "De Bondgenoten",
+            "overview": "",
+            "popularity": 1745.87,
+            "poster_path": "/wsipinibYxrZhpkQ6MKxIMgL0hv.jpg",
+            "first_air_date": "2023-10-22",
+            "name": "De Bondgenoten",
+            "vote_average": 6.778,
+            "vote_count": 18
         },
         {
             "adult": false,
@@ -329,6 +348,26 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/mo0RKG7lhbxPME8qksfb9ewOVUy.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 68479,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Married at First Sight UK",
+            "overview": "Working with leading relationship experts, eight British singles are carefully match-made into four married couples, who each meet each other - for the very first time - at their wedding. We'll follow them as they marry, honeymoon, meet the in-laws and set up home, all the while getting to know one another more and more deeply, to see if the matchmakers have got it right and they will have a future together.",
+            "popularity": 1665.408,
+            "poster_path": "/7VjUVCzaXr9edsow4Dlev6LFyAc.jpg",
+            "first_air_date": "2015-07-09",
+            "name": "Married at First Sight UK",
+            "vote_average": 5.0,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
             "backdrop_path": "/93R3gd0iNqnib1JKwbWXksDcMY.jpg",
             "genre_ids": [
                 35,
@@ -370,49 +409,6 @@
             "name": "Come Home Love: Lo and Behold",
             "vote_average": 5.1,
             "vote_count": 38
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/pVWQHcdFuVHicmbflfMncGklvAZ.jpg",
-            "genre_ids": [
-                10767,
-                10763,
-                35
-            ],
-            "id": 138147,
-            "origin_country": [
-                "NL"
-            ],
-            "original_language": "nl",
-            "original_name": "De Avondshow met Arjen Lubach",
-            "overview": "Arjen Lubach dives through the issues of the day past inspiring guests to the bottom of the news. Everyone always wants to go from the issues of the day to deepening. Arjen is really looking forward to the issues of the day.",
-            "popularity": 2250.335,
-            "poster_path": "/lXQqKsUQvgBrv9t1S3Q3CGkTUAg.jpg",
-            "first_air_date": "2022-02-21",
-            "name": "De Avondshow met Arjen Lubach",
-            "vote_average": 7.5,
-            "vote_count": 4
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/mlX6SG7lJ0BiLui5x5Nu4agetBA.jpg",
-            "genre_ids": [
-                10766,
-                18
-            ],
-            "id": 82708,
-            "origin_country": [
-                "NL"
-            ],
-            "original_language": "nl",
-            "original_name": "Brugklas",
-            "overview": "The First Years is a Dutch series for young people in which real-life situations are recreated. The series sheds light on subjects that pupils in the first year of secondary school may be confronted with.",
-            "popularity": 1971.935,
-            "poster_path": "/klPqN1oITjVub0Yss0Kqnx8NfY3.jpg",
-            "first_air_date": "2014-05-26",
-            "name": "The First Years",
-            "vote_average": 5.5,
-            "vote_count": 6
         }
     ],
     "type": "tvseries",

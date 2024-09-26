@@ -50,7 +50,7 @@ def transport():
     
 if __name__=='__main__':
     ## TODO: run transporting
-    # transport()
+    transport()
     
     ## TODO: insert data to tmdb-index
     handler = ElasticHandlers(

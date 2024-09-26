@@ -2,6 +2,45 @@
     "data": [
         {
             "adult": false,
+            "backdrop_path": "/1LSMstNHwJnJD7tpnb8gZcgGNQR.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1164355,
+            "original_language": "id",
+            "original_title": "Lembayung",
+            "overview": "Arum and Pica, who wanted to complete their internship at Lembayung hospital, had to face mysterious terror from a woman satan who was suspected of hanged herself in the bathroom. The situation became even more tense after they asked others for help to the point where they threatened their own lives and those closest to them.",
+            "popularity": 198.409,
+            "poster_path": "/5x9LrW0yvtt6S3XovIQHgXfYvLL.jpg",
+            "release_date": "2024-09-19",
+            "title": "Lembayung",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/61yrVrkOH75fUtExDZ4Hi0KqOmc.jpg",
+            "genre_ids": [
+                27,
+                53,
+                35
+            ],
+            "id": 1225377,
+            "original_language": "en",
+            "original_title": "The Mouse Trap",
+            "overview": "It's Alex's 21st Birthday, but she's stuck at the amusement arcade on a late shift so her friends decide to surprise her, but a masked killer dressed as Mickey Mouse decides to play a game of his own with them which she must survive.",
+            "popularity": 182.823,
+            "poster_path": "/3ovFaFeojLFIl5ClqhtgYMDS8sE.jpg",
+            "release_date": "2024-08-23",
+            "title": "The Mouse Trap",
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
             "backdrop_path": "/sqfam7wEpmyG9Fx0AdVQYrLcIfy.jpg",
             "genre_ids": [
                 53,
@@ -55,65 +94,8 @@
             "release_date": "2024-09-05",
             "title": "Technoboys",
             "video": false,
-            "vote_average": 6.405,
-            "vote_count": 21
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/7VbSSy5vrmFcWxBhQFpWVakxmKG.jpg",
-            "genre_ids": [
-                18,
-                80,
-                53
-            ],
-            "id": 889737,
-            "original_language": "en",
-            "original_title": "Joker: Folie \u00e0 Deux",
-            "overview": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.",
-            "popularity": 220.407,
-            "poster_path": "/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg",
-            "release_date": "2024-10-01",
-            "title": "Joker: Folie \u00e0 Deux",
-            "video": false,
-            "vote_average": 7.5,
-            "vote_count": 2
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zKXhXrl4eArbX8P5qvedciROU6A.jpg",
-            "genre_ids": [
-                878,
-                53
-            ],
-            "id": 916728,
-            "original_language": "en",
-            "original_title": "Slingshot",
-            "overview": "An elite trio of astronauts aboard a years-long, possibly compromised mission to Saturn's moon Titan, gears up for a highly dangerous slingshot manoeuvre that will either catapult them to Titan or into deep space.",
-            "popularity": 162.581,
-            "poster_path": "/e6cCBe7DQOn9OFdFJ0eyVwSC8hR.jpg",
-            "release_date": "2024-08-30",
-            "title": "Slingshot",
-            "video": false,
-            "vote_average": 6.273,
-            "vote_count": 44
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/6MuKvMcnNdgbfhc7HRGDbDSJuR7.jpg",
-            "genre_ids": [
-                18
-            ],
-            "id": 1154762,
-            "original_language": "en",
-            "original_title": "His Three Daughters",
-            "overview": "Emotions run high when three estranged sisters reunite in a cramped New York City apartment to watch over their ailing father during his final days.",
-            "popularity": 237.595,
-            "poster_path": "/yTIHBPLQyzhgz1c2spak3btJxsg.jpg",
-            "release_date": "2024-09-05",
-            "title": "His Three Daughters",
-            "video": false,
-            "vote_average": 6.992,
-            "vote_count": 61
+            "vote_average": 6.568,
+            "vote_count": 22
         },
         {
             "adult": false,
@@ -133,7 +115,7 @@
             "title": "Joker",
             "video": false,
             "vote_average": 8.155,
-            "vote_count": 25200
+            "vote_count": 25201
         },
         {
             "adult": false,
@@ -153,7 +135,7 @@
             "title": "The Lord of the Rings: The Return of the King",
             "video": false,
             "vote_average": 8.481,
-            "vote_count": 23958
+            "vote_count": 23959
         },
         {
             "adult": false,
@@ -174,6 +156,25 @@
             "video": false,
             "vote_average": 7.2,
             "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zKXhXrl4eArbX8P5qvedciROU6A.jpg",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "id": 916728,
+            "original_language": "en",
+            "original_title": "Slingshot",
+            "overview": "An elite trio of astronauts aboard a years-long, possibly compromised mission to Saturn's moon Titan, gears up for a highly dangerous slingshot manoeuvre that will either catapult them to Titan or into deep space.",
+            "popularity": 162.581,
+            "poster_path": "/e6cCBe7DQOn9OFdFJ0eyVwSC8hR.jpg",
+            "release_date": "2024-08-30",
+            "title": "Slingshot",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 46
         },
         {
             "adult": false,
@@ -212,7 +213,7 @@
             "title": "The Lord of the Rings: The Fellowship of the Ring",
             "video": false,
             "vote_average": 8.415,
-            "vote_count": 24889
+            "vote_count": 24890
         },
         {
             "adult": false,
@@ -290,7 +291,7 @@
             "title": "MaXXXine",
             "video": false,
             "vote_average": 6.5,
-            "vote_count": 560
+            "vote_count": 561
         },
         {
             "adult": false,
@@ -310,7 +311,7 @@
             "title": "Interstellar",
             "video": false,
             "vote_average": 8.44,
-            "vote_count": 35224
+            "vote_count": 35227
         },
         {
             "adult": false,
@@ -329,25 +330,6 @@
             "video": false,
             "vote_average": 6.89,
             "vote_count": 105
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/mR8TEWw1lT2QZKb7cpxJFqlFIrd.jpg",
-            "genre_ids": [
-                18,
-                878
-            ],
-            "id": 592831,
-            "original_language": "en",
-            "original_title": "Megalopolis",
-            "overview": "Genius artist Cesar Catilina seeks to leap the City of New Rome into a utopian, idealistic future, while his opposition, Mayor Franklyn Cicero, remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare. Torn between them is socialite Julia Cicero, the mayor\u2019s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.",
-            "popularity": 129.9,
-            "poster_path": "/yZWHpr5HlKTDlPf46UH8RSlEOu9.jpg",
-            "release_date": "2024-09-25",
-            "title": "Megalopolis",
-            "video": false,
-            "vote_average": 5.545,
-            "vote_count": 11
         },
         {
             "adult": false,
@@ -370,6 +352,25 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/mR8TEWw1lT2QZKb7cpxJFqlFIrd.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "id": 592831,
+            "original_language": "en",
+            "original_title": "Megalopolis",
+            "overview": "Genius artist Cesar Catilina seeks to leap the City of New Rome into a utopian, idealistic future, while his opposition, Mayor Franklyn Cicero, remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare. Torn between them is socialite Julia Cicero, the mayor\u2019s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.",
+            "popularity": 129.9,
+            "poster_path": "/yZWHpr5HlKTDlPf46UH8RSlEOu9.jpg",
+            "release_date": "2024-09-25",
+            "title": "Megalopolis",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
             "backdrop_path": "/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
             "genre_ids": [
                 80,
@@ -386,7 +387,7 @@
             "title": "Hit Man",
             "video": false,
             "vote_average": 6.916,
-            "vote_count": 831
+            "vote_count": 832
         }
     ],
     "type": "movie",

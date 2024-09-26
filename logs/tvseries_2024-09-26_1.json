@@ -295,6 +295,28 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/NNC08YmJFFlLi1prBkK8quk3dp.jpg",
+            "genre_ids": [
+                10759,
+                10765,
+                18
+            ],
+            "id": 84773,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Lord of the Rings: The Rings of Power",
+            "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+            "popularity": 2453.815,
+            "poster_path": "/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg",
+            "first_air_date": "2022-09-01",
+            "name": "The Lord of the Rings: The Rings of Power",
+            "vote_average": 7.337,
+            "vote_count": 2816
+        },
+        {
+            "adult": false,
             "backdrop_path": "/4i3iJepkqqH5JJgTNLJdi8ke6ir.jpg",
             "genre_ids": [
                 10766
@@ -394,27 +416,6 @@
             "name": "Plus belle la vie, encore plus belle",
             "vote_average": 4.4,
             "vote_count": 7
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/aYXF10EsIlgY7d24BWX0I7x2zfp.jpg",
-            "genre_ids": [
-                10763,
-                35
-            ],
-            "id": 2224,
-            "origin_country": [
-                "US"
-            ],
-            "original_language": "en",
-            "original_name": "The Daily Show",
-            "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-            "popularity": 2170.517,
-            "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-            "first_air_date": "1996-07-22",
-            "name": "The Daily Show",
-            "vote_average": 6.352,
-            "vote_count": 522
         }
     ],
     "type": "tvseries",

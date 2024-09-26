@@ -97,8 +97,8 @@
             "release_date": "2024-09-23",
             "title": "Kill 'em All 2",
             "video": false,
-            "vote_average": 6.9,
-            "vote_count": 9
+            "vote_average": 7.2,
+            "vote_count": 11
         },
         {
             "adult": false,
@@ -161,6 +161,45 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/ebmY8j6bfTsxUdhVtTaoNITch6u.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 831395,
+            "original_language": "en",
+            "original_title": "Tuesday",
+            "overview": "A mother and her teenage daughter must confront Death when it arrives in the form of an astonishing talking bird.",
+            "popularity": 110.81,
+            "poster_path": "/zrd6blans3SqghHSxPAl7tqnaOf.jpg",
+            "release_date": "2024-06-07",
+            "title": "Tuesday",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r0QujXaZxDwTMJMcqHyHWWgCwDj.jpg",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "id": 811941,
+            "original_language": "te",
+            "original_title": "\u0c26\u0c47\u0c35\u0c30: Part 1",
+            "overview": "An epic action saga set against coastal lands, which briefs about rip-roaring, emotionally charged incidents in the periodic timeline, also comprises the titular protagonist being the rescuer to deprived and fear to evildoers.",
+            "popularity": 108.886,
+            "poster_path": "/8FBhil5ZwTT3PP0l15jyWicoxHQ.jpg",
+            "release_date": "2024-09-26",
+            "title": "Devara: Part 1",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
             "backdrop_path": "/9bqTFbiGCUBz7sDCJcbyb4cz4sD.jpg",
             "genre_ids": [
                 28,
@@ -217,8 +256,8 @@
             "release_date": "2024-07-05",
             "title": "Boneyard",
             "video": false,
-            "vote_average": 5.418,
-            "vote_count": 55
+            "vote_average": 5.446,
+            "vote_count": 56
         },
         {
             "adult": false,
@@ -236,7 +275,7 @@
             "release_date": "2024-09-18",
             "title": "Never Let Go",
             "video": false,
-            "vote_average": 4.9,
+            "vote_average": 4.889,
             "vote_count": 8
         },
         {
@@ -293,7 +332,7 @@
             "title": "Incoming",
             "video": false,
             "vote_average": 6.132,
-            "vote_count": 185
+            "vote_count": 186
         },
         {
             "adult": false,
@@ -356,45 +395,6 @@
             "video": false,
             "vote_average": 7.498,
             "vote_count": 1641
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
-            "genre_ids": [
-                28,
-                18,
-                12
-            ],
-            "id": 98,
-            "original_language": "en",
-            "original_title": "Gladiator",
-            "overview": "In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos.  Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor.  As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed.  He escapes, but is captured by slave traders.  Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.",
-            "popularity": 104.503,
-            "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
-            "release_date": "2000-05-04",
-            "title": "Gladiator",
-            "video": false,
-            "vote_average": 8.217,
-            "vote_count": 18261
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zODktecT7S3jbEW4tmjRcmlzKke.jpg",
-            "genre_ids": [
-                27,
-                53
-            ],
-            "id": 1090323,
-            "original_language": "en",
-            "original_title": "#AMFAD: All My Friends Are Dead",
-            "overview": "A group of college friends rent an Airbnb for the biggest music festival of the year. But their weekend of partying quickly takes a turn, as the group is murdered one by one, in correspondence with the seven deadly sins.",
-            "popularity": 132.084,
-            "poster_path": "/hbQPeTiRYxLNVOakBboMeCQiwQq.jpg",
-            "release_date": "2024-08-29",
-            "title": "#AMFAD: All My Friends Are Dead",
-            "video": false,
-            "vote_average": 4.667,
-            "vote_count": 6
         }
     ],
     "type": "movie",

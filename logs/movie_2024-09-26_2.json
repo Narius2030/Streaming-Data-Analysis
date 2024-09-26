@@ -2,6 +2,24 @@
     "data": [
         {
             "adult": false,
+            "backdrop_path": "/8vqmXMXsDVSkw6w3asP4Ie8JlSl.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 1091267,
+            "original_language": "en",
+            "original_title": "The Well",
+            "overview": "A young restorer travels to a small village to restore a medieval painting to its former glory. She will put her life in danger due to a curse attached to the painting.",
+            "popularity": 420.749,
+            "poster_path": "/zK1X5T7gAdXxLFhj0hYyCTVrvpU.jpg",
+            "release_date": "2024-08-01",
+            "title": "The Well",
+            "video": false,
+            "vote_average": 6.048,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
             "backdrop_path": "/1pbV8uC6EUYOYnPqWfrQFPdAj1O.jpg",
             "genre_ids": [
                 80,
@@ -39,7 +57,7 @@
             "release_date": "2024-05-31",
             "title": "Longlegs",
             "video": false,
-            "vote_average": 6.685,
+            "vote_average": 6.7,
             "vote_count": 908
         },
         {
@@ -61,26 +79,6 @@
             "video": false,
             "vote_average": 6.666,
             "vote_count": 223
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/62zw627mH74rng9zc4tFfaR54KW.jpg",
-            "genre_ids": [
-                16,
-                878,
-                10751
-            ],
-            "id": 1184918,
-            "original_language": "en",
-            "original_title": "The Wild Robot",
-            "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-            "popularity": 516.373,
-            "poster_path": "/8RvwVVjVzx47v2waWLGPV3XYhfh.jpg",
-            "release_date": "2024-09-12",
-            "title": "The Wild Robot",
-            "video": false,
-            "vote_average": 8.283,
-            "vote_count": 23
         },
         {
             "adult": false,
@@ -118,8 +116,8 @@
             "release_date": "2024-09-11",
             "title": "Speak No Evil",
             "video": false,
-            "vote_average": 6.914,
-            "vote_count": 192
+            "vote_average": 6.915,
+            "vote_count": 193
         },
         {
             "adult": false,
@@ -178,8 +176,8 @@
             "release_date": "2024-09-12",
             "title": "Uglies",
             "video": false,
-            "vote_average": 6.028,
-            "vote_count": 390
+            "vote_average": 6.023,
+            "vote_count": 393
         },
         {
             "adult": false,
@@ -198,7 +196,7 @@
             "release_date": "2024-07-31",
             "title": "Trap",
             "video": false,
-            "vote_average": 6.505,
+            "vote_average": 6.5,
             "vote_count": 1181
         },
         {
@@ -278,8 +276,8 @@
             "release_date": "2024-09-05",
             "title": "His Three Daughters",
             "video": false,
-            "vote_average": 7.0,
-            "vote_count": 61
+            "vote_average": 7.032,
+            "vote_count": 62
         },
         {
             "adult": false,
@@ -299,8 +297,8 @@
             "release_date": "2024-09-20",
             "title": "OVERLORD: The Sacred Kingdom",
             "video": false,
-            "vote_average": 0.0,
-            "vote_count": 0
+            "vote_average": 10.0,
+            "vote_count": 1
         },
         {
             "adult": false,
@@ -342,6 +340,26 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/7VbSSy5vrmFcWxBhQFpWVakxmKG.jpg",
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "id": 889737,
+            "original_language": "en",
+            "original_title": "Joker: Folie \u00e0 Deux",
+            "overview": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.",
+            "popularity": 220.407,
+            "poster_path": "/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg",
+            "release_date": "2024-10-01",
+            "title": "Joker: Folie \u00e0 Deux",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
             "backdrop_path": "/8fNBsXpgMvqk75SPsZzTmIqSRxY.jpg",
             "genre_ids": [
                 27,
@@ -378,25 +396,6 @@
             "video": false,
             "vote_average": 8.125,
             "vote_count": 17
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/1LSMstNHwJnJD7tpnb8gZcgGNQR.jpg",
-            "genre_ids": [
-                27,
-                53
-            ],
-            "id": 1164355,
-            "original_language": "id",
-            "original_title": "Lembayung",
-            "overview": "Arum and Pica, who wanted to complete their internship at Lembayung hospital, had to face mysterious terror from a woman satan who was suspected of hanged herself in the bathroom. The situation became even more tense after they asked others for help to the point where they threatened their own lives and those closest to them.",
-            "popularity": 198.409,
-            "poster_path": "/5x9LrW0yvtt6S3XovIQHgXfYvLL.jpg",
-            "release_date": "2024-09-19",
-            "title": "Lembayung",
-            "video": false,
-            "vote_average": 6.0,
-            "vote_count": 1
         }
     ],
     "type": "movie",
