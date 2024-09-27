@@ -1,0 +1,399 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/wXfAvsPZqBDJ8U78F2IAzsUxtNh.jpg",
+            "genre_ids": [
+                10751,
+                16,
+                18
+            ],
+            "id": 8587,
+            "original_language": "en",
+            "original_title": "The Lion King",
+            "overview": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be?",
+            "popularity": 98.846,
+            "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+            "release_date": "1994-06-24",
+            "title": "The Lion King",
+            "video": false,
+            "vote_average": 8.257,
+            "vote_count": 18085
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iaNoLnnpQb5SNxGc4bkQmdCvEdG.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                14,
+                12,
+                10749
+            ],
+            "id": 809,
+            "original_language": "en",
+            "original_title": "Shrek 2",
+            "overview": "Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after. Shrek and the King find it difficult to get along, and there's tension in the marriage. The Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming and plots to destroy their marriage.",
+            "popularity": 97.786,
+            "poster_path": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+            "release_date": "2004-05-19",
+            "title": "Shrek 2",
+            "video": false,
+            "vote_average": 7.28,
+            "vote_count": 12145
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 603,
+            "original_language": "en",
+            "original_title": "The Matrix",
+            "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+            "popularity": 96.845,
+            "poster_path": "/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+            "release_date": "1999-03-31",
+            "title": "The Matrix",
+            "video": false,
+            "vote_average": 8.217,
+            "vote_count": 25440
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wbW4w4HvvzDavQCjUKtLMosyNn5.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 900379,
+            "original_language": "de",
+            "original_title": "Roter Himmel",
+            "overview": "Self-important author Leon joins his best friend on a summer holiday near the Baltic Sea to complete his novel. When they arrive, they find their house is already occupied by a carefree woman who challenges Leon to open up. Meanwhile, forest wildfires rage around them and impending disaster looms.",
+            "popularity": 96.109,
+            "poster_path": "/k8NYzD01zAUsdqocjhLXbO9BSS8.jpg",
+            "release_date": "2023-04-20",
+            "title": "Afire",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9bqTFbiGCUBz7sDCJcbyb4cz4sD.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 560016,
+            "original_language": "en",
+            "original_title": "Monkey Man",
+            "overview": "Kid is an anonymous young man who ekes out a meager living in an underground fight club where, night after night, wearing a gorilla mask, he is beaten bloody by more popular fighters for cash. After years of suppressed rage, Kid discovers a way to infiltrate the enclave of the city\u2019s sinister elite. As his childhood trauma boils over, his mysteriously scarred hands unleash an explosive campaign of retribution to settle the score with the men who took everything from him.",
+            "popularity": 95.569,
+            "poster_path": "/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg",
+            "release_date": "2024-04-03",
+            "title": "Monkey Man",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 832
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 11,
+            "original_language": "en",
+            "original_title": "Star Wars",
+            "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+            "popularity": 93.867,
+            "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+            "release_date": "1977-05-25",
+            "title": "Star Wars",
+            "video": false,
+            "vote_average": 8.203,
+            "vote_count": 20418
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uLqNGzJwnj8JKkKuRM2dHWJKCtc.jpg",
+            "genre_ids": [
+                28,
+                27
+            ],
+            "id": 1029235,
+            "original_language": "en",
+            "original_title": "Azrael",
+            "overview": "In a world where no one speaks, a devout female hunts down a young woman who has escaped her imprisonment. Recaptured by its ruthless leaders, Azrael is due to be sacrificed to pacify an ancient evil deep within the surrounding wilderness.",
+            "popularity": 92.7,
+            "poster_path": "/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
+            "release_date": "2024-09-27",
+            "title": "Azrael",
+            "video": false,
+            "vote_average": 6.333,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jA8DrPoh8x50HCJBqXxYfr6jR6t.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1291932,
+            "original_language": "en",
+            "original_title": "The Air He Breathes",
+            "overview": "Still mourning her husband's death, Elizabeth moves home with daughter and meets neighbor rumored to have a dark past who is also drowning in grief.",
+            "popularity": 92.522,
+            "poster_path": "/jN0vACIW2fgUhVhtqIBxbNAbsB6.jpg",
+            "release_date": "2024-08-22",
+            "title": "The Air He Breathes",
+            "video": false,
+            "vote_average": 6.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sqYiz8VNYTU6dZhEkvf4ydxZ45X.jpg",
+            "genre_ids": [
+                27,
+                28,
+                12
+            ],
+            "id": 1087822,
+            "original_language": "en",
+            "original_title": "Hellboy: The Crooked Man",
+            "overview": "Hellboy and a rookie BPRD agent get stranded in 1950s rural Appalachia. There, they discover a small community haunted by witches, led by a local devil with a troubling connection to Hellboy's past: the Crooked Man.",
+            "popularity": 92.17,
+            "poster_path": "/iz2GabtToVB05gLTVSH7ZvFtsMM.jpg",
+            "release_date": "2024-08-30",
+            "title": "Hellboy: The Crooked Man",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 240,
+            "original_language": "en",
+            "original_title": "The Godfather Part II",
+            "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+            "popularity": 92.132,
+            "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+            "release_date": "1974-12-20",
+            "title": "The Godfather Part II",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 12293
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v2oPRCnWADeQhEAAUKD7DfMdScP.jpg",
+            "genre_ids": [
+                28,
+                878,
+                9648,
+                53
+            ],
+            "id": 720321,
+            "original_language": "en",
+            "original_title": "Breathe",
+            "overview": "Air-supply is scarce in the near future, forcing a mother and daughter to fight for survival when two strangers arrive desperate for an oxygenated haven.",
+            "popularity": 90.737,
+            "poster_path": "/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg",
+            "release_date": "2024-04-04",
+            "title": "Breathe",
+            "video": false,
+            "vote_average": 5.2,
+            "vote_count": 105
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 568124,
+            "original_language": "en",
+            "original_title": "Encanto",
+            "overview": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family\u2014every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
+            "popularity": 90.533,
+            "poster_path": "/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+            "release_date": "2021-10-13",
+            "title": "Encanto",
+            "video": false,
+            "vote_average": 7.601,
+            "vote_count": 9351
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oMiKHO3H5RixfLsiU5Vumhlp5sj.jpg",
+            "genre_ids": [
+                80,
+                10749,
+                53
+            ],
+            "id": 948549,
+            "original_language": "en",
+            "original_title": "Love Lies Bleeding",
+            "overview": "Reclusive gym manager Lou falls hard for Jackie, an ambitious bodybuilder headed through town to Las Vegas in pursuit of her dream. But their love ignites violence, pulling them deep into the web of Lou\u2019s criminal family.",
+            "popularity": 88.63,
+            "poster_path": "/p7jyFWiLyHPttqYBFAlLJwtYTYH.jpg",
+            "release_date": "2024-03-08",
+            "title": "Love Lies Bleeding",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 514
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/azDmSHPzQP61OKHzpDJ7nXrG4QP.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 1008953,
+            "original_language": "en",
+            "original_title": "Incoming",
+            "overview": "Their first week of high school. The biggest party of the year. Mistakes will be made as four teenage boys navigate a night of mayhem and debauchery.",
+            "popularity": 88.48,
+            "poster_path": "/k2ySukuAiAarLns0yttKS3jg85Y.jpg",
+            "release_date": "2024-08-22",
+            "title": "Incoming",
+            "video": false,
+            "vote_average": 6.132,
+            "vote_count": 186
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/84h6avqHvW2TgLfERuqYkQwzjp1.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1130276,
+            "original_language": "en",
+            "original_title": "Succubus",
+            "overview": "A new father going through a marital separation joins a dating app and matches with a beautiful but mysterious young woman... whose powers of seduction and manipulation entangle him in a mystery more horrifying than he could have ever imagined.",
+            "popularity": 88.053,
+            "poster_path": "/z4kaV2z2tqpbsWlGFsZLGz1OLRY.jpg",
+            "release_date": "2024-09-24",
+            "title": "Succubus",
+            "video": false,
+            "vote_average": 3.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aINel9503ompOlGKn4sIVMg09Un.jpg",
+            "genre_ids": [
+                9648,
+                27,
+                53
+            ],
+            "id": 838209,
+            "original_language": "ko",
+            "original_title": "\ud30c\ubb18",
+            "overview": "After tracing the origin of a disturbing supernatural affliction to a wealthy family's ancestral gravesite, a team of paranormal experts relocates the remains\u2014and soon discovers what happens to those who dare to mess with the wrong grave.",
+            "popularity": 85.355,
+            "poster_path": "/pQYHouPsDw32FhDLr7E3jmw0WTk.jpg",
+            "release_date": "2024-02-22",
+            "title": "Exhuma",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 334
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u7WAgKIUG6kzBxuzd3pd5od2YmK.jpg",
+            "genre_ids": [
+                35,
+                18,
+                878
+            ],
+            "id": 1143128,
+            "original_language": "en",
+            "original_title": "Omni Loop",
+            "overview": "Diagnosed with a black hole growing inside her chest and stuck in a loop reliving the last five days of her life, a 55-year-old wife and mother from Miami, Florida decides to solve time travel in order to go back and be the person she always intended to be.",
+            "popularity": 84.163,
+            "poster_path": "/aKrwq3HeyFcl5MXb7tcsileoF9I.jpg",
+            "release_date": "2024-09-20",
+            "title": "Omni Loop",
+            "video": false,
+            "vote_average": 4.308,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a8VgPlIQaX2WfUfYxhF4ItpkTO.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 812037,
+            "original_language": "fr",
+            "original_title": "L'\u00e9t\u00e9 dernier",
+            "overview": "One summer, a French teenager who has been living with his mother in the city moves in with his estranged father\u2019s family in the countryside, where he clashes with his stepmother.",
+            "popularity": 82.954,
+            "poster_path": "/tOSIz25VWSuCVIqCRV8cTVKSn7Z.jpg",
+            "release_date": "2023-09-13",
+            "title": "Last Summer",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 171
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1bRxlfuI7woxnxM8Z8LIgaKpffH.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1302017,
+            "original_language": "tl",
+            "original_title": "Uhaw",
+            "overview": "A wife learns that her husband who's in coma had an affair. She confronts the other woman but instead finds solace in her. She then realizes she's falling for her husband's mistress.",
+            "popularity": 81.227,
+            "poster_path": "/sQ0tSFqX5pWGivFVe9ahM6YM3Km.jpg",
+            "release_date": "2024-08-30",
+            "title": "Uhaw",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A6KaZEXI9NJ1nwjmzTQDkiDTDWN.jpg",
+            "genre_ids": [
+                18,
+                27,
+                53
+            ],
+            "id": 1137205,
+            "original_language": "en",
+            "original_title": "Last Straw",
+            "overview": "A rural roadside diner becomes the host of a maniacal killing spree \u2013 leaving a young waitress to clean up the mess. After hard-headed Nancy fires the staff at her dad\u2019s diner, she decides to cover the last shift of the night by herself. Little does she know, she is far from alone. The day is coming back to haunt her and when things begin to spiral out of control, she must fight for her life over the course of one long night.",
+            "popularity": 80.145,
+            "poster_path": "/hgpUvybRQzRK6UagoHNQRrO8sUg.jpg",
+            "release_date": "2024-09-20",
+            "title": "Last Straw",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 7
+        }
+    ],
+    "type": "movie",
+    "page": 5
+}

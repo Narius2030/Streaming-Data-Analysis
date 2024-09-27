@@ -1,0 +1,416 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/725Dh3UC4bjDTflsIxQvSx9vkLr.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 250716,
+            "origin_country": [
+                "CL"
+            ],
+            "original_language": "es",
+            "original_name": "\u00bfGanar o servir?",
+            "overview": "",
+            "popularity": 1422.383,
+            "poster_path": "/7ZhXzKBXNuFictb3XE2HZDLN9tl.jpg",
+            "first_air_date": "2024-04-21",
+            "name": "\u00bfGanar o servir?",
+            "vote_average": 9.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xBPjlyXRBGJVErqrip25HloiUk8.jpg",
+            "genre_ids": [
+                10764,
+                10751
+            ],
+            "id": 226658,
+            "origin_country": [
+                "MX"
+            ],
+            "original_language": "es",
+            "original_name": "La Casa de los Famosos M\u00e9xico",
+            "overview": "Different celebrities live in the same house watched by cameras 24 hours a day. They will have to overcome tests, strategize and eliminate each other so that only one can be the winner of the most famous house in Mexico.",
+            "popularity": 2268.415,
+            "poster_path": "/uFfmjmnckW4u5z2f7pDrPJuczYB.jpg",
+            "first_air_date": "2023-06-04",
+            "name": "La Casa de los Famosos M\u00e9xico",
+            "vote_average": 7.6,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4qpD3fuXqL7eGclUVEwTz24eVlL.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 91221,
+            "origin_country": [
+                "DE"
+            ],
+            "original_language": "de",
+            "original_name": "Gefragt - Gejagt",
+            "overview": "",
+            "popularity": 2341.577,
+            "poster_path": "/syHMWoToYO2wuz7KrOJdN8SToG7.jpg",
+            "first_air_date": "2012-07-08",
+            "name": "Gefragt - Gejagt",
+            "vote_average": 7.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 36361,
+            "origin_country": [
+                "CZ"
+            ],
+            "original_language": "cs",
+            "original_name": "Ulice",
+            "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farsk\u00fd, Jord\u00e1n, Boh\u00e1\u010d, Nikl, and Li\u0161ka families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
+            "popularity": 2368.963,
+            "poster_path": "/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
+            "first_air_date": "2005-09-05",
+            "name": "Ulice",
+            "vote_average": 3.4,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 14750,
+            "origin_country": [
+                "PL"
+            ],
+            "original_language": "pl",
+            "original_name": "Na Wsp\u00f3lnej",
+            "overview": "Na Wsp\u00f3lnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wsp\u00f3lna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Bar\u00e1tok k\u00f6zt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wsp\u00f3lnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wsp\u00f3lna Street.",
+            "popularity": 1362.643,
+            "poster_path": "/uksRhdaOn64bO5d33d7rcTbrhJI.jpg",
+            "first_air_date": "2003-01-27",
+            "name": "Na Wsp\u00f3lnej",
+            "vote_average": 5.3,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pVWQHcdFuVHicmbflfMncGklvAZ.jpg",
+            "genre_ids": [
+                10767,
+                10763,
+                35
+            ],
+            "id": 138147,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "De Avondshow met Arjen Lubach",
+            "overview": "Arjen Lubach dives through the issues of the day past inspiring guests to the bottom of the news. Everyone always wants to go from the issues of the day to deepening. Arjen is really looking forward to the issues of the day.",
+            "popularity": 1350.201,
+            "poster_path": "/lXQqKsUQvgBrv9t1S3Q3CGkTUAg.jpg",
+            "first_air_date": "2022-02-21",
+            "name": "De Avondshow met Arjen Lubach",
+            "vote_average": 7.5,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u4Lh4viuwHGVLFyUnY7YvwOTwl0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 252373,
+            "origin_country": [
+                "PT"
+            ],
+            "original_language": "pt",
+            "original_name": "A Promessa",
+            "overview": "",
+            "popularity": 2232.236,
+            "poster_path": "/uptgxt2apx5wwWItQzqL0HwhjZC.jpg",
+            "first_air_date": "2024-06-18",
+            "name": "A Promessa",
+            "vote_average": 8.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bPnzBs4Ka1tZFCsZF3cPkzNjiLC.jpg",
+            "genre_ids": [
+                35,
+                10767
+            ],
+            "id": 122653,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Gutfeld!",
+            "overview": "Greg Gutfeld examines the news of the day through a satiric lens fused with pop culture.",
+            "popularity": 2140.436,
+            "poster_path": "/9zLuN3MfvTcABYYNJq5PkIG81S5.jpg",
+            "first_air_date": "2021-04-05",
+            "name": "Gutfeld!",
+            "vote_average": 6.0,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aYXF10EsIlgY7d24BWX0I7x2zfp.jpg",
+            "genre_ids": [
+                10763,
+                35
+            ],
+            "id": 2224,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Daily Show",
+            "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+            "popularity": 1302.31,
+            "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+            "first_air_date": "1996-07-22",
+            "name": "The Daily Show",
+            "vote_average": 6.342,
+            "vote_count": 523
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/93R3gd0iNqnib1JKwbWXksDcMY.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "id": 255150,
+            "origin_country": [
+                "PE"
+            ],
+            "original_language": "es",
+            "original_name": "Pituca Sin Lucas",
+            "overview": "",
+            "popularity": 2055.559,
+            "poster_path": "/cjqJqODyUbul2GZL7ti2B5SVv7I.jpg",
+            "first_air_date": "2024-05-06",
+            "name": "Pituca Sin Lucas",
+            "vote_average": 8.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wCsDvlcQLwz7fzuZkfe2eS5Pgkh.jpg",
+            "genre_ids": [
+                18,
+                10759
+            ],
+            "id": 256429,
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "Pamilya Sagrado",
+            "overview": "The members of the Sagrado family live to prove they are the most powerful and influential, stopping at nothing to bury dirty secrets to keep their name faultless and sacred.",
+            "popularity": 2008.836,
+            "poster_path": "/hlRhstt3Du57qm4A30w7RkHqEXg.jpg",
+            "first_air_date": "2024-06-17",
+            "name": "Pamilya Sagrado",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mu3lEhGovyhKHPJzb7HNYtZUCDT.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 206559,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Binnelanders",
+            "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+            "popularity": 2043.963,
+            "poster_path": "/v9nGSRx5lFz6KEgfmgHJMSgaARC.jpg",
+            "first_air_date": "2005-10-13",
+            "name": "Binnelanders",
+            "vote_average": 5.6,
+            "vote_count": 73
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ookJ1LS8Uc0ji7cSDuJfV7Qh6Lb.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 18770,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Gran Hermano",
+            "overview": "Gran Hermano is a reality television series broadcast in Spain on Telecinco and La Siete produced by Endemol. It is part of the Big Brother franchise first developed in the Netherlands. As of February 2012, 19 editions of the show have aired.",
+            "popularity": 1995.325,
+            "poster_path": "/gQ0Emh2LT047Fip2HWye3NkrkQB.jpg",
+            "first_air_date": "2000-04-23",
+            "name": "Gran Hermano",
+            "vote_average": 4.3,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mlX6SG7lJ0BiLui5x5Nu4agetBA.jpg",
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "id": 82708,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "Brugklas",
+            "overview": "The First Years is a Dutch series for young people in which real-life situations are recreated. The series sheds light on subjects that pupils in the first year of secondary school may be confronted with.",
+            "popularity": 2760.709,
+            "poster_path": "/klPqN1oITjVub0Yss0Kqnx8NfY3.jpg",
+            "first_air_date": "2014-05-26",
+            "name": "The First Years",
+            "vote_average": 5.5,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kkfqNkGQR5og5sDjJTxTVmI9PW.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 72879,
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Demain nous appartient",
+            "overview": "The story revolves around the people of S\u00e8te, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+            "popularity": 1956.693,
+            "poster_path": "/zMWldNZF0wS3L5XkDVFHxYhclcL.jpg",
+            "first_air_date": "2017-07-17",
+            "name": "Tomorrow Is Ours",
+            "vote_average": 6.2,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4zR7CfhkQ2oJgBO934u3pCnDfJY.jpg",
+            "genre_ids": [
+                10767
+            ],
+            "id": 257943,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "El diario de Jorge",
+            "overview": "",
+            "popularity": 1893.21,
+            "poster_path": "/cWXwHwiZXiQoykoiTGjL1COS9pV.jpg",
+            "first_air_date": "2024-07-29",
+            "name": "El diario de Jorge",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6sI85zW1DWcOVVdMfAxlRS8YEpY.jpg",
+            "genre_ids": [],
+            "id": 260196,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "es",
+            "original_name": "La Isla: Desaf\u00edo Extremo",
+            "overview": "A tour across Turkey where 24 contestants face survival challenges.",
+            "popularity": 1814.042,
+            "poster_path": "/1mOLASAf5AkdYcRwe8L3uVa6yvb.jpg",
+            "first_air_date": "2024-07-30",
+            "name": "La Isla: Desaf\u00edo Extremo",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i8iqYtAy9qcO5RSrA1f6fY1n6SN.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 235484,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Suidooster",
+            "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+            "popularity": 1835.821,
+            "poster_path": "/naCgSiacvV685kait6fBvhVhdce.jpg",
+            "first_air_date": "2015-11-16",
+            "name": "Suidooster",
+            "vote_average": 7.5,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yWVqYVOUcS6vu22v4BPXKJW10m5.jpg",
+            "genre_ids": [
+                10764,
+                10751
+            ],
+            "id": 206679,
+            "origin_country": [
+                "CZ"
+            ],
+            "original_language": "cs",
+            "original_name": "Na lovu",
+            "overview": "Na Lovu is a Czech game-show, based on the license of the popular global format The Chase. A heart-racing quiz show where four competitors must pit their wits and face off against Lovec (the Chaser), a ruthless quiz genius determined to stop them from winning cash prizes.",
+            "popularity": 1870.514,
+            "poster_path": "/udJ1wVuOwFg1q6UBcQGwcpcdIYF.jpg",
+            "first_air_date": "2021-08-16",
+            "name": "Na lovu",
+            "vote_average": 5.9,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9Gj33rlZRbBkuPUTrjPJbmtlEBa.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 108466,
+            "origin_country": [
+                "NO"
+            ],
+            "original_language": "no",
+            "original_name": "Alle mot alle",
+            "overview": "",
+            "popularity": 1074.379,
+            "poster_path": "/qmOYqF2ezHT1leCE91Mdm6tu3Vl.jpg",
+            "first_air_date": "2020-08-31",
+            "name": "Alle mot alle",
+            "vote_average": 8.0,
+            "vote_count": 1
+        }
+    ],
+    "type": "tvseries",
+    "page": 2
+}

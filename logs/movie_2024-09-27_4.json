@@ -1,0 +1,396 @@
+{
+    "data": [
+        {
+            "adult": false,
+            "backdrop_path": "/4gOB72zD9udHk3jAR0reHwgURZp.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 1029955,
+            "original_language": "en",
+            "original_title": "Kinds of Kindness",
+            "overview": "A triptych fable following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+            "popularity": 130.069,
+            "poster_path": "/8mmpltkcG9areafsQHXaURedno3.jpg",
+            "release_date": "2024-05-30",
+            "title": "Kinds of Kindness",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 629
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mR8TEWw1lT2QZKb7cpxJFqlFIrd.jpg",
+            "genre_ids": [
+                878,
+                18
+            ],
+            "id": 592831,
+            "original_language": "en",
+            "original_title": "Megalopolis",
+            "overview": "Genius artist Cesar Catilina seeks to leap the City of New Rome into a utopian, idealistic future, while his opposition, Mayor Franklyn Cicero, remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare. Torn between them is socialite Julia Cicero, the mayor\u2019s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.",
+            "popularity": 129.9,
+            "poster_path": "/6OlTIwt6fSeQLRABU7JF5fwEioo.jpg",
+            "release_date": "2024-09-25",
+            "title": "Megalopolis",
+            "video": false,
+            "vote_average": 5.278,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vvIKttfL7SoE9rZyLkg6TaAVsDH.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1010600,
+            "original_language": "en",
+            "original_title": "The Strangers: Chapter 1",
+            "overview": "After their car breaks down in an eerie small town, a young couple are forced to spend the night in a remote cabin. Panic ensues as they are terrorized by three masked strangers who strike with no mercy and seemingly no motives.",
+            "popularity": 125.755,
+            "poster_path": "/oYsCNpW4k7Pd7ac3uQfBhr2ihtW.jpg",
+            "release_date": "2024-05-15",
+            "title": "The Strangers: Chapter 1",
+            "video": false,
+            "vote_average": 5.898,
+            "vote_count": 323
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wkPPRIducGfsbaUPsWfw0MCQdX7.jpg",
+            "genre_ids": [
+                28,
+                35,
+                12
+            ],
+            "id": 1051891,
+            "original_language": "en",
+            "original_title": "Thelma",
+            "overview": "When 93-year-old Thelma Post gets duped by a phone scammer pretending to be her grandson, she sets out on a treacherous quest across the city to reclaim what was taken from her.",
+            "popularity": 125.574,
+            "poster_path": "/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
+            "release_date": "2024-06-21",
+            "title": "Thelma",
+            "video": false,
+            "vote_average": 7.157,
+            "vote_count": 115
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+            "genre_ids": [
+                80,
+                35,
+                10749
+            ],
+            "id": 974635,
+            "original_language": "en",
+            "original_title": "Hit Man",
+            "overview": "A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.",
+            "popularity": 123.356,
+            "poster_path": "/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+            "release_date": "2024-05-16",
+            "title": "Hit Man",
+            "video": false,
+            "vote_average": 6.916,
+            "vote_count": 832
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hP3HWRujFCM2qLUYhSAJEm23ElP.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "id": 1096342,
+            "original_language": "en",
+            "original_title": "Beautiful Wedding",
+            "overview": "Abby and Travis wake after a crazy night in Vegas as accidental newlyweds! With the mob on their heels, they flee to Mexico for a wild, weird honeymoon\u2014but are they in for another disaster?",
+            "popularity": 122.446,
+            "poster_path": "/6214Uk9CZZcIibI84o5DEtbhfyk.jpg",
+            "release_date": "2024-01-24",
+            "title": "Beautiful Wedding",
+            "video": false,
+            "vote_average": 5.479,
+            "vote_count": 168
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Apb3QquCSu95DHvjxajEh8lbHgE.jpg",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "id": 1215162,
+            "original_language": "en",
+            "original_title": "Kill 'em All 2",
+            "overview": "Phillip and Suzanne are retired from the spy game, living peacefully off the grid. That's until their whereabout are discovered by Vlad the vengeful brother of their target from the first film.",
+            "popularity": 118.378,
+            "poster_path": "/s5KZqIvyjwKpTRESCVrVGkT1JX3.jpg",
+            "release_date": "2024-09-23",
+            "title": "Kill 'em All 2",
+            "video": false,
+            "vote_average": 6.786,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 680,
+            "original_language": "en",
+            "original_title": "Pulp Fiction",
+            "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+            "popularity": 118.374,
+            "poster_path": "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+            "release_date": "1994-09-10",
+            "title": "Pulp Fiction",
+            "video": false,
+            "vote_average": 8.488,
+            "vote_count": 27676
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ebmY8j6bfTsxUdhVtTaoNITch6u.jpg",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "id": 831395,
+            "original_language": "en",
+            "original_title": "Tuesday",
+            "overview": "A mother and her teenage daughter must confront Death when it arrives in the form of an astonishing talking bird.",
+            "popularity": 110.81,
+            "poster_path": "/zrd6blans3SqghHSxPAl7tqnaOf.jpg",
+            "release_date": "2024-06-07",
+            "title": "Tuesday",
+            "video": false,
+            "vote_average": 6.709,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/buawWBeKYjYfeiPoS2jIcjOrghZ.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1214509,
+            "original_language": "en",
+            "original_title": "In a Violent Nature",
+            "overview": "The enigmatic resurrection, rampage, and retribution of an undead monster in a remote wilderness unleashes an iconic new killer after a locket is removed from a collapsed fire tower that entombed its rotting corpse.",
+            "popularity": 109.162,
+            "poster_path": "/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg",
+            "release_date": "2024-05-31",
+            "title": "In a Violent Nature",
+            "video": false,
+            "vote_average": 5.739,
+            "vote_count": 184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hAQnXxOwCjgYcKRgTdYPRC8neqL.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 811941,
+            "original_language": "te",
+            "original_title": "\u0c26\u0c47\u0c35\u0c30 : part 1",
+            "overview": "Devara, a fearless man from a coastal region, embarks on a perilous journey into the treacherous world of the sea to safeguard the lives of his people. Unbeknownst to him, his brother Bhaira is plotting a conspiracy against him. As events unfold, Devara passes on his legacy to his mild-mannered and timid son, Varada.",
+            "popularity": 108.886,
+            "poster_path": "/u46N3WC11mR5vAFPcVbHg7WK05f.jpg",
+            "release_date": "2024-09-26",
+            "title": "Devara : Part 1",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ybn3jCia5XBD0ZgEM07gcUPuRNh.jpg",
+            "genre_ids": [
+                16,
+                12,
+                14,
+                10751,
+                18
+            ],
+            "id": 508883,
+            "original_language": "ja",
+            "original_title": "\u541b\u305f\u3061\u306f\u3069\u3046\u751f\u304d\u308b\u304b",
+            "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
+            "popularity": 108.806,
+            "poster_path": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+            "release_date": "2023-07-14",
+            "title": "The Boy and the Heron",
+            "video": false,
+            "vote_average": 7.498,
+            "vote_count": 1641
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ySgY4jBvZ6qchrxKnBg4M8tZp8V.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1111873,
+            "original_language": "en",
+            "original_title": "Abigail",
+            "overview": "A group of criminals kidnap a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with no normal little girl.",
+            "popularity": 107.9,
+            "poster_path": "/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+            "release_date": "2024-04-16",
+            "title": "Abigail",
+            "video": false,
+            "vote_average": 6.832,
+            "vote_count": 1053
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iFhjwFZQtOaRe21TOqLaFQBFwF2.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1337401,
+            "original_language": "tl",
+            "original_title": "Salsa Ni L",
+            "overview": "An alluring dance instructor chooses Rey, a rich businessman, over Lukas, her dance partner. But when Lukas feels something is off, he knows L is in grave danger.",
+            "popularity": 107.492,
+            "poster_path": "/8nhjgRkPZfI6HzwoYRf9Uivn0lX.jpg",
+            "release_date": "2024-10-01",
+            "title": "Salsa Ni L",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9XDgbD365BU4cFyyhLZIgyUYSId.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 1186532,
+            "original_language": "en",
+            "original_title": "The Forge",
+            "overview": "19 year old Isaiah Wright lives for basketball and video games. A year out of high school, he has no job, no plans, and no idea how to be a man. At odds with his single mother Cynthia, Isaiah is given an ultimatum \u2013 to step up or move out. Feeling the pull from his friends and the push from his mom, Isaiah is hired by Moore Fitness, unaware of how the owner will personally impact his life. With the prayers of his mother and unexpected guidance from his new mentor, Isaiah is forced to deal with his past, sacrifice his selfishness and discover how God might have a greater purpose for his life.",
+            "popularity": 105.043,
+            "poster_path": "/3mlyu5R8EnKst5UHPEx46meduNP.jpg",
+            "release_date": "2024-08-22",
+            "title": "The Forge",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b6DU3kBmicMbpNvvkqf1cHaceMF.jpg",
+            "genre_ids": [
+                27,
+                18
+            ],
+            "id": 814889,
+            "original_language": "en",
+            "original_title": "Never Let Go",
+            "overview": "As an evil takes over the world beyond their front doorstep, the only protection for a mother and her twin sons is their house and their family\u2019s protective bond.",
+            "popularity": 104.981,
+            "poster_path": "/3EpZ2ksjijmdr8BhISP03PYzNFW.jpg",
+            "release_date": "2024-09-18",
+            "title": "Never Let Go",
+            "video": false,
+            "vote_average": 5.042,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
+            "genre_ids": [
+                28,
+                18,
+                12
+            ],
+            "id": 98,
+            "original_language": "en",
+            "original_title": "Gladiator",
+            "overview": "In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos.  Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor.  As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed.  He escapes, but is captured by slave traders.  Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.",
+            "popularity": 104.503,
+            "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+            "release_date": "2000-05-04",
+            "title": "Gladiator",
+            "video": false,
+            "vote_average": 8.217,
+            "vote_count": 18262
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y0UkXU8xPjWPqn590iHD38e0TKX.jpg",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "id": 1016346,
+            "original_language": "bn",
+            "original_title": "\u09ae\u09be\u09b8\u09c1\u09a6 \u09b0\u09be\u09a8\u09be: \u09a7\u09cd\u09ac\u0982\u09b8 \u09aa\u09be\u09b9\u09be\u09a1\u09bc",
+            "overview": "Elite Bangladeshi CIA agent Masud Rana \u2013 codename MR-9 \u2013 teams up with an American CIA operative to bring down an international criminal organization headed by a ruthless businessman.",
+            "popularity": 103.621,
+            "poster_path": "/yF2g3MDacpZTMywh97qghW6Y0H4.jpg",
+            "release_date": "2023-08-25",
+            "title": "MR-9: Do or Die",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 147
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mwdt9HsCddye6xzNvccPenaenjW.jpg",
+            "genre_ids": [
+                16,
+                18,
+                35,
+                878
+            ],
+            "id": 838240,
+            "original_language": "es",
+            "original_title": "Robot Dreams",
+            "overview": "A lonely dog's friendship with his robot companion takes a sad turn when an unexpected malfunction forces him to abandon Robot at the beach. Will Dog ever meet Robot again?",
+            "popularity": 103.396,
+            "poster_path": "/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg",
+            "release_date": "2023-12-06",
+            "title": "Robot Dreams",
+            "video": false,
+            "vote_average": 8.103,
+            "vote_count": 482
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c2Gd2QwQx7IITMUoJgcckqMniqd.jpg",
+            "genre_ids": [
+                27,
+                18,
+                9648
+            ],
+            "id": 1020896,
+            "original_language": "no",
+            "original_title": "H\u00e5ndtering av ud\u00f8de",
+            "overview": "On a hot summer day in Oslo, the dead mysteriously awaken, and three families are thrown into chaos when their deceased loved ones come back to them. Who are they, and what do they want?",
+            "popularity": 100.939,
+            "poster_path": "/6XlHOx0JQNgYjuJ4YQKbrt4Gd4d.jpg",
+            "release_date": "2024-02-09",
+            "title": "Handling the Undead",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 72
+        }
+    ],
+    "type": "movie",
+    "page": 4
+}
